@@ -1,0 +1,1 @@
+I am testing to see if Obsidian GIT is set up properly. 
