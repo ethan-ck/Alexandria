@@ -33,5 +33,10 @@
   "anp-custom-rainbow-colors@@rainbow-color-8-default": "rainbow-color-8-blue",
   "anp-custom-rainbow-colors@@rainbow-color-9-default": "rainbow-color-9-lavender",
   "anuppuccin-theme-settings@@ctp-custom-rosewater@@light": "#936FDE",
-  "anuppuccin-theme-settings@@ctp-custom-rosewater@@dark": "#7449CE"
+  "anuppuccin-theme-settings@@ctp-custom-rosewater@@dark": "#7449CE",
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": false,
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-dracula",
+  "anuppuccin-theme-settings@@anp-header-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-h2-divider": false,
+  "anuppuccin-theme-settings@@anp-h1-divider": true
 }
