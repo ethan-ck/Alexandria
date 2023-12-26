@@ -1,3 +1,21 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian",
+  "obsidian-annotator",
+  "cmdr",
+  "dataview",
+  "excalibrain",
+  "obsidian-excalidraw-plugin",
+  "execute-code",
+  "obsidian-latex-suite",
+  "obsidian-extract-pdf-highlights",
+  "remember-cursor-position",
+  "obsidian-style-settings",
+  "obsidian-linter",
+  "ai-commander",
+  "obsidian-kanban",
+  "obsidian-minimal-settings",
+  "omnisearch",
+  "obsidian-outliner",
+  "cm-editor-syntax-highlight-obsidian"
 ]
