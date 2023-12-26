@@ -128,8 +128,17 @@
                 "file": "00 - Landing Page.md"
               }
             }
+          },
+          {
+            "id": "1dd995011e8b5633",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -150,10 +159,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5399831e4c828026",
+  "active": "1dd995011e8b5633",
   "lastOpenFiles": [
     "Home.md",
     "00 - Landing Page.md",

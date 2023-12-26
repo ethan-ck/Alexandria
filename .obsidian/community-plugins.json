@@ -18,5 +18,10 @@
   "obsidian-extract-pdf-highlights",
   "execute-code",
   "ai-commander",
-  "homepage"
+  "homepage",
+  "obsidian-banners",
+  "quickadd",
+  "obsidian-textgenerator-plugin",
+  "templater-obsidian",
+  "obsidian-spaced-repetition"
 ]
