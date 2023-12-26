@@ -1,17 +1,5 @@
 {
   "accentColor": "",
-  "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
-  "enabledCssSnippets": [
-    "custom-background",
-    "custom-rainbow-colors",
-    "extended-colorschemes",
-    "floating-status-bar",
-    "its-frontmatter",
-    "notion-cards",
-    "minimal-cards",
-    "floating-search-bar"
-  ],
-  "interfaceFontFamily": "Arial",
-  "baseFontSize": 15
+  "cssTheme": "AnuPpuccin"
 }
