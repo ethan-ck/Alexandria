@@ -12,5 +12,7 @@
     "minimal-cards"
   ],
   "translucency": true,
-  "interfaceFontFamily": "Arial Narrow"
+  "interfaceFontFamily": "Arial",
+  "monospaceFontFamily": "Century",
+  "textFontFamily": "Cambria"
 }
