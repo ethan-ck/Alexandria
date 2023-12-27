@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d713e518427a100d",
+        "id": "7c8b537160df1849",
         "type": "tabs",
         "children": [
           {
-            "id": "44fc129cc8e4a385",
+            "id": "b703f2a8d64ce49b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,10 +164,11 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "44fc129cc8e4a385",
+  "active": "b703f2a8d64ce49b",
   "lastOpenFiles": [
-    "textgenerator/prompts/default/getEmailNeg.md",
     "00 - Landing Page.md",
+    "Data Structures and Algorithms/Introduction.md",
+    "textgenerator/prompts/default/getEmailNeg.md",
     "textgenerator/prompts/huggingface/summarizeBART.md",
     "textgenerator/prompts/huggingface/classify-bart-large-mnli.md",
     "textgenerator/prompts/huggingface/completeTextBloom.md",
