@@ -1,18 +1,5 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "AnuPpuccin",
-  "enabledCssSnippets": [
-    "notion-cards",
-    "custom-background",
-    "extended-colorschemes",
-    "floating-search-bar",
-    "floating-status-bar",
-    "its-frontmatter",
-    "minimal-cards"
-  ],
-  "translucency": true,
-  "interfaceFontFamily": "Arial",
-  "monospaceFontFamily": "Century",
-  "textFontFamily": "Cambria"
+  "cssTheme": "AnuPpuccin"
 }
