@@ -32,7 +32,8 @@ Types of Big-O Notation
 	O(nlogn)                n log-star n
 	O(n^2)                    Quadratic
 
-	![[1280px-Comparison_computational_complexity.svg 1.png]]
+
+![[1280px-Comparison_computational_complexity.svg.png]]
 
 A Big-O Notation gives us a way to compare the time complexity of different algorithms in a independent manner. It is useful for measuring performance for hardware. 
 
