@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Untitled 1.md",
+                "file": "Data Structures and Algorithms/Array Data Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/Untitled 1.md",
+                "file": "Data Structures and Algorithms/Array Data Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/Untitled 1.md",
+                "file": "Data Structures and Algorithms/Array Data Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/Untitled 1.md"
+                "file": "Data Structures and Algorithms/Array Data Structure.md"
               }
             }
           }
@@ -154,11 +154,11 @@
   },
   "active": "57bd8286e84759f0",
   "lastOpenFiles": [
+    "Data Structures and Algorithms/Big-O Notation.md",
+    "Data Structures and Algorithms/Array Data Structure.md",
     "Data Structures and Algorithms/Sort Algorithms.md",
-    "Data Structures and Algorithms/Arrays and Big-O Notation.md",
-    "Data Structures and Algorithms/Untitled 1.md",
-    "Data Structures and Algorithms/1280px-Comparison_computational_complexity.svg.png",
     "Data Structures and Algorithms/Intro to Data Structures and Algorithms.md",
+    "Data Structures and Algorithms/1280px-Comparison_computational_complexity.svg.png",
     "00 - Landing Page.md",
     "Untitled 1",
     "Untitled",

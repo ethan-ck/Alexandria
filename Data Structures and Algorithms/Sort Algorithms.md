@@ -1,3 +1,6 @@
+
+
+
 Sort Algorithms - Bubble Sort Theory 
 
 Bubble Sort Theory does not create a new partition for an array, it works within the same array. 
@@ -5,7 +8,7 @@ Bubble Sort Theory does not create a new partition for an array, it works within
 With an array of [-15,22,59,30,1,7]
 	Bubble sort starts at the unsorted partition index. 
 
-Buble Sort will start at the first index in the array and ask if -15 is greater than 22. It is not, so nothing changes. 22 < 59, nothing changes. 59 > 30, so the 59 and 30 are switched in the array. The logic continues until the 59 is the last integer in the array. 
+Bubble Sort will start at the first index in the array and ask if -15 is greater than 22. It is not, so nothing changes. 22 < 59, nothing changes. 59 > 30, so the 59 and 30 are switched in the array. The logic continues until the 59 is the last integer in the array. 
 
 Then, the first iteration is complete and there are now two partitions, the unsorted partition and the sorted partition. The cycle will then repeat. 
 
