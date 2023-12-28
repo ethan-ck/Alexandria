@@ -1,6 +1,4 @@
 
-
-
 Sort Algorithms - Bubble Sort Theory 
 
 Bubble Sort Theory does not create a new partition for an array, it works within the same array. 

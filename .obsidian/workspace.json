@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "57bd8286e84759f0",
+            "id": "67dbd145ee9a53f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Array Data Structure.md",
+                "file": "Data Structures and Algorithms/Sort Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/Array Data Structure.md",
+                "file": "Data Structures and Algorithms/Sort Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/Array Data Structure.md",
+                "file": "Data Structures and Algorithms/Sort Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/Array Data Structure.md"
+                "file": "Data Structures and Algorithms/Sort Algorithms.md"
               }
             }
           }
@@ -152,12 +152,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57bd8286e84759f0",
+  "active": "67dbd145ee9a53f9",
   "lastOpenFiles": [
-    "Data Structures and Algorithms/Big-O Notation.md",
-    "Data Structures and Algorithms/Array Data Structure.md",
-    "Data Structures and Algorithms/Sort Algorithms.md",
     "Data Structures and Algorithms/Intro to Data Structures and Algorithms.md",
+    "Data Structures and Algorithms/Sort Algorithms.md",
+    "Data Structures and Algorithms/Recursion.md",
+    "Data Structures and Algorithms/Array Data Structure.md",
+    "Data Structures and Algorithms/Big-O Notation.md",
     "Data Structures and Algorithms/1280px-Comparison_computational_complexity.svg.png",
     "00 - Landing Page.md",
     "Untitled 1",
