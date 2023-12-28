@@ -154,8 +154,6 @@
   },
   "active": "69058bd0d2cb793d",
   "lastOpenFiles": [
-    "Programming",
-    "Data Structures and Algorithms",
     "textgenerator/prompts/huggingface/summarizeBART.md",
     "textgenerator/prompts/huggingface/completeTextBloom.md",
     "textgenerator/prompts/huggingface/classify-bart-large-mnli.md",
