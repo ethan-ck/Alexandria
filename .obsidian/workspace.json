@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/Array Data Structure.md",
+                "file": "Data Structures and Algorithms/Sort Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/Array Data Structure.md",
+                "file": "Data Structures and Algorithms/Sort Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/Array Data Structure.md"
+                "file": "Data Structures and Algorithms/Sort Algorithms.md"
               }
             }
           }
@@ -167,6 +167,8 @@
   },
   "active": "69058bd0d2cb793d",
   "lastOpenFiles": [
+    "Programming/C++",
+    "Programming/Java",
     "Programming/Python",
     "Untitled 8",
     "Data Structures and Algorithms/Recursion.md",
@@ -199,7 +201,6 @@
     "textgenerator/prompts/huggingface",
     "textgenerator/prompts/default/summarizeLarge.md",
     "textgenerator/prompts/default",
-    "textgenerator/prompts",
-    "textgenerator"
+    "textgenerator/prompts"
   ]
 }
