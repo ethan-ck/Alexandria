@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c13d52aa0473ab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structures and Algorithms/Unsorted.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/Sort Algorithms.md",
+                "file": "Data Structures and Algorithms/Unsorted.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/Sort Algorithms.md",
+                "file": "Data Structures and Algorithms/Unsorted.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/Sort Algorithms.md"
+                "file": "Data Structures and Algorithms/Unsorted.md"
               }
             }
           }
@@ -165,15 +177,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69058bd0d2cb793d",
+  "active": "9c13d52aa0473ab2",
   "lastOpenFiles": [
+    "Data Structures and Algorithms/Sort Algorithms.md",
+    "Data Structures and Algorithms/Unsorted.md",
     "Programming/C++",
     "Programming/Java",
     "Programming/Python",
     "Untitled 8",
     "Data Structures and Algorithms/Recursion.md",
     "Data Structures and Algorithms/Array Data Structure.md",
-    "Data Structures and Algorithms/Sort Algorithms.md",
     "Data Structures and Algorithms/1280px-Comparison_computational_complexity.svg.png",
     "Data Structures and Algorithms/Big-O Notation.md",
     "Data Structures and Algorithms/Intro to Data Structures and Algorithms.md",
@@ -200,7 +213,6 @@
     "textgenerator/prompts/huggingface/classify-bart-large-mnli.md",
     "textgenerator/prompts/huggingface",
     "textgenerator/prompts/default/summarizeLarge.md",
-    "textgenerator/prompts/default",
-    "textgenerator/prompts"
+    "textgenerator/prompts/default"
   ]
 }
