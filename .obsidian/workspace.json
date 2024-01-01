@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Structures and Algorithms/Unsorted.md",
+                "file": "Programming/Unsorted.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Structures and Algorithms/Unsorted.md",
+                "file": "Data Structures and Algorithms/Sort Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Structures and Algorithms/Unsorted.md",
+                "file": "Data Structures and Algorithms/Sort Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Structures and Algorithms/Unsorted.md"
+                "file": "Data Structures and Algorithms/Sort Algorithms.md"
               }
             }
           }
@@ -177,10 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c13d52aa0473ab2",
+  "active": "69058bd0d2cb793d",
   "lastOpenFiles": [
     "Data Structures and Algorithms/Sort Algorithms.md",
-    "Data Structures and Algorithms/Unsorted.md",
+    "Programming/Unsorted.md",
     "Programming/C++",
     "Programming/Java",
     "Programming/Python",
