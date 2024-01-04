@@ -7,6 +7,12 @@ In this class, there are three types of databases.
 Flat-File Databases
 A Flat-File database is the simplest form of databases. It consists of a data file that stores data in a structured way. There are multiple formats for a Flat-File database. 
 
+One such format is a flat file with a delimiter. 
+
+A delimiter is a character that separates each data entry, a comma is commonly used as a delimiter. 
+
+Another format is 
+
 Hierarchal Databases
 
 Relational Databases
