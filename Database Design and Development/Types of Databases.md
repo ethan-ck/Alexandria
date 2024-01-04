@@ -5,9 +5,7 @@ Databases do not have to be online, they can be made in a notebook or any other 
 In this class, there are three types of databases. 
 
 Flat-File Databases
-	
-
-Flat file databases 
+A Flat-File database is the simplest form of databases. It consists of a data file that stores data in a structured way. There are multiple formats for a Flat-File database. 
 
 Hierarchal Databases
 
