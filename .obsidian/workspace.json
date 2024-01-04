@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Unsorted.md",
+                "file": "Database Design and Development/Types of Databases.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Unsorted.md",
+                "file": "Database Design and Development/Types of Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Unsorted.md",
+                "file": "Database Design and Development/Types of Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Unsorted.md"
+                "file": "Database Design and Development/Types of Databases.md"
               }
             }
           }
@@ -179,8 +179,9 @@
   },
   "active": "9c13d52aa0473ab2",
   "lastOpenFiles": [
-    "Data Structures and Algorithms/Sort Algorithms.md",
     "Programming/Unsorted.md",
+    "Database Design and Development/Types of Databases.md",
+    "Data Structures and Algorithms/Sort Algorithms.md",
     "Programming/C++",
     "Programming/Java",
     "Programming/Python",
@@ -194,7 +195,7 @@
     "Programming/Papyrus/Test script.md",
     "00 - Landing Page.md",
     "Untitled 1",
-    "Untitled",
+    "Database Design and Development",
     "Testing.md",
     "textgenerator/prompts/default/summarize.md",
     "textgenerator/prompts/default/simplify.md",
