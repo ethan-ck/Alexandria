@@ -11,7 +11,9 @@ One such format is a flat file with a delimiter.
 
 A delimiter is a character that separates each data entry, a comma is commonly used as a delimiter. For example, a text document that separates each data entry with a comma. This text document would also be referred to as a CSV file. 
 
-Another format is 
+![[exampl;e.png]]
+
+Another format is
 
 Hierarchal Databases
 
