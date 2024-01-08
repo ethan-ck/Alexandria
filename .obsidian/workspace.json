@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Design and Development/Types of Databases.md",
+                "file": "Data Structures and Algorithms/Sort Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Design and Development/Types of Databases.md",
+                "file": "Data Structures and Algorithms/Sort Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Design and Development/Types of Databases.md"
+                "file": "Data Structures and Algorithms/Sort Algorithms.md"
               }
             }
           }
@@ -177,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c13d52aa0473ab2",
+  "active": "69058bd0d2cb793d",
   "lastOpenFiles": [
     "download (1).png",
     "Hierarchical-Database-Model-example.png",
@@ -201,7 +201,7 @@
     "Untitled 8",
     "Data Structures and Algorithms/Introduction.md",
     "Programming/Papyrus/Test script.md",
-    "Untitled 1",
+    "PC  Hardware Management",
     "Database Design and Development",
     "Testing.md",
     "textgenerator/prompts/default/summarize.md",
