@@ -13,8 +13,11 @@ A delimiter is a character that separates each data entry, a comma is commonly u
 
 ![[exampl;e.png]]
 
-Another type of flat data file is the fixed-width file. All the columns share a fixed width in characters
+Another type of flat data file is the fixed-width file. All the columns share a fixed width in characters. In this case, we 
+
+![[download.png]]
 
 Hierarchal Databases
+
 
 Relational Databases
