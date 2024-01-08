@@ -37,4 +37,3 @@ Another issue occurs when updating a data entry. If one person updates a data en
 
 **Relational Databases**
 
-The most popular type of databases today are called relational databases. A Relational database is a design that is based on the mathematics of set theory and predicate logic. The relational model data would be organized into tables. The tables would then define the relationship among themselves by means of repeating an attribute or column from one table in another table. 
