@@ -37,4 +37,6 @@ Another issue occurs when updating a data entry. If one person updates a data en
 
 **Relational Databases**
 
-	
+
+![[download (1).png]]
+
