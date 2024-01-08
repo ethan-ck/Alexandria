@@ -21,19 +21,18 @@ In this case, we can see that each data entry is separated into rows and columns
 
 ![[download.jpg]]
 
-  Spreadsheets are more versatile in the sense that they contain the data tools that make it possible to sort and group data. These data tools come in the form of functions. A function in Excel for example, allows the user to use pre-defined instructions to deliver a result on the selected cells. 
+Spreadsheets are more versatile in the sense that they contain the data tools that make it possible to sort and group data. These data tools come in the form of functions. A function in Excel for example, allows the user to use pre-defined instructions to deliver a result on the selected cells. 
   
 ![[Hierarchical-Database-Model-example.png]]
-The final type of non-relational databases is called the Hierarchial Database. Hierarchical databases was the most common model before the relational model was introduced. These databases operate in a similar style to file paths for computers. One "parent" table can have multiple "child" tables. 
-C:\Users\ExampleUser
+
+The final type of non-relational databases is called the Hierarchical Database. Hierarchical databases was the most common model before the relational model was introduced. These databases operate in a similar style to file paths for computers. One "parent" table can have multiple "child" tables. 
+
+C:\\Users\\ExampleUser\\Documents\\myfile.txt
+
 With all types of non-relational databases, they share common flaws. One such flaw is redundancy. 
 
 Redundancy refers to repeating the same data more than once. 
 
 Another issue occurs when updating a data entry. If one person updates a data entry, they may fail to update other versions of the database or fail to notify the correct individuals about the information (AKA data integrity).
 
-
-Hierarchal Databases
-
-
-Relational Databases
+**Relational Databases**
