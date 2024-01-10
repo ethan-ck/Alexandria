@@ -179,8 +179,6 @@
   },
   "active": "9c13d52aa0473ab2",
   "lastOpenFiles": [
-    "Networking",
-    "PC  Hardware Management",
     "exampl;e.png",
     "download.png",
     "download.jpg",
@@ -221,6 +219,7 @@
     "textgenerator/prompts/huggingface/summarizeBART.md",
     "textgenerator/prompts/huggingface/completeTextBloom.md",
     "textgenerator/prompts/huggingface/classify-bart-large-mnli.md",
-    "textgenerator/prompts/huggingface"
+    "textgenerator/prompts/huggingface",
+    "textgenerator/prompts/default"
   ]
 }
