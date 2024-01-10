@@ -40,3 +40,4 @@ Another issue occurs when updating a data entry. If one person updates a data en
 
 ![[download (1).png]]
 
+Relational databases hold 

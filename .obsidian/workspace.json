@@ -179,23 +179,23 @@
   },
   "active": "9c13d52aa0473ab2",
   "lastOpenFiles": [
+    "Data Structures and Algorithms/Big-O Notation.md",
+    "Programming/Unsorted.md",
+    "Database Design and Development/Types of Databases.md",
+    "Data Structures and Algorithms/Sort Algorithms.md",
     "Networking",
     "PC  Hardware Management",
     "exampl;e.png",
     "download.png",
     "download.jpg",
-    "Database Design and Development/Types of Databases.md",
     "download (1).png",
     "Hierarchical-Database-Model-example.png",
     "large-Hierarchical-Databases-v2-1.jpg",
     "00 - Landing Page.md",
     "Home.md",
-    "Data Structures and Algorithms/Big-O Notation.md",
-    "Data Structures and Algorithms/Sort Algorithms.md",
     "Data Structures and Algorithms/Recursion.md",
     "Data Structures and Algorithms/1280px-Comparison_computational_complexity.svg.png",
     "Data Structures and Algorithms/Intro to Data Structures and Algorithms.md",
-    "Programming/Unsorted.md",
     "Data Structures and Algorithms/Array Data Structure.md",
     "Programming/C++",
     "Programming/Java",
@@ -220,7 +220,6 @@
     "Data Structures and Algorithms",
     "textgenerator/prompts/huggingface/summarizeBART.md",
     "textgenerator/prompts/huggingface/completeTextBloom.md",
-    "textgenerator/prompts/huggingface/classify-bart-large-mnli.md",
-    "textgenerator/prompts/huggingface"
+    "textgenerator/prompts/huggingface/classify-bart-large-mnli.md"
   ]
 }
