@@ -40,4 +40,7 @@ Another issue occurs when updating a data entry. If one person updates a data en
 
 ![[download (1).png]]
 
-Relational databases hold 
+In Relational Databases, data is organized into tables. The tables define the relationships among themselves through a repetition of an attribute or column from one table to another table. 
+
+Repeating columns are called "keys"
+

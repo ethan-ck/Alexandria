@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a446046f061fb79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database Design and Development/Types of Databases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,10 +189,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c13d52aa0473ab2",
+  "active": "6a446046f061fb79",
   "lastOpenFiles": [
-    "Biology/Introduction.md",
+    "Networking/Untitled.md",
     "Database Design and Development/Types of Databases.md",
+    "Biology/Introduction.md",
     "Data Structures and Algorithms/Big-O Notation.md",
     "Programming/Unsorted.md",
     "Data Structures and Algorithms/Sort Algorithms.md",
@@ -220,7 +233,6 @@
     "Programming",
     "Data Structures and Algorithms",
     "textgenerator/prompts/huggingface/summarizeBART.md",
-    "textgenerator/prompts/huggingface/completeTextBloom.md",
-    "textgenerator/prompts/huggingface/classify-bart-large-mnli.md"
+    "textgenerator/prompts/huggingface/completeTextBloom.md"
   ]
 }
