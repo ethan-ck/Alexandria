@@ -31,7 +31,7 @@ C:\\Users\\ExampleUser\\Documents\\myfile.txt
 
 With all types of non-relational databases, they share common flaws. One such flaw is redundancy. 
 
-Redundancy refers to repeating the same data more than once. 
+Redundancy refers to repeating the same data more than once and/or inconsistent data. 
 
 Another issue occurs when updating a data entry. If one person updates a data entry, they may fail to update other versions of the database or fail to notify the correct individuals about the information (AKA data integrity).
 

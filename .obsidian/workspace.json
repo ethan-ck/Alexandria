@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Design and Development/Types of Databases.md",
+                "file": "Data Structures and Algorithms/Sort Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Design and Development/Types of Databases.md",
+                "file": "Data Structures and Algorithms/Sort Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Design and Development/Types of Databases.md"
+                "file": "Data Structures and Algorithms/Sort Algorithms.md"
               }
             }
           }
