@@ -18,10 +18,16 @@ Statement of Work SOW (oink oink)
 - History - Review of the problem, how things were handled previously, why it is no longer acceptable
 - Scope - The range of the project, broad requirements,  (what is included)
 - Constraints (The nots)
-- Objectives - (Why it is included) 
-- Task Timeline (GANTT chart) - preliminary timeline to define tasks that should be accomplished within a timeframe. (scope creep)
+- Objectives - (Why it is included) Answer the question why 
+- Task Timeline (GANTT chart) - preliminary timeline to define tasks that should be accomplished within a timeframe. (scope creep) 
+	- Gathering Data - interviews, observations, deliverables , etc... 
+	- Deliverables are the list of business rules - basic entities and attributes 
+	- Normalization ( ERD - Entity relation diagram) 
+	- Build Phys. database (DB Schema) 
+	- Testing and Security (Test results) 
+	- Installation - Working DB (Wow) 
 
-HSCOT
+HSCOT 
 
 Documentation is essential 
 2 main things to be documented 
