@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC  Hardware Management/Untitled.md",
+                "file": "PC  Hardware Management/ujn.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC  Hardware Management/Untitled.md",
+                "file": "PC  Hardware Management/ujn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC  Hardware Management/Untitled.md",
+                "file": "PC  Hardware Management/ujn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC  Hardware Management/Untitled.md"
+                "file": "PC  Hardware Management/ujn.md"
               }
             }
           }
@@ -177,10 +177,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69058bd0d2cb793d",
+  "active": "b9d2ea1c0bff347d",
   "lastOpenFiles": [
     "Database Design and Development/Chapter 1 Case Study.md",
-    "PC  Hardware Management/Untitled.md",
+    "PC  Hardware Management/ujn.md",
     "Database Design and Development/Types of Databases.md",
     "Untitled",
     "Microcomputing Applications/Working Title.md",
