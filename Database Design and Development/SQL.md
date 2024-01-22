@@ -16,9 +16,12 @@ Nouns to themes, Themes to Entities, Entities to Tables
 
 Statement of Work SOW (oink oink)
 - History - Review of the problem, how things were handled previously, why it is no longer acceptable
-- Scope - The range of the project, broad requirements, constraints (what is included)
+- Scope - The range of the project, broad requirements,  (what is included)
+- Constraints (The nots)
 - Objectives - (Why it is included) 
 - Task Timeline (GANTT chart) - preliminary timeline to define tasks that should be accomplished within a timeframe. (scope creep)
+
+HSCOT
 
 Documentation is essential 
 2 main things to be documented 
