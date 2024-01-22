@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Design and Development/SQL.md",
+                "file": "Database Design and Development/Chapter 1 Case Study.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Design and Development/SQL.md",
+                "file": "Database Design and Development/Chapter 1 Case Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Design and Development/SQL.md",
+                "file": "Database Design and Development/Chapter 1 Case Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Design and Development/SQL.md"
+                "file": "Database Design and Development/Chapter 1 Case Study.md"
               }
             }
           }
@@ -168,7 +168,7 @@
   "active": "714221f697e716de",
   "lastOpenFiles": [
     "Database Design and Development/Types of Databases.md",
-    "Database Design and Development/SQL.md",
+    "Database Design and Development/Chapter 1 Case Study.md",
     "Untitled",
     "Microcomputing Applications/Working Title.md",
     "Networking/The OSI Model.md",

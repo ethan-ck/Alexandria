@@ -27,7 +27,7 @@ Statement of Work SOW (oink oink)
 	- Testing and Security (Test results) 
 	- Installation - Working DB (Wow) 
 
-HSCOT 
+HSCOT the Pig 
 
 Documentation is essential 
 2 main things to be documented 
