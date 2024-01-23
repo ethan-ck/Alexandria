@@ -1,6 +1,6 @@
 Video from Branch Education
 
-CPU
+**CPU**
 
 Integrated Circuit/Die mounted on a printer circuit board
 
@@ -14,18 +14,18 @@ Memory Controller
 
 System Agent - Platform I/O 
 
-Motherboard
+**Motherboard**
 
 Chipset connected directly to the System Agent in the CPU
 
 Voltage Regulator Module VRM found near the CPU
 - Drop the voltage coming from the power supply
 
-Water-cooling
+**Water-cooling**
 PCB - Control Chip
 Stater
 
-Power Supply - Distributes power
+**Power Supply - Distributes power**
 
 Main transformer
 primary side high voltage
@@ -35,11 +35,11 @@ Control PCB sends adjustment signals to the S Transitions
 
 The connector will then send out wattage when necessary
 
-Graphics Card - 
+**Graphics Card -** 
 
-{CB with the GPU's integrated circuit in the center, surrounded by RAM chips 
+CB with the GPU's integrated circuit in the center, surrounded by RAM chips 
 
-GPU integrated circuit has more than a thousand solder pads that connects it to the PCB,  Wiith multiple cores 
+GPU integrated circuit has more than a thousand solder pads that connects it to the PCB,  With multiple cores 
 
 On the die is a l2 memory cache, PCIe Interface for connecting to the CPU 
 
@@ -50,14 +50,16 @@ Input power connector
 
 GPUs have thousands of cores dedicated to simple arithmetic
 
-DRAM - SSDs and Hard Drives 
-CPU communicates directly with DRAm through memory channels inside the motherboard
+**DRAM - SSDs and Hard Drives** 
+CPU communicates directly with DRAM through memory channels inside the motherboard
 
-inside DRAm Chips is a 32 memory bank 8192 columns wide by 
+inside DRAM Chips is a 32 memory bank 8192 columns wide by 
 
 Stores data using capacitors and transistors 
 
 SSDs - perm store data in arrays called 3D NAND
+
+Read/Write Head for Hard drives 
 
 
 
