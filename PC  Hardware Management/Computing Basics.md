@@ -14,6 +14,8 @@ Memory Controller
 
 System Agent - Platform I/O 
 
+More cores allow us to run multiple applications at the same time, 
+
 **Motherboard**
 
 Chipset connected directly to the System Agent in the CPU
@@ -60,11 +62,5 @@ Stores data using capacitors and transistors
 SSDs - perm store data in arrays called 3D NAND
 
 Read/Write Head for Hard drives 
-
-
-
-
-
-
 
 
