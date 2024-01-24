@@ -16,11 +16,15 @@ ARP - Address Resolution Protocol
 
 Packets and Frames
 - IP addresses are logical (variable) 
-- Packets live in the Network layer
+- Packets live in the Network layer (Ip addresses, router)
 - Frames are in the Data Link layer (Switch and data access link)
-- 
 
-TCP 3 Way Handshake 
+TCP 3 Way Handshake and TCP Flags
+- Connection 
+- SYN ad ACK 
+- SYN sends, ACK is acknowledged
+- Three steps: C1 Sends a SYN Pack,  C2 sends SYNACK, C3 sends ACK 
+- Idle scan, directs a SYN through a "zombie" computer 
 
 Troubleshooting tools 
 	ipconfig 
