@@ -1,7 +1,9 @@
 NBR Sys and Conversions 
 
 Data Encapsulation
-- 
+- Puts data inside packet 
+- "Hiding the data
+- PDU is the generic name for frame, packet or segment
 
 ARP 
 
