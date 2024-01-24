@@ -12,8 +12,13 @@ ARP - Address Resolution Protocol
 - Builds  packet with destination IP and source Ip
 - sends broadcast requests (locally) , replies are as unicast 
 - on the same network 
+- lives at layer 3 - the Network Layer (IP address, router, IP and ARP)
 
 Packets and Frames
+- IP addresses are logical (variable) 
+- Packets live in the Network layer
+- Frames are in the Data Link layer (Switch and data access link)
+- 
 
 TCP 3 Way Handshake 
 
