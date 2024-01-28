@@ -11,3 +11,7 @@ The characteristics include
 5. Reproduce and develop
 	1. 
 6. Adapt and evolve to changing conditions
+
+Species, Genus, Family order, class, phylum, kingdom, Domain 
+
+DOmain Archea and domain Bacteria contain projaroytes 
