@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Introduction.md",
+                "file": "Biology/Characteristics of Life.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Introduction.md",
+                "file": "Biology/Characteristics of Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Introduction.md",
+                "file": "Biology/Characteristics of Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Introduction.md"
+                "file": "Biology/Characteristics of Life.md"
               }
             }
           }
@@ -163,7 +163,7 @@
     "PC  Hardware Management/Computing Basics.md",
     "Untitled",
     "Data Structures and Algorithms/Sort Algorithms.md",
-    "Biology/Introduction.md",
+    "Biology/Characteristics of Life.md",
     "Data Structures and Algorithms/Big-O Notation.md",
     "Programming/Unsorted.md",
     "Networking",
