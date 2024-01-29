@@ -14,8 +14,8 @@ The characteristics include
 
 Species, Genus, Family order, class, phylum, kingdom, Domain 
 
-DOmain Archea and domain Bacteria contain projaroytes 
+Domain Archea and domain Bacteria contain prokaryotes 
 
 prokaryotes are single-celled and lack the nucleus 
 
-inductivce reasoning occurs when a person uses creative thinking to combine isolated facts into a cohesivce whole.
+inductive reasoning occurs when a person uses creative thinking to combine isolated facts into a cohesive whole.
