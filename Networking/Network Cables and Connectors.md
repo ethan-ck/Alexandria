@@ -66,9 +66,23 @@ Coaxial Cable
 - cable 
 - old, no one wants it anymore 
 - Bus (in) topologies
+- THICK (god damn)
+- not modern, expensive
+
+Fiber Optic Cable 
+- Let there be light 
+- 
 
 Topologies (LAN)
 
-1.
+1. Ring (christmas lights, all connected to one another)
+2. Bus (starts literally a line, with branching connections, think of a hallway with rooms on each side.)
+3. Star (If one pc goes down, it doesn't break the connection, all PCs connect to the middle, its the BOSS)
+4. hybrid (boring)
+5. Mesh (clusterfuck but reliable)
+
+
+
+
 
 
