@@ -71,11 +71,23 @@ Coaxial Cable
 
 Fiber Optic Cable 
 - Let there be light 
+-  expensive and hard to work with 
+
+SMF (Single Mode)
+- Faster and goes longer
+- single (duh) 
+- Very thin, thinner than a strand of hair (it's shy, don't bully its size)
+- 10 Gbs for 40 Km 
+MMF(Multi Mode Fiber)
+- not as fast and shorter
+- Multiple signals 
+- Thicker than SMF
+- Shorter Distances, Lower speeds
 - 
 
 Topologies (LAN)
 
-1. Ring (christmas lights, all connected to one another)
+1. Ring (Christmas lights, all connected to one another)
 2. Bus (starts literally a line, with branching connections, think of a hallway with rooms on each side.)
 3. Star (If one pc goes down, it doesn't break the connection, all PCs connect to the middle, its the BOSS)
 4. hybrid (boring)
