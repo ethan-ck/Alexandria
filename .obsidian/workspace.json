@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b92a98eef5f02cfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database Design and Development/Gathering Information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Network Cables and Connectors.md",
+                "file": "Database Design and Development/Gathering Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Network Cables and Connectors.md",
+                "file": "Database Design and Development/Gathering Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Network Cables and Connectors.md"
+                "file": "Database Design and Development/Gathering Information.md"
               }
             }
           }
@@ -165,10 +177,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "287052217ecc316b",
+  "active": "b92a98eef5f02cfe",
   "lastOpenFiles": [
-    "Networking/The OSI Model.md",
     "Networking/Network Cables and Connectors.md",
+    "Database Design and Development/Gathering Information.md",
+    "Networking/The OSI Model.md",
     "Biology/Characteristics of Life.md",
     "Database Design and Development/Vince's Vinyl SOW.md",
     "Networking/Untitled.md",
@@ -208,7 +221,6 @@
     "textgenerator/prompts/default/rewrite.md",
     "textgenerator/prompts/default/getTitles.md",
     "textgenerator/prompts/default/getTags.md",
-    "textgenerator/prompts/default/getParagraph.md",
     "Programming"
   ]
 }
