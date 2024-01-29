@@ -40,9 +40,18 @@ Types of Database
 - Transaction database
 	- "Favorite Retail website"
 	- "Onlyfans"
+	- Common Transactions = Add, Update, Delete, Inquiry (SQL Equivalents; INSERT, UPDATE, DELETE, SELECT)
 - Management Information System 
 	- Logistics and Reporting
 	- Extracting information to generate documents 
 - Business Intelligence 
-	- Placeholder 
+	- Mining Data to look for and analyze patterns and trends 
+	- "Inference rules"  - filters or educated guesswork to identify potential patterns 
+- Cloud Databases 
+	- Two different aspects of cloud databases (Form of the infrastructure and hosted on the cloud for a business)
+	- Infrastructure from behind the scenes 
+	- More user-friendly accessed through web services
+- Stakeholders 
+	- Anyone who has a "stake" in the database
+	- May also include customers 
 
