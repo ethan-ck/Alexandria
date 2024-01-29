@@ -42,4 +42,12 @@ Protection and Safety
 - ESD Prevention
 	- Discharge yourself; use a ground to dissipate the energy, touch the case frame of the PC 
 	- Use a static mat, it equalizes the electrical potential between you and the PC system
+	- When handling an electrical component, never touch the gold or silver leads on the bottom, and don't touch the little tab connectors. It will short circuit 
+	- Use static shielding bags, it has an additional layer under the plastic that dissipates electrical charges as they occur 
+	- Remove static producing materials, materials like Plastic and Styrofoam 
+	- Humidity is your friend when dealing with electrostatic discharge, the higher the humidity the lower the static. 
 	- 
+- Grounding 
+	- Use Alligator clip to connect the ground to the case or static mat, when this is established, there is no difference in static charge that can be built up
+	- Ground yourself by using a second clip and connect it to a wristband that has a little metal plate
+	- Ensure that the case is unplugged before you start attaching the clips. If not, you'll be connected to 110 volts. 
