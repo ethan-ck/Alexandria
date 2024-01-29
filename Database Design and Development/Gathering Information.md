@@ -11,3 +11,19 @@ Follow the nouns (get the major things correct first)
 
 Stakeholders - In the book example are the tutors and students 
 
+Entity Relation Diagram (ERD)
+
+(Branch --> topicID --> Responses)
+
+(Student-->StudentKey-->StudentLastName,StudentFirstName,StudentPhone,etc...)
+
+Access Data Types
+Text
+- Long Text
+- Short Text 
+Numeric 
+
+Date/Time
+
+Boolean 
+
