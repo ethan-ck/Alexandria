@@ -57,6 +57,6 @@ Types of Database
 	- Think outside the box 
 - Interviews
 	- Open-ended questions let them talk and stuff
-	- follow-up questions
+	- follow-up questions 
+	- active listening 
 - 
-
