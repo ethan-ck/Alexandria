@@ -9,7 +9,7 @@ Presentation - Data Format Encryption and Compression
 Session - Crate Session between Devices
 
 Transport - Delivers Data: Segment, Flow 
-Control, Sequencing
+Control, Sequencing PORTS LIVE HERE 
 
 Network - Routes Data over Network 
 
