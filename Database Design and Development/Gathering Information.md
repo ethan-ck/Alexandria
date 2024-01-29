@@ -19,11 +19,15 @@ Entity Relation Diagram (ERD)
 
 Access Data Types
 Text
-- Long Text
-- Short Text 
+- Long Text - <255 
+- Short Text - 255 Bytes/Characters
+
 Numeric 
 
 Date/Time
 
 Boolean 
 
+Many Primary keys = composite key 
+
+Crowsfeet 
