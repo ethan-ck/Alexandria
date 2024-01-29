@@ -89,6 +89,10 @@ MMF(Multi Mode Fiber)
 
 Attenuation - signal loss over distance 
 
+Fiber optic splicing 
+- They splice inside of the truck, uses a specialized tool with a specialist (expensive)
+- super complex and takes a long time 
+- Cleaning (Polishing glass before installation) 
 Wavelength Division Multiplexing 
 - Joins signals before transmission
 - expands network capacity 
