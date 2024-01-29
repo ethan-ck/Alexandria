@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Characteristics of Life.md",
+                "file": "Networking/The OSI Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "287052217ecc316b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Network Cables and Connectors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Characteristics of Life.md",
+                "file": "Networking/Network Cables and Connectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Characteristics of Life.md",
+                "file": "Networking/Network Cables and Connectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Characteristics of Life.md"
+                "file": "Networking/Network Cables and Connectors.md"
               }
             }
           }
@@ -152,18 +165,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04f927aa8e133ca0",
+  "active": "287052217ecc316b",
   "lastOpenFiles": [
+    "Networking/The OSI Model.md",
+    "Networking/Network Cables and Connectors.md",
+    "Biology/Characteristics of Life.md",
     "Database Design and Development/Vince's Vinyl SOW.md",
     "Networking/Untitled.md",
     "Database Design and Development/Types of Databases.md",
     "Database Design and Development/Chapter 1 Case Study.md",
     "Untitled 9/Working Title.md",
-    "Networking/The OSI Model.md",
     "PC  Hardware Management/Computing Basics.md",
     "Untitled",
     "Data Structures and Algorithms/Sort Algorithms.md",
-    "Biology/Characteristics of Life.md",
     "Data Structures and Algorithms/Big-O Notation.md",
     "Programming/Unsorted.md",
     "Networking",
@@ -195,7 +209,6 @@
     "textgenerator/prompts/default/getTitles.md",
     "textgenerator/prompts/default/getTags.md",
     "textgenerator/prompts/default/getParagraph.md",
-    "textgenerator/prompts/default/getOutline.md",
     "Programming"
   ]
 }
