@@ -83,7 +83,15 @@ MMF(Multi Mode Fiber)
 - Multiple signals 
 - Thicker than SMF
 - Shorter Distances, Lower speeds
-- 
+- Outside cladding traps light inside and makes it bounce. (Refractive Index)
+- When Refractive indexes are different, shit gets wacky 
+- 100 Mbps - 2 km, 10 Gb/s - 500m
+
+Attenuation - signal loss over distance 
+
+Wavelength Division Multiplexing 
+- Joins signals before transmission
+- expands network capacity 
 
 Topologies (LAN)
 
