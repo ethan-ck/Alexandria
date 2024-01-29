@@ -59,4 +59,9 @@ Types of Database
 	- Open-ended questions let them talk and stuff
 	- follow-up questions 
 	- active listening 
-- 
+- Work Shadowing is just a fancy name for observing 
+	- Exceptions that are not written
+	- "OREO" Other real estate owned 
+	- Someotimes there are weird exceptions that fall outside of the scope of the database
+Documentation (dummy) 
+
