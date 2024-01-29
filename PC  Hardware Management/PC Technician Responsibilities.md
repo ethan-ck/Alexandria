@@ -8,8 +8,8 @@ Electrostatic discharge - The flow of electricity form one electrically charged 
 Peripheral device - A device that connects to a computer and is on the outside, like printers, mouse, keyboard, mics, monitors, speakers, etc...
 
 Protection and Safety 
-- Safety 
-	- Power Hazards - Remove jewelry to prevent equipment damage
+- Power Hazards 
+		- Remove jewelry to prevent equipment damage
 		- Make sure grounding pin is intact
 		- Never work on a device until you've powered it down and unplugged it form the wall
 		- For portable computers, remove the battery
@@ -23,9 +23,9 @@ Protection and Safety
 		- Second impact dot matrix with solenoids, the little coils in the print head can burn you
 		- DvDs and CD drives can damage your eyes with a laser light 
 		- Fiber optic use light that damage your eyes, never look down the end of a fiber optic 
-		- Thermal Hazards
+- Thermal Hazards
 		- Thermal radiation or heat, CPU , memory and heat sink generate heat, let a system cool down to prevent a severe burn 
-		- Physical Hazards 
+- Physical Hazards 
 		- Arrange the room that you work in to eliminate physical hazards, use proper cable management and don't leave wires on the floor 
 		- Watch for places where people can trip over 
 		- Lifting hazards 
@@ -34,3 +34,12 @@ Protection and Safety
 			- Every room you work in should be fire suppressed, have a Class C fire extinguishers which are made for electrical fires
 		- Materials Safety Data Sheet
 			- Any component that presents a potential hazards comes with its own MSDS, it explains what you should do if you come in contact with a electrical component that's potentially dangerous to you. Also details how to dispose of equipment. 
+- Electrostatic Discharge
+	- Static Charge - created whenever two objects come into contact with each other and then separate. 
+	- Occurs when one object that has a high positve charge comes into contact with another object that has a high negative charge
+	- Electrical potential jumps to the Object with the lowest potential 
+	- Humans can only feel 3,000 volts, so you can damage PC parts without realizing it 
+- ESD Prevention
+	- Discharge yourself; use a ground to dissipate the energy, touch the case frame of the PC 
+	- Use a static mat, it equalizes the electrical potential between you and the PC system
+	- 
