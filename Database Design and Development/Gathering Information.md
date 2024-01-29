@@ -32,3 +32,17 @@ Many Primary keys = composite key
 
 Crowsfeet - The Circle with 3 lines coming out of it  (One to many or many to one)
 
+Forms - Documents used to capture business info (the input)
+
+Reports - Output from the data
+
+Types of Database 
+- Transaction database
+	- "Favorite Retail website"
+	- "Onlyfans"
+- Management Information System 
+	- Logistics and Reporting
+	- Extracting information to generate documents 
+- Business Intelligence 
+	- Placeholder 
+
