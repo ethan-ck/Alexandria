@@ -54,4 +54,9 @@ Types of Database
 - Stakeholders 
 	- Anyone who has a "stake" in the database
 	- May also include customers 
+	- Think outside the box 
+- Interviews
+	- Open-ended questions let them talk and stuff
+	- follow-up questions
+- 
 
