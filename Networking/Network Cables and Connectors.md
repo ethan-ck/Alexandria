@@ -78,6 +78,7 @@ SMF (Single Mode)
 - single (duh) 
 - Very thin, thinner than a strand of hair (it's shy, don't bully its size)
 - 10 Gbs for 40 Km 
+
 MMF(Multi Mode Fiber)
 - not as fast and shorter
 - Multiple signals 
@@ -96,6 +97,23 @@ Fiber optic splicing
 Wavelength Division Multiplexing 
 - Joins signals before transmission
 - expands network capacity 
+
+Fiber Optic Connectors
+
+- SC ("set and click" or square connector for SMF and MMF, locking tab)
+
+LC ("Lift and Click") 
+SMF and MMF 
+MTRJ 
+SMF and MMF 
+send and receive (duplex)
+plastic with locking tab
+
+FC ("Fiber Connector")
+- Single mode only, threaded to prevent loose connections) 
+
+Media Convertor 
+- Converts stuff or something idk 
 
 Topologies (LAN)
 
