@@ -30,4 +30,5 @@ Boolean
 
 Many Primary keys = composite key 
 
-Crowsfeet 
+Crowsfeet - The Circle with 3 lines coming out of it  (One to many or many to one)
+
