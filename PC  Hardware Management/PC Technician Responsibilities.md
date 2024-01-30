@@ -100,3 +100,7 @@ Environmental Controls
 			- Also be aware of connecting other devices to the UPS, know what you want to plug in.
 			- You can plug in a monitor for example, but it will bring down the estimated battery time 
 			- NEVER connect a printer to your UPS, it consumes a large amount of energy. 
+
+
+Professionalism 
+- 
