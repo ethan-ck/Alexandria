@@ -1,11 +1,7 @@
 
-Terms 
-
-Capacitor - A Device that sores an electric charge
-
-Electrostatic discharge - The flow of electricity form one electrically charged object to another
-
-Peripheral device - A device that connects to a computer and is on the outside, like printers, mouse, keyboard, mics, monitors, speakers, etc...
+- Terms 
+	- Capacitor - A Device that sores an electric charge
+	- Electrostatic discharge - The flow of electricity form one electrically charged object to another
 
 Protection and Safety 
 - Power Hazards 
@@ -55,6 +51,17 @@ Environmental Controls
 - Environmental Concerns 
 	- Disposal is a major concern, materials need to disposed in a specific manner
 	- Most communities have laws that dictate which materials you can and can't put into the common trash, each state has its own laws. So check out
-	- General rules; for batteries, you can throw AKAline batteries in the trash, but not in California
+	- General rules; for batteries, you can throw Alkaline batteries in the trash, but not in California
 	- Laptop and notebook batteries are Lithium ion batteries, you must contact your local environmental management office because they contain highly toxic chemicals 
-	- Printer Cartridges should be recycled, also some manufacturers accept empty cartridges to refill for a cheap
+	- Printer Cartridges should be recycled, also some manufacturers accept empty cartridges to refill for cheap
+	- LCD, plasma, and CRT monitors could leak lead and other toxic chemicals.
+	- CRT Monitors can retain a large electrical charge, up to 20,000 volts
+	- For disposing of a 
+	- For PSUs, discharge the PSU and recycle
+	- Refer to the MSDS for preferred way to dispose of stuff 
+	- Air Quality, poor environment conditions such as a hot degrades components keep temp at 68 Fahrenheit 
+	- Keep humidity at an appropriate level. High humidity = condensation, and low = ESD. Recommended humidity level is 40-60% 
+	- Clean your computer regularly, use compressed air or a non-static computer vacuum to remove stuff
+	- Do not use strong solvent wipes for stuff
+- Power Concerns 
+	- 
