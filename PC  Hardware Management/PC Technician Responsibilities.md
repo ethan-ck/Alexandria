@@ -64,4 +64,20 @@ Environmental Controls
 	- Clean your computer regularly, use compressed air or a non-static computer vacuum to remove stuff
 	- Do not use strong solvent wipes for stuff
 - Power Concerns 
-	- 
+	- Power 
+		- A Power Surge Occurs when an increase in voltage lasting seconds
+		- Power Spike an increase in voltage lasting milliseconds 
+		- Power Sag is a decrease in voltage
+		- Brownouts occur when there is too much demand on the grid
+		- Blackout is a complete loss of power 
+		- Surge protectors and suppressors filter out power surges before they reach the computer, they do not protect you from sags, brown-outs, or blackouts
+		- Uninterruptible Power Supply (UPS) use a battery backup, provides power as needed, and protects from a multitude of power issues. 
+		- Online UPS is where the PC doesn't draw power directly form the wall outlet, instead its fed by the battery in the UPS, but it is the best protection.
+		- Offline UPS runs on 110 volts from the wall and doesn't nothing until it detects a brown-out or blackout. When it detects one, it switches off the wall outlet, and switches to the UPS battery.
+		- Companies prefer an online UPS for really critical systems, such as servers. They're more expensive but the best. 
+		- Time ratings may not be entirely accurate, plan for at least half of the time advertised. 
+		- Configuring a UPS 
+			- Plug it into the wall outlet, charge the UPS for 12 to 24 hours before you use it.
+			- Once fully charged, plug a server or workstation into one of the protected outlets on the UPS
+			- UPS purpose is to keep your system running long enough to shut down cleanly without losing data
+			- 
