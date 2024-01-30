@@ -104,16 +104,4 @@ Environmental Controls
 			- NEVER connect a printer to your UPS, it consumes a large amount of energy. 
 
 Professionalism 
-
-Ignore the paper and tell no one
-
-avoid dismissing customer problems
-
-I found this power switch
-
-Actively listening
-Avoiding being judgmental
-
-ask the customer if it is oplkay to take the call
-
-s4et an appointment for the employee
+- Don't be a dumbass
