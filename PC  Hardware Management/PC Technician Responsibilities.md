@@ -80,4 +80,15 @@ Environmental Controls
 			- Plug it into the wall outlet, charge the UPS for 12 to 24 hours before you use it.
 			- Once fully charged, plug a server or workstation into one of the protected outlets on the UPS
 			- UPS purpose is to keep your system running long enough to shut down cleanly without losing data
+			- To configure automatic shutdown, connect the management cable form the UPS to the PC system, then install the drivers required. 
 			- 
+		- Configure UPS Settings 
+			- Charge the UPS 
+			- Plug the UPS into a wall outlet
+			- Plug the PC into one of the protected outlets on the UPS, be sure to plug it into ta battery backed socket, some sockets only support surge protection
+			- Plug in the serial or USB cable from the UPS to the PC and download the software
+			- Go to options and enable PowerChute notification sounds 
+			- Go to Runtime configuration and ensure that there is plenty of time for the shutdown of the PC to occur
+			- Preserve battery power is a fantastic option, it tells the computer to shut down if the power does not come back on within an allotted amount of time. Perfect during storms where the power flickers off and on.
+			- Click apply
+			- Go to Notifications and 
