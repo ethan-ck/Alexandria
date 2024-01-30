@@ -106,11 +106,3 @@ Environmental Controls
 Professionalism 
 - Don't be a dumbass
 	
-  
-
-RFI is caused by nearby devices, such as cordless phones or microwave ovens.  
-
-Magnetic fields
-
-
-The printer's cleaning function
