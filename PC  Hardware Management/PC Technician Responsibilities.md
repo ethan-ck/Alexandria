@@ -106,3 +106,17 @@ Environmental Controls
 Professionalism 
 - Don't be a dumbass
 	
+Backout plan
+Backout plan
+cahgen board and customer
+How does this change
+Scope of chagne
+Purpose of change, scope of change, risk, backout 
+project plan, budget, risk assess
+purpose of the change
+to provide every client
+401k
+rquest to hire constrcactors 
+using contractors oculd result
+back up the program and data
+what exactly do you want to change
