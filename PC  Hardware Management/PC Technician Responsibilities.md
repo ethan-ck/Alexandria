@@ -91,4 +91,12 @@ Environmental Controls
 			- Go to Runtime configuration and ensure that there is plenty of time for the shutdown of the PC to occur
 			- Preserve battery power is a fantastic option, it tells the computer to shut down if the power does not come back on within an allotted amount of time. Perfect during storms where the power flickers off and on.
 			- Click apply
-			- Go to Notifications and 
+			- For notifications, the default value is perfectly fine
+			- Click sensitivity, this specifies the circumstances when we want the UPS to kick in.
+			- Three different sensitivity levels, Low, Medium, and High. Medium is just about right.
+			- Select Voltage, this is where we define what a power event is, normal utility voltage is between 115 and 120 volts. 
+			- On the bottom of the screen of voltage, you can see what the current power source is.
+			- The estimated battery time assumes that there's ONE PC connected to the UPS. 
+			- Also be aware of connecting other devices to the UPS, know what you want to plug in.
+			- You can plug in a monitor for example, but it will bring down the estimated battery time 
+			- NEVER connect a printer to your UPS, it consumes a large amount of energy. 
