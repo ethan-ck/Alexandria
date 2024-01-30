@@ -44,5 +44,4 @@ In Relational Databases, data is organized into tables. The tables define the re
 
 Repeating columns are called "keys"
 
-primary key- 
 

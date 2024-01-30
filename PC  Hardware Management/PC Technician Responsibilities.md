@@ -76,6 +76,8 @@ Environmental Controls
 		- Offline UPS runs on 110 volts from the wall and doesn't nothing until it detects a brown-out or blackout. When it detects one, it switches off the wall outlet, and switches to the UPS battery.
 		- Companies prefer an online UPS for really critical systems, such as servers. They're more expensive but the best. 
 		- Time ratings may not be entirely accurate, plan for at least half of the time advertised. 
+		- A Line conditioner ensures that a piece of equipment remains as close as operating power required as possible. It is incredibly valuable to extremely sensitive pieces of equipment. 
+		- 
 		- Configuring a UPS 
 			- Plug it into the wall outlet, charge the UPS for 12 to 24 hours before you use it.
 			- Once fully charged, plug a server or workstation into one of the protected outlets on the UPS
@@ -100,7 +102,6 @@ Environmental Controls
 			- Also be aware of connecting other devices to the UPS, know what you want to plug in.
 			- You can plug in a monitor for example, but it will bring down the estimated battery time 
 			- NEVER connect a printer to your UPS, it consumes a large amount of energy. 
-
 
 Professionalism 
 - 
