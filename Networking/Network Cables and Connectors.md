@@ -128,11 +128,25 @@ Wiring Implementation
 - Straight-Through cable - The pinning ends on both sides is in the same order, used to connect unlike devices
 	- T568A on one end and T568B on the other 
 	- Hourglass 
+	- One pair is for transmit, another pair is for receive
+	- EX. (Transmit = 1 and 2, R = 3 and 6)
 - Cross-Over cable - to connect two devices that are the same, ("two laptop example")
+	- Takes one Transmit pin on one side, and connects it to the receiving pin on the other side 
 - Roll-Over Cable   
 
-Wiring Conventions 
-- 
+Solids and Stripes 
+
+T568A: GOBOBr 
+
+Starts with the stripes, except for the Blue. Blue is a weirdo, pins 4 and 5 
+
+Green Orange Blue Orange Brown 
+
+T568B: 
+Orange Green Blue Green Brown 
+Once again, blue sis
+
+
 
 
 
