@@ -172,7 +172,7 @@ On the Rack:
 Router
 Switch
 Patch Panel
-Fiber Panel 
+Fiber Optic Panel 
 
 
 Red Icon is Local Area Network 
