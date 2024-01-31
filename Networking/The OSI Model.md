@@ -46,6 +46,7 @@ The Open Systems Interconnection, or OSI for short, is a model that is designed 
 		- PDUs are called Bits 
 
 - "Look-up" Tables 
+	- 
 	- ARP, Value 1 = IPv4 Address, Value 2 = MAC Address
 	- DNS, Domain name (URL), IPv4 Address
 	- CAM Table (Switch), MAC address, Switchport #
