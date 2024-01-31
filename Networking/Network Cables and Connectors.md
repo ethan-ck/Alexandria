@@ -130,11 +130,7 @@ Wiring Implementation
 	- Hourglass 
 	- One pair is for transmit, another pair is for receive
 	- EX. (Transmit = 1 and 2, R = 3 and 6)
-- Cross-Over cable - to connect two devices that are the same, ("two laptop example")
-	- Takes one Transmit pin on one side, and connects it to the receiving pin on the other side 
-- Roll-Over Cable   
-
-Solids and Stripes 
+	- Solids and Stripes 
 
 T568A: GOBOBr 
 
@@ -150,7 +146,13 @@ RJ45 Connector
 
 RJ45 Crimping tool, it crimps dawg 
 - It also strips, "How much do we have to pay"
-- 
+- Talk to the wire, it's self-conscious, offer words of encouragement.  
+
+- Cross-Over cable - to connect two devices that are the same, ("two laptop example")
+	- Takes one Transmit pin on one side, and connects it to the receiving pin on the other side
+	- Pin 1 goes to pin 3, 3 to 1, Pin 2 goes to 6, 6 to 2, it crosses (like Jesus)  
+- Roll-Over Cable   
+
 
 
 
