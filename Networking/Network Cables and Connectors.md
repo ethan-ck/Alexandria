@@ -161,6 +161,14 @@ IDF -
 
 VCC Vertical Cross Connect 
 
+Remember EMI and Crosstalk, two bad things that can happen with copper wire '
+
+Punch down tool can be ouchie 
+
+Keystone Patch into the patch panel 
+
+
+
 
 
 
