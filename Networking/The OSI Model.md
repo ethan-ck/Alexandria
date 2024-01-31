@@ -46,14 +46,17 @@ The Open Systems Interconnection, or OSI for short, is a model that is designed 
 		- PDUs are called Bits 
 
 - "Look-up" Tables 
-	- "Graves hiding rcample
-	- One value matche with another value 
+	- A "Look-up" table is part of Professor Graves' lingo that refers to the procedures that occurs during a OSI layer. 
+		- For example, in a ARP "broadcast", A device with an IP address will send a request to the network to find a specific MAC address and vice versa. 
+	- "Graves hiding example" 
+	- 
 	- "
-	- ARP, Value 1 = IPv4 Address, Value 2 = MAC Address
-	- DNS, Domain name (URL), IPv4 Address
-	- CAM Table (Switch), MAC address, Switchport #
-	- NAT, Private IPv4 Address, Public IPv4 Address
-	- Logon Server, Username, Password
+	- ARP, Value 1: = IPv4 Address, Value 2: MAC Address
+	- DNS, Value 1: Domain name (URL), Value 2:  IPv4 Address
+	- CAM Table (Switch) Value 1: MAC address, Value 2: Switchport #
+	- NAT, Value 1: Private IPv4 Address, Value 2: Public IPv4 Address
+	- Logon Server, Value 1: Username, Value 2: Password
+		- Unlike the previous procedures, the Logon server checks 
 
 - The major Networking Identifiers:
 	- Ports
