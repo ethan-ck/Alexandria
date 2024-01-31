@@ -167,8 +167,18 @@ Punch down tool can be ouchie
 
 Keystone Patch into the patch panel 
 
+Connect Patch Lab: 
+On the Rack: 
+Router
+Switch
+Patch Panel
+Fiber Panel 
 
 
+Red Icon is Local Area Network 
 
+R411 Telephone Jack
+
+Network settings, Ethernet -> network and sharing -> ethernet -> Properties -> IPV4 -> (Static for servers) -> 
 
 
