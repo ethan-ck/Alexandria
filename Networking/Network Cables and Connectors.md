@@ -144,7 +144,16 @@ Green Orange Blue Orange Brown
 
 T568B: 
 Orange Green Blue Green Brown 
-Once again, blue sis
+Once again, blue starts with the solid, doesn't change 
+
+RJ45 Connector 
+
+RJ45 Crimping tool, it crimps dawg 
+- It also strips, "How much do we have to pay"
+- 
+
+
+
 
 
 
