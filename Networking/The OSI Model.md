@@ -41,13 +41,18 @@ The Open Systems Interconnection, or OSI for short, is a model that is designed 
 	- Physical 
 		-  Puts Signal on Wire or Channel 
 		- Devices include:
-			- Hub
-			- Repeater
+			- Repeater - A Device that repeats a signal from medium to another. This device essentially increases the range a signal can travel. 
+			- Hub - The same as a multi-port repeater 
 		- PDUs are called Bits 
 
 - "Look-up" Tables 
-- ARP, Value 1 = IPv4 Address, Value 2 = MAC Address
-- DNS, Domain name (URL), IPv4 Address
-- CAM Table (Switch), MAC address, Switchport #
-- NAT, Private IPv4 Address, Public IPv4 Address
-- Logo
+	- ARP, Value 1 = IPv4 Address, Value 2 = MAC Address
+	- DNS, Domain name (URL), IPv4 Address
+	- CAM Table (Switch), MAC address, Switchport #
+	- NAT, Private IPv4 Address, Public IPv4 Address
+	- Logon Server, Username, Password
+
+- The major Networking Identifiers:
+	- Ports
+	- IP Addresses (Logical)
+	- MAC addresses (physical)
