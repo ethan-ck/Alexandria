@@ -129,7 +129,7 @@ Wiring Implementation
 	- T568A on one end and T568B on the other 
 	- Hourglass 
 	- One pair is for transmit, another pair is for receive
-	- EX. (Transmit = 1 and 2, R = 3 and 6)
+	- EX. (Transmit = 1 and 2, R = 3 and 6) 4 and 5, 7 and 8 are neutral(POE -Power over Ethernet)
 	- Solids and Stripes 
 
 T568A: GOBOBr 
@@ -160,12 +160,6 @@ MDF - Main Distribution Frame that connects to the Demarc
 IDF - 
 
 VCC Vertical Cross Connect 
-
-
-
-
-
-
 
 
 
