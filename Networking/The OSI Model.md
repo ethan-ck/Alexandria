@@ -1,53 +1,53 @@
-The OSI Model 
+The Open Systems Interconnection, or OSI for short, is a model that is designed to standardize the functions for a telecommunication system. 
 
 **All People Seem To Need Data Processing** 
 
-The OSI Model has 7 layers:
+- The OSI Model has 7 layers:
+	- Application -
+		- This layer is the final layer, and is the closet to the user, it integrates the Network services with the Operating system through the use of the protocols below/ 
+		- Has Multiple Protocols
+			- HTTP 
+			- FTP
+			- SMTP
+			- DNS
+			- DHCP
+	- Presentation 
+		- Once a session is established, it must "present" the data in a clean and efficient way. This layer handles the formatting, encryption, and compression of data. 
+	- Session 
+		- Establishes a session between two or more devices with a Session-ID 
+	- Transport 
+		- Allows for the flow of Data through controls 
+		- Think of a log going down the river with multiple gates. 
+		- PORTS Live here
+		- Has two Protocols 
+			- TCP 
+			- UDP - 
+		- The PDUs in this layer are called Segments 
+	- Network - Routes Data over Network
+		- IP Address 
+		- Devices include a Router 
+		-  Two Protocols:
+			- IP 
+			- ARP 
+		- PDU is called Packet 
+	- Data Link - Error checking [CRC]
+		- MAC Address 
+		- Devices include: 
+			- a Switch
+			- Wireless Application Protocol (WAP) 
+			- Network Interface controller (NIC)
+			- Bridge
+		- PDUs are called Frames 
+	- Physical 
+		-  Puts Signal on Wire or Channel 
+		- Devices include:
+			- Hub
+			- Repeater
+		- PDUs are called Bits 
 
-Application - Integrate network services w / OS 
-	- Has Multiple Protocols
-		- HTTP 
-		- FTP
-		- SMTP
-		- DNS
-		- DHCP
-
-Presentation - Data Format Encryption and Compression 
-
-Session - Crate Session between Devices
-	- Session-ID 
-
-Transport - Delivers Data: Segment, Flow 
-Control, Sequencing PORTS LIVE HERE 
-	- PORT
-	- Has two Protocols 
-		- TCP
-		- UDP 
-	- PDU in this layer are called Segments
-
-Network - Routes Data over Network 
-	- IP Address 
-	- Devices include a Router 
-	-  Two Protocols:
-		- IP 
-		- ARP 
-	- PDU is called Packet 
-
-Data Link - Error checking [CRC]
-	- MAC Address 
-	- Devices include: 
-		- a Switch
-		- Wireless Application Protocol (WAP) 
-		- Network Interface controller (NIC)
-		- Bridge
-	- PDUs are called Frames 
-
-Physical - Puts Signal on Wire or Channel 
-	- Devices include:
-		- Hub
-		- Repeater
-	- PDUs are called Bits 
-
-5 Look-Up Tables Encountered in Networking 
-
-ARP 
+- "Look-up" Tables 
+- ARP, Value 1 = IPv4 Address, Value 2 = MAC Address
+- DNS, Domain name (URL), IPv4 Address
+- CAM Table (Switch), MAC address, Switchport #
+- NAT, Private IPv4 Address, Public IPv4 Address
+- Logo
