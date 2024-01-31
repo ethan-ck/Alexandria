@@ -124,7 +124,15 @@ Topologies (LAN)
 5. Mesh (clusterfuck but reliable)
 
 
+Wiring Implementation 
+- Straight-Through cable - The pinning ends on both sides is in the same order, used to connect unlike devices
+	- T568A on one end and T568B on the other 
+	- Hourglass 
+- Cross-Over cable - to connect two devices that are the same, ("two laptop example")
+- Roll-Over Cable   
 
+Wiring Conventions 
+- 
 
 
 

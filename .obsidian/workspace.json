@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "04f927aa8e133ca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PC  Hardware Management/Computing Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c4a646199a6936ce",
             "type": "leaf",
             "state": {
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,14 +168,14 @@
   "active": "c4a646199a6936ce",
   "lastOpenFiles": [
     "Networking/Untitled.md",
-    "Networking/Network Cables and Connectors.md",
     "Networking/The OSI Model.md",
-    "PC  Hardware Management/PC Technician Responsibilities.md",
     "PC  Hardware Management/Computing Basics.md",
+    "Networking/Network Cables and Connectors.md",
     "Database Design and Development/Gathering Information.md",
     "Database Design and Development/Types of Databases.md",
     "Database Design and Development/Chapter 1 Case Study.md",
     "Database Design and Development/Vince's Vinyl SOW.md",
+    "PC  Hardware Management/PC Technician Responsibilities.md",
     "Biology/Characteristics of Life.md",
     "Untitled 9/Working Title.md",
     "Untitled",
