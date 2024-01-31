@@ -153,6 +153,15 @@ RJ45 Crimping tool, it crimps dawg
 	- Pin 1 goes to pin 3, 3 to 1, Pin 2 goes to 6, 6 to 2, it crosses (like Jesus)  
 - Roll-Over Cable   
 
+Demarc is the location point in which the ISP responsibility ends, and yours begin. 
+
+MDF - Main Distribution Frame that connects to the Demarc 
+
+IDF - 
+
+VCC Vertical Cross Connect 
+
+
 
 
 
