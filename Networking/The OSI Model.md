@@ -49,8 +49,6 @@ The Open Systems Interconnection, or OSI for short, is a model that is designed 
 	- A "Look-up" table is part of Professor Graves' lingo that refers to the procedures that occurs during a OSI layer. 
 		- For example, in a ARP "broadcast", A device with an IP address will send a request to the network to find a specific MAC address and vice versa. 
 	- It essentially Returns Value 1 or Value 2 
-	- 
-	- "
 	- ARP, Value 1: = IPv4 Address, Value 2: MAC Address
 	- DNS, Value 1: Domain name (URL), Value 2:  IPv4 Address
 	- CAM Table (Switch) Value 1: MAC address, Value 2: Switchport #
