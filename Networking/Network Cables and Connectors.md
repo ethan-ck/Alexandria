@@ -2,7 +2,7 @@ Wired and Wireless (Chap 9)
 
 For Wired, there are 3 main cables 
 
-1. Twisted Pair (UTP/STP)
+1. Twisted Pair (UTP/STP) Unshielded/Shielded
 2. Coaxial 
 3. Fiber Optic 
 
