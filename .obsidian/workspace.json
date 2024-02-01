@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/The OSI Model.md",
+                "file": "Database Design and Development/Chapter 1 Case Study.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cdafa1ad45ff8cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database Design and Development/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/The OSI Model.md",
+                "file": "Database Design and Development/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/The OSI Model.md",
+                "file": "Database Design and Development/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/The OSI Model.md"
+                "file": "Database Design and Development/Untitled.md"
               }
             }
           }
@@ -165,15 +177,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4a646199a6936ce",
+  "active": "6cdafa1ad45ff8cb",
   "lastOpenFiles": [
+    "Database Design and Development/Chapter 1 Case Study.md",
+    "Database Design and Development/Untitled.md",
+    "Database Design and Development/Types of Databases.md",
+    "Networking/The OSI Model.md",
     "Networking/Network Cables and Connectors.md",
     "Networking/Identifiers.md",
-    "Networking/The OSI Model.md",
     "PC  Hardware Management/Computing Basics.md",
     "Database Design and Development/Gathering Information.md",
-    "Database Design and Development/Types of Databases.md",
-    "Database Design and Development/Chapter 1 Case Study.md",
     "Database Design and Development/Vince's Vinyl SOW.md",
     "PC  Hardware Management/PC Technician Responsibilities.md",
     "Biology/Characteristics of Life.md",
@@ -208,7 +221,6 @@
     "textgenerator/prompts/default/summarize.md",
     "textgenerator/prompts/default/simplify.md",
     "textgenerator/prompts/default/rewrite.md",
-    "textgenerator/prompts/default/getTitles.md",
     "Programming"
   ]
 }
