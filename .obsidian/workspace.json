@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Network Cables and Connectors.md",
+                "file": "Networking/The OSI Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Network Cables and Connectors.md",
+                "file": "Networking/The OSI Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Network Cables and Connectors.md",
+                "file": "Networking/The OSI Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Network Cables and Connectors.md"
+                "file": "Networking/The OSI Model.md"
               }
             }
           }
@@ -167,9 +167,9 @@
   },
   "active": "c4a646199a6936ce",
   "lastOpenFiles": [
+    "Networking/Network Cables and Connectors.md",
     "Networking/Identifiers.md",
     "Networking/The OSI Model.md",
-    "Networking/Network Cables and Connectors.md",
     "PC  Hardware Management/Computing Basics.md",
     "Database Design and Development/Gathering Information.md",
     "Database Design and Development/Types of Databases.md",
