@@ -1,0 +1,1 @@
+Exceptions are variations in how things are done or recorded, or an alternate process for doing things 
