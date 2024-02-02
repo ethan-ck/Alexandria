@@ -23,15 +23,17 @@
 	- It essentially tells you the number of positively charged protons. 
 - The Atomic mass is the average of the mass numbers for these atoms
 	- To be specific, the mass of the protons and neutrons
+		- These Radioactive Isotopes are used to track changes and destroy cells (X-rays and chemotherapy)
+			- A researcher can thus use a small amount of radioactive isotope as a tracer to detect how a group of cells or an organ is processing a certain element or molecule. 
+				- Ex. Giving a person a small amount of idoine-131 to determine if a thyroid gland is functioning properly. 
+				- ex. A Positron Emission Tomography (PET) uses tracerse to determine the comparative activity of tissues.
+			- Radioactive substances are dangerous and can cause harmful chemical changes in cells, damage DNA, and cause cancer. 
+			- They are the same element, but differ in their mass numbers.
+			- They are the same element, but differ in the number of neutrons.
 	- Isotopes are atoms of the same element that differ in the amount of neutrons
 		- They have the same number of protons, but have different mass numbers
 		- A radioactive isotope is a nucleus with excess neutrons, which is unstable and decay, and emit radiation. 
 		- Geiger counter (Uranium fever)
-- These Radioactive Isotopes are used to track changes and destroy cells (X-rays and chemotherapy)
-	- A researcher can thus use a small amount of radioactive isotope as a tracer to detect how a group of cells or an organ is processing a certain element or molecule. 
-		- Ex. Giving a person a small amount of idoine-131 to determine if a thyroid gland is functioning properly. 
-		- ex. A Positron Emission Tomography (PET) uses tracerse to determine the comparative activity of tissues.
-	- Radioactive substances are dangerous and can cause harmful chemical changes in cells, damage DNA, and cause cancer. 
 - The properties of Water:
 	- Solvency
 	- Cohesion and adhesion
@@ -58,3 +60,14 @@
 	- Buffers are chemical or combination of chemicals that keep PH within normal limits, it resist the PH change by taking up excess H+ or 0H-
 	- Blood is maintained by a buffer
 	- Acidosis
+
+- atoms with only one shell are complete when they have two electrons in it 
+- covalent bonds involves sharing of electrons between atoms, while 
+
+- When a molecule contains atoms of more than one element, it is called a compound
+- The number of electrons in an atoms outer shell is called the valence shell and determines its chemical reactivity 
+- An ionic bond forms when two atoms are held together by the attraction between opposite charges
+- ions are charged atoms 
+- covalent bonding results when two atoms hare electrons in order to have a completed outer shell 
+- In a chemical equation with the arrow pointing to the right, the left side contains the reactants 
+- 
