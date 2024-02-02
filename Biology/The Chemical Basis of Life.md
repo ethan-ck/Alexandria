@@ -1,0 +1,18 @@
+- Everything is made up of matter. Matter is defined as anything any takes up space and has mass. 
+	- Can exist in several states
+		- Gas
+		- Solids
+		- Liquids
+	- Matter is also composed of elements.
+- All matter is composed of Elements. Elements are substances that cannot be broken down into other substances by ordinary chemical means. 
+- All elements consist of tiny particles called atoms. 
+	- Each element consists of only a single type of atom. So the same name is given to both an element and its atoms.
+		- The name is represented by one or two letters, called the atomic symbol.
+			- Ex. H stands for an atom of Hydrogen
+			- Na stands for an atom of sodium
+- All atoms consist of subatomic particles, neutrons, protons, and electrons.
+	- Neutrons (Neutral) yield no electrical charge.
+	- Protons (Positive) yield a positive charge.
+	- Electrons (Negative) yield a negative charge.
+	- Neutrons and Protons are located in the center of an atom (the nucleus) while electrons move all around the nucleus. 
+- The mass of an atom is called the mass number, and is equal to the sum of its protons and neutrons. 
