@@ -20,7 +20,7 @@
 - The mass of an atom is called the mass number, and is equal to the sum of its protons and neutrons. 
 	- Protons and neutrons are assigned one mass unit each, while electrons are zero units. 
 - An atom's atomic number is the number of protons.
-	- It essentially tells you the number of postively charged protons. 
+	- It essentially tells you the number of positively charged protons. 
 - The Atomic mass is the average of the mass numbers for these atoms
 	- To be specific, the mass of the protons and neutrons
 	- Isotopes are atoms of the same element that differ in the amount of neutrons
@@ -45,4 +45,12 @@
 		- Lemon juice, vinegar, coffee
 	- Bases are substances that either take up hydrogen ions or release hydroxide ions 
 		- Milk of magnesia and ammonia
-	- The PH scale is a mathematical way to indicate the number
+	- The PH scale is a mathematical way to indicate the number of hydrogen ions in a solution
+		- PH scale ranges form 0 to 14.
+			- PH below 7 is acidic (More H+ than 0H-)
+			- PH above 7 is basic (More 0H- than H+) (White girls)
+			- PH of 7 is neutral (equal amounts of both)
+			- 
+	- Buffers are chemical or combination of chemicals that keep PH within normal limits, it resist the PH change by taking up excess H+ or 0H-
+	- Blood is maintained by a buffer
+	- Acidosis
