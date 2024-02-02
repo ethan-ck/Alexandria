@@ -1,8 +1,9 @@
 - Everything is made up of matter. Matter is defined as anything any takes up space and has mass. 
 	- Can exist in several states
 		- Gas
-		- Solids
-		- Liquids
+		- Solid
+		- Liquid
+		- Plasma
 	- Matter is also composed of elements.
 - All matter is composed of Elements. Elements are substances that cannot be broken down into other substances by ordinary chemical means. 
 - All elements consist of tiny particles called atoms. 
@@ -16,3 +17,13 @@
 	- Electrons (Negative) yield a negative charge.
 	- Neutrons and Protons are located in the center of an atom (the nucleus) while electrons move all around the nucleus. 
 - The mass of an atom is called the mass number, and is equal to the sum of its protons and neutrons. 
+	- Protons and neutrons are assigned one mass unit each, while electrons are zero units. 
+- An atom's atomic number is the number of protons.
+	- It essentially tells you the number of postively charged protons. 
+- The Atomic mass is the average of the mass numbers for these atoms
+	- To be specific, the mass of the protons and neutrons
+- Isotopes are atoms of the same element that differ in the amount of neutrons
+	- They have the same number of protons, but have different mass numbers
+	- A radioactive isotope is a nucleus with excess neutrons, which is unstable and decay, and emit radiation. 
+	- Geiger counter (Uranium fever)
+- These Radioactive Isotopes are used to track changes and destroy cells (X-rays and )
