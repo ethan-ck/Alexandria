@@ -22,8 +22,15 @@
 	- It essentially tells you the number of postively charged protons. 
 - The Atomic mass is the average of the mass numbers for these atoms
 	- To be specific, the mass of the protons and neutrons
-- Isotopes are atoms of the same element that differ in the amount of neutrons
-	- They have the same number of protons, but have different mass numbers
-	- A radioactive isotope is a nucleus with excess neutrons, which is unstable and decay, and emit radiation. 
-	- Geiger counter (Uranium fever)
-- These Radioactive Isotopes are used to track changes and destroy cells (X-rays and )
+	- Isotopes are atoms of the same element that differ in the amount of neutrons
+		- They have the same number of protons, but have different mass numbers
+		- A radioactive isotope is a nucleus with excess neutrons, which is unstable and decay, and emit radiation. 
+		- Geiger counter (Uranium fever)
+- These Radioactive Isotopes are used to track changes and destroy cells (X-rays and chemotherapy)
+	- A researcher can thus use a small amount of radioactive isotope as a tracer to detect how a group of cells or an organ is processing a certain element or molecule. 
+		- Ex. Giving a person a small amount of idoine-131 to determine if a thyroid gland is functioning properly. 
+		- ex. A Positron Emission Tomography (PET) uses tracerse to determine the comparative activity of tissues.
+	- Radioactive substances are dangerous and can cause harmful chemical changes in cells, damage DNA, and cause cancer. 
+	- 
+
+- 
