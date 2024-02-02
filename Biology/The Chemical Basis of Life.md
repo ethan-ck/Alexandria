@@ -70,4 +70,9 @@
 - ions are charged atoms 
 - covalent bonding results when two atoms hare electrons in order to have a completed outer shell 
 - In a chemical equation with the arrow pointing to the right, the left side contains the reactants 
-- 
+- Hydrogen bonds are when the positive hydrogen atoms in one molecule are attracted to the negative oxygen atoms in other water molecules. 
+- A polar covalent bonds, the atoms on either side are partially charged because of their unequal electronegativity. 
+hydrophilic
+
+Hydroxide = base 
+Hydrogen = acidic 
