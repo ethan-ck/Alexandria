@@ -35,6 +35,10 @@
 - The properties of Water:
 	- Solvency
 	- Cohesion and adhesion
+		- Allows water molecules to cling together through hydrogen bonding (cohesion) (water on water)
+		- cling to other polar surfaces with adhesion (water on other substances)
+		- Enables water to transport both inside and outside of living organisms
+		- contributes to water transport in plants
 	- High surface tension
 	- High heat capacity
 	- high heat of vaporization
