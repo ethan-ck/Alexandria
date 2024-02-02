@@ -1,3 +1,4 @@
+
 - Everything is made up of matter. Matter is defined as anything any takes up space and has mass. 
 	- Can exist in several states
 		- Gas
@@ -31,6 +32,17 @@
 		- Ex. Giving a person a small amount of idoine-131 to determine if a thyroid gland is functioning properly. 
 		- ex. A Positron Emission Tomography (PET) uses tracerse to determine the comparative activity of tissues.
 	- Radioactive substances are dangerous and can cause harmful chemical changes in cells, damage DNA, and cause cancer. 
-	- 
+- The properties of Water:
+	- Solvency
+	- Cohesion and adhesion
+	- High surface tension
+	- High heat capacity
+	- high heat of vaporization
+	- varying density 
 
-- 
+- PH Scale and Acidic Solutions 
+	- Acids are substances that release hydrogen ions
+		- Lemon juice, vinegar, coffee
+	- Bases are substances that either take up hydrogen ions or release hydroxide ions 
+		- Milk of magnesia and ammonia
+	- The PH scale is a mathematical way to indicate the number
