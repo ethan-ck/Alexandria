@@ -34,12 +34,10 @@
 		- Foil Shield (Only with STP, NOT in UTP)
 
 - Twisted Pair Standards 
-	- T568A 
-	- T568B
-	- GoBOBBr 
-	- 
+	- T568A 1+2 = 3, 1+2+3 = 6(1/2 and 3/6) (GoBOBBr)
+	- T568B ()
 
-- Twisted Pair Categories 
+- Twisted Pair Categories
 	- Category        Connector            Speed          Frequency             Info 
 	- Phone Cable       RJ11                10 Mbps           N/A
 	- Cat 5                  RJ45               100 Mbps         100 mHz
@@ -50,5 +48,24 @@
 	- Cat 7a              RJ45                   10 Gbps          1000 MHz
 	- Cat 8.1             RJ45(Class I)       25 Gbps          2000 MHz 
 	- Cat 8.2            RJ45 (Class I)       40 Gbps          2000 MHz 
+	- Each type of twisted pair is backwards-compatible, but not forwards-compatible
 
+- Twisted Pair Rating 
+	- Ratings are used for specific purposes in various construction applications
+	- Direct Burial 
+		- Designed to be buried directly in the ground
+	- General
+		- Minimum requirements in commercial installations
+		- Incredibly toxic when burned, probably plays R6
+	- Plenum 
+		- For use in Air plenum spaces (open areas above drop ceilings or below raised floors)
+		- Flame retardant (respectfully)
+		- NFPA regulated (communists)
+	- Riser 
+		- Run between floors through open vertical shafts
+		- Suited for areas not defined as plenum but may conduct fire from one floor to another 
+		- 
+
+- Twisted Pair Connectors 
+	- 
 Fiber Optic Cable 
