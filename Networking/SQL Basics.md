@@ -1,4 +1,4 @@
-SQL is Safe For Work
+SQL is Safe For **W**ork
 
 Select (Field and Columns)
 From (Tables)
