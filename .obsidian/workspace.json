@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b74de266f2af381",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/The OSI Model.md",
+                "file": "Networking/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/The OSI Model.md",
+                "file": "Networking/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/The OSI Model.md"
+                "file": "Networking/Untitled.md"
               }
             }
           }
@@ -152,8 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "657b8b6b5dea1e69",
+  "active": "0b74de266f2af381",
   "lastOpenFiles": [
+    "Networking/The OSI Model.md",
+    "Networking/Untitled.md",
     "Networking/Identifiers.md",
     "Networking/Network Cables and Connectors.md",
     "Biology/The Chemical Basis of Life.md",
@@ -163,7 +178,6 @@
     "Database Design and Development/Gathering Information.md",
     "Database Design and Development/Chapter 1 Case Study.md",
     "Database Design and Development/Types of Databases.md",
-    "Networking/The OSI Model.md",
     "PC  Hardware Management/Computing Basics.md",
     "PC  Hardware Management/PC Technician Responsibilities.md",
     "Untitled 9/Working Title.md",
@@ -195,7 +209,6 @@
     "Database Design and Development",
     "Testing.md",
     "textgenerator/prompts/default/summarize.md",
-    "textgenerator/prompts/default/simplify.md",
     "Programming"
   ]
 }
