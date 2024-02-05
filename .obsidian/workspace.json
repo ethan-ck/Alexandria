@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/SQL.md",
+                "file": "Networking/SQL Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/SQL.md",
+                "file": "Networking/SQL Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/SQL.md",
+                "file": "Networking/SQL Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/SQL.md"
+                "file": "Networking/SQL Basics.md"
               }
             }
           }
@@ -192,7 +192,7 @@
   "active": "44fd3c794c66137e",
   "lastOpenFiles": [
     "Networking/Untitled 1.md",
-    "Networking/SQL.md",
+    "Networking/SQL Basics.md",
     "Networking/Untitled.md",
     "Networking/Network Cables and Connectors.md",
     "Networking/The OSI Model.md",
