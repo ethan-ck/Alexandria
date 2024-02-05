@@ -185,6 +185,7 @@ R411 Telephone Jack
 Network settings, Ethernet -> network and sharing -> ethernet -> Properties -> IPV4 -> (Static for servers) -> 
 
 
-SFP Small Form Plugable  
+SFP Small Form Pluggable 
+(Just fancy form for size)
 
 
