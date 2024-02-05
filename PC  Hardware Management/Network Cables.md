@@ -67,5 +67,34 @@
 		- 
 
 - Twisted Pair Connectors 
-	- 
-Fiber Optic Cable 
+	- RJ11 
+		- 4 or 6 connectors
+		- Supports up to 2 pairs (one phone and one power)
+		- Telephone wiring
+		- Old and outdated (Like your grandma) 
+	- RJ45
+		- 8 Connectors, supports up to 4 pairs
+		- Using a locking tab to keep a connector secure
+		- Ethernet 
+
+- Cable Tips 
+	- Use a crimping tool designed for RJ45 connectors to attach it to the UTP cable 
+	- Punch-down tool
+	- Use the correct connector type (duh)
+	- Keep the pairs twisted as much as possible up to the connector, reduces crosstalk
+	- Making Cat 6 compliant cables is incredibly difficult, (it's a bitchy wire)
+
+
+- Fiber Optic Cable 
+	- Delivers data, video, and voice services faster and more reliably than other cable systems (with the god-damn light, wow)
+	- 4 Different components
+		- Plastic Sheath
+			- Encases everything and protects the cable
+		- Protective Layer
+			- provides a stiff structure to prevent the cladding and the central core from breaking 
+		- Cladding
+			- maintains the signal in the center of the core as the cable bends 
+		- Central Core
+			- Carries the signal, made of plastic or glass 
+
+
