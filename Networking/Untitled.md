@@ -7,4 +7,7 @@ LAN Vs WLAN
 
 This classroom is a LAN 
 
-LAN Device is a 
+LAN Device  - A switch that connects devices (Layer 2, looks at MAC address)
+
+WLAN Device - A router that connects multiple LANS 
+
