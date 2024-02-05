@@ -34,6 +34,21 @@
 		- Foil Shield (Only with STP, NOT in UTP)
 
 - Twisted Pair Standards 
-	
+	- T568A 
+	- T568B
+	- GoBOBBr 
+	- 
+
+- Twisted Pair Categories 
+	- Category        Connector            Speed          Frequency             Info 
+	- Phone Cable       RJ11                10 Mbps           N/A
+	- Cat 5                  RJ45               100 Mbps         100 mHz
+	- Cat 5e               RJ45                1000 Mbps       100 mHz      
+	- Cat 6                 RJ45                 10 Gbps           250 mHz
+	- Cat 6a               RJ45                10 Gbps            500 MHz 
+	- Cat 7                RJ45                  10 Gbps           600 MHz 
+	- Cat 7a              RJ45                   10 Gbps          1000 MHz
+	- Cat 8.1             RJ45(Class I)       25 Gbps          2000 MHz 
+	- Cat 8.2            RJ45 (Class I)       40 Gbps          2000 MHz 
 
 Fiber Optic Cable 
