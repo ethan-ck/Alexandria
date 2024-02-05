@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "44fd3c794c66137e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Untitled 1.md",
+                "file": "Networking/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Untitled 1.md",
+                "file": "Networking/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Untitled 1.md"
+                "file": "Networking/SQL.md"
               }
             }
           }
@@ -177,10 +189,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1857c2a340d1788e",
+  "active": "44fd3c794c66137e",
   "lastOpenFiles": [
-    "Networking/Untitled.md",
     "Networking/Untitled 1.md",
+    "Networking/SQL.md",
+    "Networking/Untitled.md",
     "Networking/Network Cables and Connectors.md",
     "Networking/The OSI Model.md",
     "Networking/Identifiers.md",
@@ -220,7 +233,6 @@
     "Programming/Papyrus/Test script.md",
     "Untitled 1",
     "Database Design and Development",
-    "Testing.md",
     "Programming"
   ]
 }
