@@ -188,4 +188,7 @@ Network settings, Ethernet -> network and sharing -> ethernet -> Properties -> I
 SFP Small Form Pluggable 
 (Just fancy form for size)
 
+Left is link, right is power (He's still breathing) 
+
+
 
