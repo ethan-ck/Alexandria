@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "1857c2a340d1788e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "44fd3c794c66137e",
             "type": "leaf",
             "state": {
@@ -73,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Untitled.md",
+                "file": "PC  Hardware Management/Network Cables.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Untitled.md",
+                "file": "PC  Hardware Management/Network Cables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Untitled.md",
+                "file": "PC  Hardware Management/Network Cables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Untitled.md"
+                "file": "PC  Hardware Management/Network Cables.md"
               }
             }
           }
@@ -215,14 +203,14 @@
   },
   "active": "ce6fb5bc02ffcac5",
   "lastOpenFiles": [
+    "PC  Hardware Management/Computing Basics.md",
+    "Networking/SQL Basics.md",
+    "Networking/Untitled.md",
+    "Networking/Untitled 2.md",
     "Networking/Untitled 1.md",
     "Networking/Network Cables and Connectors.md",
     "PC  Hardware Management/Network Cables.md",
-    "PC  Hardware Management/Computing Basics.md",
     "PC  Hardware Management/PC Technician Responsibilities.md",
-    "Networking/Untitled 2.md",
-    "Networking/SQL Basics.md",
-    "Networking/Untitled.md",
     "Networking/The OSI Model.md",
     "Networking/Identifiers.md",
     "Biology/The Chemical Basis of Life.md",

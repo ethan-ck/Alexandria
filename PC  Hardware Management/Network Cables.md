@@ -9,19 +9,26 @@
 		
 		- PVC Sheath - Cover the conductor 
 
-- RG-59 
-	- Rarely used
-	- Poor signal quality
+- Coaxial Cable Standards 
+	- RG-59 
+		- Rarely used
+		- Poor signal quality
+	
+	- RG-6 
+		- Higher signal quality 
+		- used by cable/satellite TV and internet 
 
-- RG-6 
-	- Higher signal quality 
-	- used by cable/satellite TV and internet 
-
-- Connectors for Coaxial 
+- Coaxial Cable Connectors 
 	- F-Type
-	- BNC 
+		- Creates cable and satellite TV connections 
+		- Connects a cable modem to a broadband cable connection 
+		- 
+	- BNC (Bayonet Neill-Concelman) 
+		- Legacy 10Base3 Ethernet networks in specialized industries
 
 
-Twisted Pair Cable 
+Twisted Pair Cables
+- 
+
 
 Fiber Optic Cable 
