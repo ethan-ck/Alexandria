@@ -173,12 +173,18 @@ Router
 Switch
 Patch Panel
 Fiber Optic Panel 
-
+Corps server
+CorpiSCSI (thicc)
+CorpData 
+Wireless Controller 
 
 Red Icon is Local Area Network 
 
 R411 Telephone Jack
 
 Network settings, Ethernet -> network and sharing -> ethernet -> Properties -> IPV4 -> (Static for servers) -> 
+
+
+SFP Small Form Plugable  
 
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Untitled.md",
+                "file": "Networking/Network Cables and Connectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Untitled.md",
+                "file": "Networking/Network Cables and Connectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Untitled.md",
+                "file": "Networking/Network Cables and Connectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Untitled.md"
+                "file": "Networking/Network Cables and Connectors.md"
               }
             }
           }
@@ -167,8 +167,8 @@
   },
   "active": "0b74de266f2af381",
   "lastOpenFiles": [
-    "Networking/The OSI Model.md",
     "Networking/Untitled.md",
+    "Networking/The OSI Model.md",
     "Networking/Identifiers.md",
     "Networking/Network Cables and Connectors.md",
     "Biology/The Chemical Basis of Life.md",
