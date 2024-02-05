@@ -33,3 +33,7 @@ This SQL query gets the students who are 25 or younger.
 SELECT* FROM Student WHERE StudentAge <=25 OR EthnicityKey = "Caucasian"  
 
 Same query but also adds Caucasians 
+
+SELECT* FROM Tutor ORDER BY TutorHireDate DESC 
+
+Sorts the TutorHireDate by descending 
