@@ -35,4 +35,26 @@
 		- USB4, Gen 3x2, 40 Gbps, Requires USB-C connector type
 
 - USB Connectors 
+	- USB Type-A 
+		- Standard connector on all desktop PCs and older laptops
+		- Consists of Keyboards, Mice, and flash drives 
+	- USB Type-B 
+		- Largest connector designed to carry both data and power
+		- Used with printers, scanners, external hard drives, or other large devices
+		- Networking devices such as hubs or modems also use it 
+	- USB Mini-B
+		- Replaced by the Micro-USB
+		- Was Popular for digital cameras and some cellphones 
+	- USB Micro-B (Micro-USB)
+		- widely used on smartphones and tablets
+	- USB Type-C 
+		- Designed to be smaller, thinner, and lighter for mobile devices
+		- Cable is reversible with the same connector on both ends
+		- Designed to withstand 10,000 insertion and removal cycles 
+
+- USB Devices 
+	- Self-Powered
+		- Devices that rely on their own power supply
+	- Bus-Powered 
+		- Wires to carry both power and data, they get their power via the USB cable 
 	- 
