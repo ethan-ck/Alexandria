@@ -23,13 +23,16 @@
 	- Serial Port (DB9 Connector)
 		- Outdated, connects barcode scanners (lmao)
 
-- Universal Serial Bus (USB)
-	- Created to simplify device connections, one port, one cable
-	- USB Interplementers Forum (USBIF)
+- Universal Serial Bus (USB) Standards 
+	- USB Implementers Forum (USBIF)
 		- Established the standards for USB Ports
-	- USB 1.x, low speed, 1.5 Mbps 
-	- USB 1.1, full speed, 12 Mbps 
-	- USB 2.0, Hi-Speed, 480 Mbps 
-	- USB 3.0 Superspeed, 5 Gbps 
-	- USB 3.1 SuperSpeed+, 10 Gbps
-	- USB 3.2 SuperSpeedx2, 20 Gbps 
+		- USB 1.x, low speed, 1.5 Mbps 
+		- USB 1.1, full speed, 12 Mbps 
+		- USB 2.0, Hi-Speed, 480 Mbps 
+		- USB 3.0, Superspeed, 5 Gbps 
+		- USB 3.1, SuperSpeed+, 10 Gbps
+		- USB 3.2, SuperSpeedx2, 20 Gbps 
+		- USB4, Gen 3x2, 40 Gbps, Requires USB-C connector type
+
+- USB Connectors 
+	- 
