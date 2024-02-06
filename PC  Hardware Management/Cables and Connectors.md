@@ -58,3 +58,6 @@
 	- Bus-Powered 
 		- Wires to carry both power and data, they get their power via the USB cable 
 	- 
+
+- Hard Drive Cables 
+	- 

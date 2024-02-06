@@ -24,6 +24,16 @@
 	- BNC (Bayonet Neill-Concelman) 
 		- Legacy 10Base3 Ethernet networks in specialized industries
 
+- Coaxial Advantages and Disadvantages
+	- Advantages
+		- Less susceptible to electromagnetic Interference (EMI)
+		- Resistant to physical damage (mostly)
+		- Large existing infrastructure 
+	- Disadvantages
+		- Expensive to run over long distances
+		- Must be run with multiple splitters over long distance which degrade signal quality
+		- Difficult to bend around corners
+
 
 - Twisted Pair Cables
 	- Reduces interference when transmitting signals. It supports a wide range of fast, modern network standards.
