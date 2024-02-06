@@ -125,4 +125,3 @@
 	- MT-RJ Connector ()
 		- used with single mode and multi-mode cabling 
 		- uses metal guide pins to ensure it is properly aligned 
-
