@@ -1,3 +1,12 @@
 
 - External Connectors 
-	- 
+	- PS/2 Ports
+		- Mini din 
+		- Ports can be different colors, Purple PS/2 is keyboard, Green is Mouse
+	- Video ports
+		- VGA Port 
+		- DVI Port 
+		- HDMI (High Definition Multimedia Interface)
+		- Display Port
+	- USB Ports (Universal Serial Bus)
+		- 
