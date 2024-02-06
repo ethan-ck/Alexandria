@@ -82,7 +82,7 @@
 	- Punch-down tool
 	- Use the correct connector type (duh)
 	- Keep the pairs twisted as much as possible up to the connector, reduces crosstalk
-	- Making Cat 6 compliant cables is incredibly difficult, (it's a bitchy wire)
+	- Making Cat 6 compliant cables is incredibly difficult, (it's like my ex-wife)
 
 
 - Fiber Optic Cable 
@@ -96,5 +96,33 @@
 			- maintains the signal in the center of the core as the cable bends 
 		- Central Core
 			- Carries the signal, made of plastic or glass 
+	- So damn fast, literally the speed of light. But is really damn expensive, like caviar 
 
+- Fiber Optic Mode
+	- These are different types of Fiber Optic Cable and are NOT interchangeable
+		- Single-Mode
+			- Transfers data through the core using a single light ray(also called mode)
+			- Supports a large amount of data
+			- extends a great distance 
+		- Multi-Mode 
+			- Use multiple light rays that bounce up and down
+			- Limits the distances of cable lengths 
+
+- Fiber Optic Connectors
+	- ST Connector (The Rising Sun Connector)
+		- Used with single mode and multi-mode cabling
+		- Keyed, BAYONET-type connector
+		- PUSH IN AND TWIST
+		- Red and White (Kind of)
+	- SC Connector (Prussian Connector)
+		- used with single-mode and multi-mode cabling
+		- push on, pull off connector
+		- Red, white, black
+	- LC Connector (Twins)
+		- Used with single-mode and multi-mode cabling
+		- Single connector with two ends to keep the two cables in place
+		- half the size of other fiber optic connectors
+	- MT-RJ Connector ()
+		- used with single mode and multi-mode cabling 
+		- uses metal guide pins to ensure it is properly aligned 
 
