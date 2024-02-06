@@ -19,3 +19,8 @@ on CorpiSCSI Server
 =INDEX(A5:J18,MATCH("M-07",C5:C18,0),6)
 
 =AVERAGEIFS(E5:E18, C5:C18, "Blue", D5:D18, "FIRE")
+
+=MAXIFS(E4:E21,C4:21,"Construction",D4:D21,2)
+
+
+-
