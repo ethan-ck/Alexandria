@@ -73,8 +73,7 @@
 		- NFPA regulated (communists)
 	- Riser 
 		- Run between floors through open vertical shafts
-		- Suited for areas not defined as plenum but may conduct fire from one floor to another 
-		- 
+		- Suited for areas not defined as plenum but may conduct fire from one floor to another
 
 - Twisted Pair Connectors 
 	- RJ11 
@@ -86,6 +85,18 @@
 		- 8 Connectors, supports up to 4 pairs
 		- Using a locking tab to keep a connector secure
 		- Ethernet 
+
+
+- Twisted Pair Advantages and Disadvantages
+	- Advantages
+		- Cheaper than the other cables
+		- Easy to install, flexible, and lightweight
+		- Very common 
+	- Disadvantages
+		- Cheap
+		- Susceptible to EMI
+		- low bandwidth
+		- vulnerable to damage and security issues 
 
 - Cable Tips 
 	- Use a crimping tool designed for RJ45 connectors to attach it to the UTP cable 
@@ -135,3 +146,14 @@
 	- MT-RJ Connector ()
 		- used with single mode and multi-mode cabling 
 		- uses metal guide pins to ensure it is properly aligned 
+
+- Fiber Optic Advantages and Disadvantages
+	- Advantages
+		- Completely immune to EMI
+		- Highly resistant to eavesdropping
+		- Fast 
+		- Greater cable distances w/o a repeater
+	- Disadvantages 
+		- VERY expensive
+		- VERY difficult to work with
+		- Requires specially trained workers 
