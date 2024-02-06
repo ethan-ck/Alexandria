@@ -1,5 +1,5 @@
 
-- External Connectors 
+- Types of External Connectors 
 	- PS/2 Ports
 		- Mini din 
 		- Ports can be different colors, Purple PS/2 is keyboard, Green is Mouse
@@ -9,4 +9,27 @@
 		- HDMI (High Definition Multimedia Interface)
 		- Display Port
 	- USB Ports (Universal Serial Bus)
-		- 
+		- Blue are 3.0 Ports, they're faster
+		- Firewire port AKA IEEE1394 Port
+			- Can be used in place for USB Ports, but USBs are standard
+	- Audio Ports
+		- SPIDIF Ports
+			- Transmit a high-quality digital audio audio
+			- Has a coaxial and fiber optic port
+		- Audio Jacks
+			- Usually color coated
+			- AUDIO WOW 
+	- Ethernet Ports
+	- Serial Port (DB9 Connector)
+		- Outdated, connects barcode scanners (lmao)
+
+- Universal Serial Bus (USB)
+	- Created to simplify device connections, one port, one cable
+	- USB Interplementers Forum (USBIF)
+		- Established the standards for USB Ports
+	- USB 1.x, low speed, 1.5 Mbps 
+	- USB 1.1, full speed, 12 Mbps 
+	- USB 2.0, Hi-Speed, 480 Mbps 
+	- USB 3.0 Superspeed, 5 Gbps 
+	- USB 3.1 SuperSpeed+, 10 Gbps
+	- USB 3.2 SuperSpeedx2, 20 Gbps 
