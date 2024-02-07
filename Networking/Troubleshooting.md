@@ -43,9 +43,9 @@
 			- insertion loss, light is lost 
 			- Optical return loss (ORL)
 			- Polishing Rating
-				- Physical Contct (PC)
-				- SuperPhysical Contact
-				- UltraPhysical contact
+				- Physical Contact (PC)
+				- Super Physical Contact
+				- Ultra Physical contact
 				- Angled Physical Contact
 		- Cable Connector Issues
 			- Fragile/Don't bend it
@@ -61,3 +61,5 @@
 					- connectors
 					- splices
 					- Loss budget
+						- Leak loss margin = less than 3 dB of recommended 
+- 
