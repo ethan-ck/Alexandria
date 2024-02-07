@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC  Hardware Management/Cables and Connectors.md",
+                "file": "Networking/Network Cables and Connectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f77b2ecf2b6213e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Troubleshooting.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC  Hardware Management/Cables and Connectors.md",
+                "file": "Networking/Troubleshooting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC  Hardware Management/Cables and Connectors.md",
+                "file": "Networking/Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC  Hardware Management/Cables and Connectors.md"
+                "file": "Networking/Troubleshooting.md"
               }
             }
           }
@@ -165,17 +177,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25103c31f325bd9b",
+  "active": "5f77b2ecf2b6213e",
   "lastOpenFiles": [
-    "PC  Hardware Management/Network Cables.md",
+    "Networking/Network Cables and Connectors.md",
+    "Networking/Troubleshooting.md",
     "PC  Hardware Management/Cables and Connectors.md",
+    "PC  Hardware Management/Network Cables.md",
     "PC  Hardware Management/Computing Basics.md",
     "Networking/Untitled.md",
     "Programming/Unsorted.md",
     "Database Design and Development/SQL Basics.md",
-    "Networking/Network Cables and Connectors.md",
     "Networking/Untitled 2.md",
-    "Networking/Untitled 1.md",
     "PC  Hardware Management/PC Technician Responsibilities.md",
     "Networking/The OSI Model.md",
     "Networking/Identifiers.md",
