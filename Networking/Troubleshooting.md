@@ -6,9 +6,28 @@
 	- Crosstalk
 		- Wire intercepts another wire 
 		- Near end crosstalk (NEXT)
-			- Same connector on dif wires
+			- Same connector on different wires
 		- Far end crosstalk
 			- Same connector on opposite ends 
-		- ALien crosstalk (Spooky)
-			- Corsstalk corsses over to a separate para crosstalk
-		- 
+		- Alien crosstalk 
+			-  crosses over to a separate paralcrosstalk
+		- To minimize crosstalk
+			- Wire them properly
+			- Maintain twists right up to the connectors on both ends
+			- tight like a tiger
+		- Attenuation
+			- Loss of signal strength over distance
+			- longer cable = more Attenuation 
+			- UTP has a limit of 100 meters (328 ft.)
+		- impedence Mismatch
+			- Impedance is the measure of resistance 
+			- Like friction in the wire
+			- Occurs when wires have different impedance ratings 
+		- Shorts
+			- Takes a different path than intended 
+			- alternative path gives the electricity a new path that has less resistance
+		- Connectors are mismatched
+			- User error (reversal)
+		- Wire mapping 
+		- Split Pair
+			- occurs when two pins on one wire are crossed
