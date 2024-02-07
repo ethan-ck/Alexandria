@@ -71,4 +71,5 @@
 		- Creates airflow behind the motherboard and prevents the traces from touching other components and shorting
 	- Screw in the motherboard via standoffs
 	- Attach Power supply connector (20+4 connector)
-	- Connect CPU 
+	- Connect CPU Power 
+	- Connect Front Panel Connectors 
