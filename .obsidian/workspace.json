@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Design and Development/Requirements and Business Rules.md",
+                "file": "PC  Hardware Management/Cables and Connectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "373c521fe35596b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PC  Hardware Management/Cases and Form Factors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Design and Development/Requirements and Business Rules.md",
+                "file": "PC  Hardware Management/Cases and Form Factors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Design and Development/Requirements and Business Rules.md",
+                "file": "PC  Hardware Management/Cases and Form Factors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Design and Development/Requirements and Business Rules.md"
+                "file": "PC  Hardware Management/Cases and Form Factors.md"
               }
             }
           }
@@ -201,19 +213,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50bc9c8a7196efae",
+  "active": "373c521fe35596b6",
   "lastOpenFiles": [
-    "PC  Hardware Management/Computing Basics.md",
+    "PC  Hardware Management/Cables and Connectors.md",
+    "PC  Hardware Management/Cases and Form Factors.md",
+    "Networking/Network Adapters.md",
+    "Networking/Troubleshooting.md",
     "Database Design and Development/Requirements and Business Rules.md",
+    "PC  Hardware Management/Computing Basics.md",
     "Database Design and Development/Misc.md",
     "PC  Hardware Management/Network Cables.md",
     "Database Design and Development/Types of Databases.md",
     "Networking/Untitled.md",
-    "PC  Hardware Management/Cables and Connectors.md",
     "Networking/Identifiers.md",
     "Networking/Network Cables and Connectors.md",
-    "Networking/Troubleshooting.md",
-    "Networking/Network Adapters.md",
     "Networking/The OSI Model.md",
     "Programming/Unsorted.md",
     "Database Design and Development/SQL Basics.md",
@@ -237,7 +250,6 @@
     "Hierarchical-Database-Model-example.png",
     "large-Hierarchical-Databases-v2-1.jpg",
     "00 - Landing Page.md",
-    "Home.md",
     "Data Structures and Algorithms/1280px-Comparison_computational_complexity.svg.png",
     "Programming/C++",
     "Programming/Java",

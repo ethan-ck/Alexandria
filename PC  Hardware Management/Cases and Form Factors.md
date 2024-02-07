@@ -1,0 +1,45 @@
+
+- Cases come in all sorts of shapes and sizes to fit the Motherboard's Form Factor
+	- The Form Factor is just a fancy way to say size of the motherboard 
+	- ATX Form Factor (Standard ATX)
+		- Commonly used
+		- 9.6x12 in.
+		- has 6-7 expansion slots
+	- Micro ATX Form Factor 
+		- 9.6x9.6 in. 
+		- only 4 expansion slots
+	- Extended ATX Form Factor
+		- Bigger 
+
+- Form Factor Types 
+	- - ATX Form Factor (Standard ATX)
+		- Commonly used
+		- 9.6x12 in.
+		- has 6-7 expansion slots
+	- Micro ATX Form Factor 
+		- 9.6x9.6 in. 
+		- only 4 expansion slots
+	- Extended ATX Form Factor
+		- 12x13 in.
+		- uses extra space for additonal membor
+	- ITX Form Factor
+		- Used for small computers
+	- Mini-ITX
+		- 6.7x6.7 in
+		- one expansion slot
+		- Low-power, low-temp motherboard
+	- BTX Form Factor
+		- Intended to replace ATX form factor, but lost
+		- Roughly the same size, but different orientation
+		- Rare
+	- NLX
+		- Unique backboard design
+		- uses a riser card, allows cards to be installed parallel to the motherboard
+		- rare
+
+- PC Case Types
+	- Mini-ITX
+	- micro-ATX Slim Tower
+	- micro-ATX Tower
+	- ATX Mid-Tower
+	- ATX Full-Tower 
