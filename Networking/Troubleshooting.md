@@ -31,3 +31,33 @@
 		- Wire mapping 
 		- Split Pair
 			- occurs when two pins on one wire are crossed
+
+- Fiber Optic Troubleshooting 
+	- Connector Issues
+		- Mismatched connector 
+		- fiber needs to line up with the connector
+		- dirty connector 
+			- Alcohol wipes
+			- special cleaning sticks
+		- Polishing
+			- insertion loss, light is lost 
+			- Optical return loss (ORL)
+			- Polishing Rating
+				- Physical Contct (PC)
+				- SuperPhysical Contact
+				- UltraPhysical contact
+				- Angled Physical Contact
+		- Cable Connector Issues
+			- Fragile/Don't bend it
+			- Wavelength mismatch 
+				- Single mode to multimode
+				- Different diameters
+			- Media Adapters
+				- GBIC, use correct type of fiber optic for the adapter
+				- Adapter modules usually go bad
+			- Signal Loss
+				- Attenuation
+					- Cable length
+					- connectors
+					- splices
+					- Loss budget
