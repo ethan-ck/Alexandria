@@ -21,7 +21,7 @@
 		- only 4 expansion slots
 	- Extended ATX Form Factor
 		- 12x13 in.
-		- uses extra space for additonal membor
+		- uses extra space for additional memory slots 
 	- ITX Form Factor
 		- Used for small computers
 	- Mini-ITX
@@ -43,3 +43,32 @@
 	- micro-ATX Tower
 	- ATX Mid-Tower
 	- ATX Full-Tower 
+
+- Motherboard Components 
+	- Allow parts to communicate with each other
+	- Components of a Motherboard
+		- CPU Socket 
+		- Memory Slots
+		- ATX Power Connector
+		- CPU Power Connector
+		- Case Fan Connectors
+		- CPU Fan Connector
+		- Expansion Slots AKA Peripheral Component Interconnect (PCI)
+		- Front Panel Connectors
+		- SATA Connectors
+		- CMOS Battery
+			- Supplies power to BIOS
+			- Volatile, so modern motherboards don't do this 
+		- Chipset
+			- Manages communications between all connected components
+		- I/O Connectors
+		- Lines on the back of the MB are called traces 
+		- 
+
+- Installing a Motherboard 
+	- I/O Shield 
+	- Install Motherboard Standoffs 
+		- Creates airflow behind the motherboard and prevents the traces from touching other components and shorting
+	- Screw in the motherboard via standoffs
+	- Attach Power supply connector (20+4 connector)
+	- Connect CPU 

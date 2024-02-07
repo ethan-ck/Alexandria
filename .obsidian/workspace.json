@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC  Hardware Management/Cases and Form Factors.md",
+                "file": "PC  Hardware Management/Cases and Motherboards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f50a99748892474",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PC  Hardware Management/Cases and Motherboards.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC  Hardware Management/Cases and Form Factors.md",
+                "file": "PC  Hardware Management/Cases and Motherboards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC  Hardware Management/Cases and Form Factors.md",
+                "file": "PC  Hardware Management/Cases and Motherboards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC  Hardware Management/Cases and Form Factors.md"
+                "file": "PC  Hardware Management/Cases and Motherboards.md"
               }
             }
           }
@@ -213,11 +225,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "373c521fe35596b6",
+  "active": "1f50a99748892474",
   "lastOpenFiles": [
-    "PC  Hardware Management/Cables and Connectors.md",
-    "PC  Hardware Management/Cases and Form Factors.md",
     "Networking/Network Adapters.md",
+    "PC  Hardware Management/Untitled.md",
+    "PC  Hardware Management/Cases and Motherboards.md",
+    "PC  Hardware Management/Cables and Connectors.md",
     "Networking/Troubleshooting.md",
     "Database Design and Development/Requirements and Business Rules.md",
     "PC  Hardware Management/Computing Basics.md",
@@ -249,7 +262,6 @@
     "download (1).png",
     "Hierarchical-Database-Model-example.png",
     "large-Hierarchical-Databases-v2-1.jpg",
-    "00 - Landing Page.md",
     "Data Structures and Algorithms/1280px-Comparison_computational_complexity.svg.png",
     "Programming/C++",
     "Programming/Java",
