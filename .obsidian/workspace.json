@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Untitled.md",
+                "file": "Database Design and Development/Misc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50bc9c8a7196efae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database Design and Development/Requirements and Business Rules.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Untitled.md",
+                "file": "Database Design and Development/Requirements and Business Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Untitled.md",
+                "file": "Database Design and Development/Requirements and Business Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Untitled.md"
+                "file": "Database Design and Development/Requirements and Business Rules.md"
               }
             }
           }
@@ -189,13 +201,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "557f22a5589513f2",
+  "active": "50bc9c8a7196efae",
   "lastOpenFiles": [
+    "Database Design and Development/Misc.md",
+    "Database Design and Development/Requirements and Business Rules.md",
     "PC  Hardware Management/Network Cables.md",
+    "Database Design and Development/Types of Databases.md",
+    "Networking/Untitled.md",
     "PC  Hardware Management/Cables and Connectors.md",
     "Networking/Identifiers.md",
     "Networking/Network Cables and Connectors.md",
-    "Networking/Untitled.md",
     "Networking/Troubleshooting.md",
     "Networking/Network Adapters.md",
     "Networking/The OSI Model.md",
@@ -207,10 +222,8 @@
     "Biology/The Chemical Basis of Life.md",
     "Biology/Characteristics of Life.md",
     "Database Design and Development/Vince's Vinyl SOW.md",
-    "Database Design and Development/Misc.md",
     "Database Design and Development/Gathering Information.md",
     "Database Design and Development/Chapter 1 Case Study.md",
-    "Database Design and Development/Types of Databases.md",
     "Untitled 9/Working Title.md",
     "Untitled",
     "Data Structures and Algorithms/Sort Algorithms.md",
@@ -225,7 +238,6 @@
     "large-Hierarchical-Databases-v2-1.jpg",
     "00 - Landing Page.md",
     "Home.md",
-    "Data Structures and Algorithms/Recursion.md",
     "Data Structures and Algorithms/1280px-Comparison_computational_complexity.svg.png",
     "Programming/C++",
     "Programming/Java",
