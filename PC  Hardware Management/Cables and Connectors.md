@@ -60,4 +60,4 @@
 	- 
 
 - Hard Drive Cables 
-	- 
+	- Hard Drives are connected through the 
