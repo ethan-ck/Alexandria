@@ -15,4 +15,4 @@
 	- Switch the current one with the new one in the back of the PC 
 - Blue SC to LC 
 - Media converter on the bottom of the rack 
-- 
+- Black is RX, goes into port 24 
