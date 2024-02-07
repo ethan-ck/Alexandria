@@ -6,4 +6,9 @@
 	- Computer needs a NIC card to be networked
 	- MAC Address is burned in 
 	- Transceiver, which is a big part of the NIC card
+- For the LAb
+	- No fiber cards
+	- No modems 
+	- 1000BaseTX, PCIe Orange 
+	- Frankenstein example (Nervous system)
 	- 
