@@ -25,3 +25,13 @@ Organic Chemistry focuses on the molecules that build living things
 		- Has H(ydrogen) on one side with a HO(Hydorgen-oxide) on another side
 		- With two monomers, they combine together to form H20.
 	- Dehydration Synthesis 
+		- Synthesis refers to building or making something
+		- Dehydration refers to remove/lose water
+		- Dehydration Synthesis is the action of losing water
+		- All Macromolecules are built using this same process
+		- Adding back in the water will break the bond, and revert the two monomers back to their original form 
+	- Hydrolysis
+		- Hydro = water (duh)
+		- lysis = to break 
+		- BREAK THE WATER
+	- 
