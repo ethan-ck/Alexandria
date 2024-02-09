@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC  Hardware Management/Cases and Motherboards.md",
+                "file": "Biology/Characteristics of Life.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35219742e18f2c8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/Organic Molecules.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC  Hardware Management/Cases and Motherboards.md",
+                "file": "Biology/Organic Molecules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC  Hardware Management/Cases and Motherboards.md",
+                "file": "Biology/Organic Molecules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC  Hardware Management/Cases and Motherboards.md"
+                "file": "Biology/Organic Molecules.md"
               }
             }
           }
@@ -152,10 +165,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50bc9c8a7196efae",
+  "active": "35219742e18f2c8c",
   "lastOpenFiles": [
-    "Networking/Network Adapters.md",
+    "Biology/Characteristics of Life.md",
+    "Biology/Organic Molecules.md",
+    "Database Design and Development/Chapter 1 Case Study.md",
+    "Networking/The OSI Model.md",
     "PC  Hardware Management/Cases and Motherboards.md",
+    "Networking/Network Adapters.md",
     "Database Design and Development/SQL Basics.md",
     "Database Design and Development/Requirements and Business Rules.md",
     "PC  Hardware Management/Computing Basics.md",
@@ -167,15 +184,12 @@
     "Networking/Identifiers.md",
     "Networking/Network Cables and Connectors.md",
     "Networking/Troubleshooting.md",
-    "Networking/The OSI Model.md",
     "Programming/Unsorted.md",
     "Networking/Untitled 2.md",
     "PC  Hardware Management/PC Technician Responsibilities.md",
     "Biology/The Chemical Basis of Life.md",
-    "Biology/Characteristics of Life.md",
     "Database Design and Development/Vince's Vinyl SOW.md",
     "Database Design and Development/Gathering Information.md",
-    "Database Design and Development/Chapter 1 Case Study.md",
     "Untitled 9/Working Title.md",
     "Untitled",
     "Data Structures and Algorithms/Sort Algorithms.md",
@@ -188,7 +202,6 @@
     "download (1).png",
     "Hierarchical-Database-Model-example.png",
     "large-Hierarchical-Databases-v2-1.jpg",
-    "00 - Landing Page.md",
     "Data Structures and Algorithms/1280px-Comparison_computational_complexity.svg.png",
     "Programming/C++",
     "Programming/Java",
