@@ -21,17 +21,22 @@ Organic Chemistry focuses on the molecules that build living things, specificall
 		- Phosphate 
 			- ATP (Energy), nucleic acids 
 
-- Gluten
-	- Gluten is a type of protein
-	- Found in Wheat, rye and barley 
-	- Celiac disease is a disorder involving the body identifying gluten as a foreign pathogen. 
 - 4 Groups of Molecules
 	- Carbs
+		- The immediate energy source 
+		- For plants and fungi, they are used in structural functions
+		- Bread, Corn, rice, pasta, potatoes 
+		- Exist as saccharides (sugar) 
+		- Monosaccharides, Disaccharide, polysaccharide 
 	- Proteins
+		- Gluten
+			- Gluten is a type of protein
+			- Found in Wheat, rye and barley 
+			- Celiac disease is a disorder involving the body identifying gluten as a foreign pathogen. 
+
 	- Lipids
 	- Nucleic Acids
-
-- Our bodies NEED these molecules to function, it is also essential to understand these molecules or "building blocks" to see how we function.
+		- Form our genetic material 
 
 - Basic Terminology used in Organic Chemistry
 	- Macromolecules 
@@ -61,4 +66,3 @@ Organic Chemistry focuses on the molecules that build living things, specificall
 		- BREAK THE WATER
 	- 
 
-- 
