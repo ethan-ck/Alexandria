@@ -73,3 +73,17 @@
 	- Attach Power supply connector (20+4 connector)
 	- Connect CPU Power 
 	- Connect Front Panel Connectors 
+
+- Motherboard Troubleshooting 
+	- Black Screen
+		- Disconnect non-essential peripherals to the PC and try rebooting 
+		- Disable all non-essential applications and put them to sleep automatically, then reboot
+		- Reset to default settings using core BIOS/UEFI configurations by 
+			- Ensure the boot priority is correct.
+		- Launch a Windows repair and perform a system restore
+		- Boot into safe mode 
+	- Lack of Power
+		- Check if the computer POSTs (Power-On Self Test)
+			- This checks a computer's internal hardware for compatibility and connection before starting the remainder of the boot process. If it passes, it may beep once or twice depending on the hardware.
+				- Ensure that the Pin 9 wire on the PSC connects to the power good wire on the MB
+				- Ensure that the power supply is not failing

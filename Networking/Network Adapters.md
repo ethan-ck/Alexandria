@@ -17,3 +17,4 @@
 - Media converter on the bottom of the rack 
 - Black is RX, goes into port 24 
 Hub connects to Modem, opens up the other ports, connect the computers to the hub 
+
