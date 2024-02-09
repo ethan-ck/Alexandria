@@ -2,7 +2,24 @@ Organic Chemistry focuses on the molecules that build living things, specificall
 
 - The Carbon Atom 
 	- Hydrogen, nitrogen, and oxygen are elements that a carbon atom shares electrons to complete its outer shell
-	- Molecules with different strcutures but the same combi
+	- Molecules with different structures but the same combination of atoms are called isomers 
+	- CO2 lacks hydrogen 
+
+- The Carbon  Skeleton and Functional Groups
+	- A carbon chain of an organic molecule is called its skeleton/backbone
+	- A functional group is a specific combination of bonded atoms that always has the same chemical properties. 
+	- Functional Groups are recognized by the letter R
+	- There are several Functional Groups
+		- Hydroxyl 
+			- Found in Alcohols and sugars
+		- Carboxyl -COOH
+			- Found in Amino acids and fatty acids
+		- Amino 
+			- Amino acids and proteins
+		- Sulfhydryl -SH
+			- Amina acids, cysteine and proteins
+		- Phosphate 
+			- ATP (Energy), nucleic acids 
 
 - Gluten
 	- Gluten is a type of protein
