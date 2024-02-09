@@ -1,5 +1,13 @@
-Organic Chemistry focuses on the molecules that build living things
+Organic Chemistry focuses on the molecules that build living things, specifically the molecules containing carbon and hydrogen. 
 
+- The Carbon Atom 
+	- Hydrogen, nitrogen, and oxygen are elements that a carbon atom shares electrons to complete its outer shell
+	- Molecules with different strcutures but the same combi
+
+- Gluten
+	- Gluten is a type of protein
+	- Found in Wheat, rye and barley 
+	- Celiac disease is a disorder involving the body identifying gluten as a foreign pathogen. 
 - 4 Groups of Molecules
 	- Carbs
 	- Proteins
