@@ -37,6 +37,8 @@ Organic Chemistry focuses on the molecules that build living things, specificall
 	- Proteins
 		- The building block (monomers) of proteins are amino acids
 			- amino groups and an acid group 
+			- When multiple amino acids join together, they form a polypeptide 
+			- They join together through dehydration reactions 
 		- Like lipids, they are insoluble in water 
 		- Gluten
 			- Gluten is a type of protein
