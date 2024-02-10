@@ -50,6 +50,26 @@ Organic Chemistry focuses on the molecules that build living things, specificall
 				- Something about enzymes lol idk and transporting stuff catalysts 
 		- Proteins also act as carriers or channels within cell membranes, make motion possible, and help defend the body against diseases
 		- Peptides are formed when two amino acids are joined by a dehydration synthesis reaction between the carboxyl group and the amino group of another 
+		- There are 20 different amino acids,w hich differ by their R group
+			- R groups range in complexity from a single hdyrogen atom to a complicated ring strcuture
+			- Some R groups are polar, some are charged, and some are hydrophobic 
+			- 
+	- Protein Structures
+		- Primary structure 
+			- Linear sequence of amino acid monomers in a single polypeptide chain
+				- Is the basis for all the subsequent levels of structure
+			- Secondary Structure
+				- Substructure that results from hydrogen bonds between amino acids 
+					- Helices (fancy name for coils) sheets, and loops
+					- A single polypeptide can have multiple of the things mentioned above 
+				- Tertiary Structure 
+					- Final 3D shape of a single polypeptide chain
+						- Globular shape (fake news) due to various types of bonding between amino acid R groups
+							- Covalent, ionic, and hydrogen bonds
+						- There are hydrophobic (nonpolar) regions towards the center
+					- Quaternary Structure
+						- Two or more folded polypeptides integrated together to form a functional protein 
+							- Only found in proteins that consist of multiple polypeptides 
 
 	- Lipids
 		- Biological molecules such as fats, oils, and waxes. 
