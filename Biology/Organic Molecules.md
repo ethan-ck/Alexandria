@@ -28,6 +28,7 @@ Organic Chemistry focuses on the molecules that build living things, specificall
 		- Bread, Corn, rice, pasta, potatoes 
 		- Exist as saccharides (sugar) 
 		- Monosaccharides, Disaccharide, polysaccharide 
+		- Simple sugars have a 
 	- Proteins
 		- Gluten
 			- Gluten is a type of protein
