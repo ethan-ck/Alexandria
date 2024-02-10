@@ -25,6 +25,7 @@ Organic Chemistry focuses on the molecules that build living things, specificall
 	- Carbs
 		- The immediate energy source 
 		- For plants and fungi, they are used in structural functions
+			- Cellulose 
 		- Bread, Corn, rice, pasta, potatoes 
 		- Exist as saccharides (sugar) 
 		- Monosaccharides, Disaccharide, polysaccharide 
@@ -42,9 +43,14 @@ Organic Chemistry focuses on the molecules that build living things, specificall
 	- Lipids
 		- Biological molecules such as fats, oils, and waxes. 
 		- All lipids are insoluble in water 
-		- In order to form a fatty acid, the 
-			- A long chain of carbon bonded to hydrogen with a carboxyl group at one end 
-			- 
+		- In order to form a fatty acid, a carboxyl group at one end of the chain of carbon must be present 
+		- Fats protect internal organs and provide insulation 
+		- Fats and oils are formed during a dehydration synthesis reaction
+		- Plants use oils as a long term energy storage 
+		- Saturated fatty acids has a hydrogen atom at every possible place along its carbon chain 
+		- Triglycerides serve as a high energy storage molecule 
+		- Steroids have a molecular skeleton made of four fused carbon rings 
+		- Phospholipids have a glycerol backbone,, a phosphate group, and two fatty acids 
 	- Nucleic Acids
 		- Form our genetic material 
 	
