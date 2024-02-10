@@ -86,6 +86,25 @@ Organic Chemistry focuses on the molecules that build living things, specificall
 		- Fatty acids that contains double bonded carbon atoms are unsaturated fatty acids 
 	- Nucleic Acids
 		- Form our genetic material 
+		- Consist of DNA and RNA 
+		- Nucleotides are the building blocks of nucleic acids (monomers) 
+		- Nucleic acids are the polymers of nucleotides 
+		- A nucleotide consists of three parts:
+			- Nitrogen containing base
+			- phosphate group
+			- pentose sugar 
+		- Two sugars
+			- Ribose(RNA)
+			- Deoxyribose (DNA)
+				- Has one less oxygen than ribose 
+		- Four nucleotide bases found in the DNA nucleotides
+			- Adenine
+			- Guanine
+			- Thymine
+			- Cytosine
+			- The correct nucleotide base pairing is A-T, C-G 
+		- RNA nucleotides differ from DNA as they use URACIL instead of thymine
+		- ATP acts as an energy carrier in cells
 	
 
 - Basic Terminology used in Organic Chemistry
