@@ -28,7 +28,11 @@ Organic Chemistry focuses on the molecules that build living things, specificall
 		- Bread, Corn, rice, pasta, potatoes 
 		- Exist as saccharides (sugar) 
 		- Monosaccharides, Disaccharide, polysaccharide 
-		- Simple sugars have a 
+		- Simple sugars have a breakdown of 3 to 7 
+		- They may exist as a saccharide (Sugar) monomer or as polymers of these said saccharides 
+		- animals store glucose in a polysaccharide called glycogen
+			- Polysaccharides are an ideal short term energy storage molecule as they are quite large and insoluble.
+			- The most abundant polysaccharide in nature is cellulose
 	- Proteins
 		- Gluten
 			- Gluten is a type of protein
@@ -36,8 +40,14 @@ Organic Chemistry focuses on the molecules that build living things, specificall
 			- Celiac disease is a disorder involving the body identifying gluten as a foreign pathogen. 
 
 	- Lipids
+		- Biological molecules such as fats, oils, and waxes. 
+		- All lipids are insoluble in water 
+		- In order to form a fatty acid, the 
+			- A long chain of carbon bonded to hydrogen with a carboxyl group at one end 
+			- 
 	- Nucleic Acids
 		- Form our genetic material 
+	
 
 - Basic Terminology used in Organic Chemistry
 	- Macromolecules 
