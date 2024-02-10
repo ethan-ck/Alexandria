@@ -35,10 +35,19 @@ Organic Chemistry focuses on the molecules that build living things, specificall
 			- Polysaccharides are an ideal short term energy storage molecule as they are quite large and insoluble.
 			- The most abundant polysaccharide in nature is cellulose
 	- Proteins
+		- The building block (monomers) of proteins are amino acids
+			- amino groups and an acid group 
+		- Like lipids, they are insoluble in water 
 		- Gluten
 			- Gluten is a type of protein
 			- Found in Wheat, rye and barley 
 			- Celiac disease is a disorder involving the body identifying gluten as a foreign pathogen. 
+		- Primary importance in the structure and function of cells
+			- Support: Structural proteins ex include keratin, collagen, and the protein in spiderwebs 
+			- Metabolism 
+				- Something about enzymes lol idk and transporting stuff catalysts 
+		- Proteins also act as carriers or channels within cell membranes, make motion possible, and help defend the body against diseases
+		- Peptides are formed when two amino acids are joined by a dehydration synthesis reaction between the carboxyl group and the amino group of another 
 
 	- Lipids
 		- Biological molecules such as fats, oils, and waxes. 
@@ -50,7 +59,9 @@ Organic Chemistry focuses on the molecules that build living things, specificall
 		- Saturated fatty acids has a hydrogen atom at every possible place along its carbon chain 
 		- Triglycerides serve as a high energy storage molecule 
 		- Steroids have a molecular skeleton made of four fused carbon rings 
-		- Phospholipids have a glycerol backbone,, a phosphate group, and two fatty acids 
+		- Phospholipids have a glycerol backbone, a phosphate group, and two fatty acids 
+		- Cholesterol is a component of an animal cell's plasma membrane and is a precursor of steroids (Testosterone and estrogen)
+		- Fatty acids that contains double bonded carbon atoms are unsaturated fatty acids 
 	- Nucleic Acids
 		- Form our genetic material 
 	
