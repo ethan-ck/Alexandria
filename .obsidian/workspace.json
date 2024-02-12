@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/The OSI Model.md",
+                "file": "Networking/Network Cables and Connectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/The OSI Model.md",
+                "file": "Networking/Network Cables and Connectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/The OSI Model.md",
+                "file": "Networking/Network Cables and Connectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/The OSI Model.md"
+                "file": "Networking/Network Cables and Connectors.md"
               }
             }
           }
@@ -167,23 +167,23 @@
   },
   "active": "35219742e18f2c8c",
   "lastOpenFiles": [
+    "Networking/Untitled.md",
+    "Networking/Network Adapters.md",
+    "Networking/Troubleshooting.md",
+    "Networking/Identifiers.md",
+    "Networking/Network Cables and Connectors.md",
+    "Networking/The OSI Model.md",
     "Biology/Organic Molecules.md",
     "Biology/Characteristics of Life.md",
     "Database Design and Development/Chapter 1 Case Study.md",
-    "Networking/The OSI Model.md",
     "PC  Hardware Management/Cases and Motherboards.md",
-    "Networking/Network Adapters.md",
     "Database Design and Development/SQL Basics.md",
     "Database Design and Development/Requirements and Business Rules.md",
     "PC  Hardware Management/Computing Basics.md",
     "Database Design and Development/Misc.md",
     "PC  Hardware Management/Network Cables.md",
     "Database Design and Development/Types of Databases.md",
-    "Networking/Untitled.md",
     "PC  Hardware Management/Cables and Connectors.md",
-    "Networking/Identifiers.md",
-    "Networking/Network Cables and Connectors.md",
-    "Networking/Troubleshooting.md",
     "Programming/Unsorted.md",
     "Networking/Untitled 2.md",
     "PC  Hardware Management/PC Technician Responsibilities.md",
