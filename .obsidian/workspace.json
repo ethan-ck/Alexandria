@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50bc9c8a7196efae",
+            "id": "f10b4fd95748d701",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Characteristics of Life.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35219742e18f2c8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Network Cables and Connectors.md",
+                "file": "Networking/Hubs, Ports, and Switches.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Network Cables and Connectors.md",
+                "file": "Networking/Hubs, Ports, and Switches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Network Cables and Connectors.md",
+                "file": "Networking/Hubs, Ports, and Switches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Network Cables and Connectors.md"
+                "file": "Networking/Hubs, Ports, and Switches.md"
               }
             }
           }
@@ -165,13 +152,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35219742e18f2c8c",
+  "active": "f10b4fd95748d701",
   "lastOpenFiles": [
+    "Networking/Network Cables and Connectors.md",
+    "Networking/Hubs, Ports, and Switches.md",
     "Networking/Untitled.md",
     "Networking/Network Adapters.md",
     "Networking/Troubleshooting.md",
     "Networking/Identifiers.md",
-    "Networking/Network Cables and Connectors.md",
     "Networking/The OSI Model.md",
     "Biology/Organic Molecules.md",
     "Biology/Characteristics of Life.md",
@@ -193,7 +181,6 @@
     "Untitled 9/Working Title.md",
     "Untitled",
     "Data Structures and Algorithms/Sort Algorithms.md",
-    "Data Structures and Algorithms/Big-O Notation.md",
     "Networking",
     "PC  Hardware Management",
     "exampl;e.png",
