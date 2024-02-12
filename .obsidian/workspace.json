@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6763b19100c4e914",
+        "id": "e20cd7d160b4804f",
         "type": "tabs",
         "children": [
           {
-            "id": "f10b4fd95748d701",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database Design and Development/Gathering Information.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "841fa3886ebd94fa",
+            "id": "ff325f1d2363a0ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,8 +152,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "841fa3886ebd94fa",
+  "active": "ff325f1d2363a0ba",
   "lastOpenFiles": [
+    "PC  Hardware Management/Cases and Motherboards.md",
+    "PC  Hardware Management/Cables and Connectors.md",
     "PC  Hardware Management/Untitled.md",
     "Database Design and Development/Chapter 3 Homework assignment.md",
     "Database Design and Development/Gathering Information.md",
@@ -180,14 +169,12 @@
     "Biology/Organic Molecules.md",
     "Biology/Characteristics of Life.md",
     "Database Design and Development/Chapter 1 Case Study.md",
-    "PC  Hardware Management/Cases and Motherboards.md",
     "Database Design and Development/SQL Basics.md",
     "Database Design and Development/Requirements and Business Rules.md",
     "PC  Hardware Management/Computing Basics.md",
     "Database Design and Development/Misc.md",
     "PC  Hardware Management/Network Cables.md",
     "Database Design and Development/Types of Databases.md",
-    "PC  Hardware Management/Cables and Connectors.md",
     "Programming/Unsorted.md",
     "Networking/Untitled 2.md",
     "PC  Hardware Management/PC Technician Responsibilities.md",
