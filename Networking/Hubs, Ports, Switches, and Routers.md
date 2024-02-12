@@ -18,5 +18,20 @@
 	- Modulation/Demodulation
 		- Analog is a wave (Phone or voice)
 		- Digital is also a wave(but digital wow square wave 1,0,1,0,1,0)
+- Transceivers
+	- Translates 1 and 0's into + and - charges
+	- Layer 1 only
+	- it's inside the NIC card
+	- SFP
+		- Small Form Factor
+	- GBIC 
+		- Giga Bit Interface Converter
+	- QSFP
+		- Quad SFP
+		- compact, "hot-pluggable"
+	- Bi Di (Bidirectional) transceiver
+- MAC Address on the NIC card
+	- 48-Bit Address = 6 pairs of hexadecimal digits
+	- 1st half is the manufacturer (first 3 pairs)
+	- 2nd half is the device (last 3 pairs)
 	- 
-
