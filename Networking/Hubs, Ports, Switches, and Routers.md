@@ -8,5 +8,8 @@
 - Managed vs Unmanaged Switch
 	- Managed Switches allow you to tweak the settings
 	- Unmanaged is plug and play 
+- ISDN is a WLAN technology 
+	- Don't worry about it rn (telephone type technology)
+- Uplink Port/WAN Port 
 - 
 

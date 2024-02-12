@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Hubs, Ports, and Switches.md",
+                "file": "Networking/Hubs, Ports, Switches, and Routers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Hubs, Ports, and Switches.md",
+                "file": "Networking/Hubs, Ports, Switches, and Routers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Hubs, Ports, and Switches.md",
+                "file": "Networking/Hubs, Ports, Switches, and Routers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Hubs, Ports, and Switches.md"
+                "file": "Networking/Hubs, Ports, Switches, and Routers.md"
               }
             }
           }
@@ -155,7 +155,7 @@
   "active": "f10b4fd95748d701",
   "lastOpenFiles": [
     "Networking/Network Cables and Connectors.md",
-    "Networking/Hubs, Ports, and Switches.md",
+    "Networking/Hubs, Ports, Switches, and Routers.md",
     "Networking/Untitled.md",
     "Networking/Network Adapters.md",
     "Networking/Troubleshooting.md",
