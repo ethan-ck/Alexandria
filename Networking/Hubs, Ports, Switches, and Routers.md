@@ -11,5 +11,12 @@
 - ISDN is a WLAN technology 
 	- Don't worry about it rn (telephone type technology)
 - Uplink Port/WAN Port 
-- 
+
+- Network Adapters (NIC Cards)
+	- In addition to Ethernet, you can have a WiFi connection (WAP)
+	- Modem converts analog to digital 
+	- Modulation/Demodulation
+		- Analog is a wave (Phone or voice)
+		- Digital is also a wave(but digital wow square wave 1,0,1,0,1,0)
+	- 
 
