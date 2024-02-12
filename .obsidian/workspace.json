@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC  Hardware Management/Untitled.md",
+                "file": "PC  Hardware Management/Cables and Connectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC  Hardware Management/Untitled.md",
+                "file": "PC  Hardware Management/Cables and Connectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC  Hardware Management/Untitled.md",
+                "file": "PC  Hardware Management/Cables and Connectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC  Hardware Management/Untitled.md"
+                "file": "PC  Hardware Management/Cables and Connectors.md"
               }
             }
           }
@@ -167,6 +167,7 @@
   },
   "active": "841fa3886ebd94fa",
   "lastOpenFiles": [
+    "PC  Hardware Management/Untitled.md",
     "Database Design and Development/Chapter 3 Homework assignment.md",
     "Database Design and Development/Gathering Information.md",
     "Networking/Hubs, Ports, Switches, and Routers.md",
@@ -192,7 +193,6 @@
     "PC  Hardware Management/PC Technician Responsibilities.md",
     "Biology/The Chemical Basis of Life.md",
     "Database Design and Development/Vince's Vinyl SOW.md",
-    "Untitled 9/Working Title.md",
     "Untitled",
     "Networking",
     "PC  Hardware Management",
