@@ -55,4 +55,30 @@
 	- It splits the LAN into 2 halves, creating 2 separate broadcast domains 
 	- Reduces issue in half 
 	- A gatekeeper 
-- 
+- Switch
+	- Layer 2
+	- Each switch port is it's own segment 
+	- As MACs are learned, it sends the message to the correct note 
+		- More SECURE and EFFICIENT 
+	- (A layer 3 switch routes over the IP address)
+	- Starts with an Empty Forward Table 
+		- As devices send and receive data, the switch learns which ports and mac addresses match (it's alive)
+	- A better bridge 
+- Wireless Access Point (WAP)
+	- Layer 2 
+	- Like a HUB but data is only received by the intended device
+		- Better for security
+	- Functions as a bridge between wired LAN and Wireless LANs 
+- Internetwork Devices
+	- Layer 3 devices that connect 2 or more subnets (networks)
+	- Routers, Firewalls (normally router), Layer 3 Switch 
+- Router
+	- Multiple network interfaces 
+		- Interface is a fancy way to say a way IN or OUT of a network 
+	- Builds a table of each connectors network (Multi-layered web)
+	- Shares the routing table with nearby routers (it's alive too)
+- Firewall
+	- Secures Local area networks from outside intruders and hackerman 
+	- Determines what traffic enters/leave netwrok
+	- Packet-Filtering Firewall
+	- 
