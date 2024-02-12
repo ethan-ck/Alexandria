@@ -3,6 +3,8 @@
 	- They're evil because they have no identifier, they just send it to everybody and anybody
 		- poor performance (splits bandwidth) and security issue
 		- "Kid with no filter example"
+	- lives in layer 1 
+	- repeater 
 - Routers connect different Networks
 	- Router outside of the LAN is known as the default gateway 
 - Managed vs Unmanaged Switch
@@ -34,4 +36,23 @@
 	- 48-Bit Address = 6 pairs of hexadecimal digits
 	- 1st half is the manufacturer (first 3 pairs)
 	- 2nd half is the device (last 3 pairs)
-	- 
+- Address Resolution Protocol
+	- Have IP address, need MAC address
+	-  Lives on Layer 3 
+	- 1. Broadcasts address (all F's) as Destination MAC
+		- Forces NIC to process
+	- 2. Devices with MAC matching IP respond
+	- 3. Device stores MAC in ARP table
+		- Sends packet with correct destination AMC 
+	- RARP is the Reverse ARP, it is used for MAC to IP 
+- Hubs
+	- Essential just repeaters
+	- Lives in layer 1
+	- See above for more information 
+- Bridge 
+	- Layer 2 
+	- It's an in-between a Hub and switch
+	- It splits the LAN into 2 halves, creating 2 separate broadcast domains 
+	- Reduces issue in half 
+	- A gatekeeper 
+- 
