@@ -79,6 +79,10 @@
 	- Shares the routing table with nearby routers (it's alive too)
 - Firewall
 	- Secures Local area networks from outside intruders and hackerman 
-	- Determines what traffic enters/leave netwrok
+	- Determines what traffic enters/leave network
 	- Packet-Filtering Firewall
-	- 
+		- Decides based on source/destination IP address)
+- Layer 3 Switches
+	- uses IP address for forwarding
+	- IP address between networks/LANs
+	- MAC address within Networks/LAN
