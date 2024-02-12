@@ -7,7 +7,7 @@
 		- VGA Port 
 		- DVI Port 
 		- HDMI (High Definition Multimedia Interface)
-		- Display Port
+		- Display Port is the best one 
 	- USB Ports (Universal Serial Bus)
 		- Blue are 3.0 Ports, they're faster
 		- Firewire port AKA IEEE1394 Port
@@ -60,4 +60,8 @@
 	- 
 
 - Hard Drive Cables 
-	- Hard Drives are connected through the 
+	- IDE Channels
+		- ATA
+		- PATA
+		- EIDE
+		- 
