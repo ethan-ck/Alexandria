@@ -46,3 +46,31 @@
 	- Also specific to motherboard and not the memory itself
 	- Supported with DDR2, DDR3, DDR4, and DDR5
 	- Triple are supported with DDR3, DDR4, and DDR5 
+
+- Memory Installation 
+	- Check Existing Memory through the Motherboard or System documentation, or check online
+	- Crucial is a great website/online source
+	- If all else fails, examine the hardware
+		- Serial number, pin count, and where the notch is
+		- Sticker/model all that fun stuff
+	- Choose memory that fits within the motherboard, check that the frequency and form factor is compatible with the motherboard
+	- Check the memory package AKA memory form
+		- Check to see if your system requires DDR2, DDR3. or DDR4 memory
+	- Maximum Supported Memory
+		- Dictated by the motherboard configuration
+		- 32-bit: 4 GB max, does not mean that it supports 4 gigs though, some may be limited to 2
+		- PAE allows system to access more than 4 GB if windows supports it 
+		- 64-bit motherboard: accesses Terabytes of ram. Theoretical 16 EB, Practical 1-2 TB 
+		- Check documentation for correct memory speed (PC5400, PC26400,PC31066) Ensure that the speeds match the MB and RAM
+		- ECC Memory (Error Correcting Code)
+			- Detects data corruption 
+			- High-end systems 
+			- Adds an extra chip to the ram slot that compares data through 1's and 0's (Parity check)
+				- EX. ECC has 9 chips
+				- EX. Non-ECC has 8 chips
+				- ECC and Non-ECC cannot be mixed, if they are, the ECC is disabled
+				- ECC decreases performance by 2%
+			- Registered Memory (Buffered memory)
+				- again used in high-end systems
+				- offers an extra chip that acts as a buffer to hold data to prevent overload
+				- Check MB docu
