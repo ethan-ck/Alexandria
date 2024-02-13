@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC  Hardware Management/Cables and Connectors.md",
+                "file": "PC  Hardware Management/Cases and Motherboards.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC  Hardware Management/Cables and Connectors.md",
+                "file": "PC  Hardware Management/Cases and Motherboards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC  Hardware Management/Cables and Connectors.md",
+                "file": "PC  Hardware Management/Cases and Motherboards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC  Hardware Management/Cables and Connectors.md"
+                "file": "PC  Hardware Management/Cases and Motherboards.md"
               }
             }
           }
@@ -154,8 +154,8 @@
   },
   "active": "ff325f1d2363a0ba",
   "lastOpenFiles": [
-    "PC  Hardware Management/Cases and Motherboards.md",
     "PC  Hardware Management/Cables and Connectors.md",
+    "PC  Hardware Management/Cases and Motherboards.md",
     "PC  Hardware Management/Untitled.md",
     "Database Design and Development/Chapter 3 Homework assignment.md",
     "Database Design and Development/Gathering Information.md",
