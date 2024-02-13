@@ -74,7 +74,6 @@
 					- again used in high-end systems
 					- offers an extra chip that acts as a buffer to hold data to prevent overload
 					- Check MB documentation (lol)
-			- 
 			- CAS Latency (CL) Column Address Strobe
 				- Tells you what performance you are going to get out of the module
 				- Response time delay
@@ -94,4 +93,9 @@
 					- Data width
 					- Speed
 					- Voltage 
-- For Servers, it is essential to choose the correct memory chip to ensure the s
+
+- For Servers, it is essential to choose the correct memory chip to ensure the smoothest transfer of data possible. A one-second delay can be terrible.
+
+- Dallas wants 10 computers or so 
+
+- JayzTwoCents 
