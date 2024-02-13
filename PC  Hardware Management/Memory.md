@@ -70,7 +70,28 @@
 				- EX. Non-ECC has 8 chips
 				- ECC and Non-ECC cannot be mixed, if they are, the ECC is disabled
 				- ECC decreases performance by 2%
-			- Registered Memory (Buffered memory)
-				- again used in high-end systems
-				- offers an extra chip that acts as a buffer to hold data to prevent overload
-				- Check MB docu
+				- Registered Memory (Buffered memory)
+					- again used in high-end systems
+					- offers an extra chip that acts as a buffer to hold data to prevent overload
+					- Check MB documentation (lol)
+			- 
+			- CAS Latency (CL) Column Address Strobe
+				- Tells you what performance you are going to get out of the module
+				- Response time delay
+				- Measures clock cycles
+				- Special chip does magic shit
+				- Lower CL = better
+			- Timing Parameters
+				- Measures memory module performance through four parameters (ex. 5-5-5-15), the parameters are measured below 
+					- CL: CAS latency
+					- tRCD: Row to column address
+					- tRP: Row pre-charge time
+					- tRAS: Row active time 
+			- Serial Presence Detect (SPD)
+				- Stored on an EEPROM chip
+				- Located on the SDRAM 
+					- Module size
+					- Data width
+					- Speed
+					- Voltage 
+- For Servers, it is essential to choose the correct memory chip to ensure the s
