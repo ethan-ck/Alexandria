@@ -3,4 +3,35 @@
 	- Surrounded by plasma/membrane made up by phospholipids (remember that they are hydrophobic)
 	- Those phospholipids have two parts, the head (hydrophobic) and the tails (fatty acids and hydrophilic). A bi-layer
 	- The plasma membrane surrounds every single cell, some protein, carbs, and other organic molecules
-	- DNA is found in all cells (in simple cells there is the nucleoid, which is the 
+	- DNA is found in all cells (in simple cells there is the nucleoid, which is the region the DNA lives)
+	- In the eukaryotic cells, they have a nucleus
+	- All cells have ribosomes, and all contain RNA, all cells need these ribosomes to make the proteins that they are coded for in their DNA
+
+- Modes of movement
+	- Flagella, 
+	- Cytoskeletons
+	- Embedded proteins
+	- Cytoplasm (mostly water with a ton of different stuff dissolved into them
+
+- Prokaryotic and Eukaryotic  
+	- Karyo = nut (nucleus)
+	- Prokaryotic cells do not have a nucleus
+	- Pro = before (nucleus)
+	- Prokaryotic are simpler and came before, single cell organisms
+	- Eu = True (nucleus)
+	- Eukaryotic have nucleus, they are membrane bound, larger and more complex, some are single-celled but most are multicellular,
+		- Plants 
+			- Have a cell wall (like a brick wall) built around them 
+			- Cells also have a plasma membrane but is molded with the cell wall, it is made up of cellulose, this allows the plant to stand up
+			- More geometrically shaped like squares 
+			- Chloroplasts which allow them to photosynthesize 
+			- Plant also has a large central volucules (membrane bubbles) It is called a central volucule that fills with water for photosynthesis and it expands the cell to put pressure onto the cell water to help hold the plant upright. 
+		- Animals
+			- Rounder in shape, or vary a lot in shape
+			- only surrounded by the plasma membrane (think of like a water balloon)
+
+- Endomembrane System
+	- Found in the eukaryotic cells
+	- a series of these organelles that are all connected
+	- Called the "Rough ER" b/c the ribosomes are connected to it to form a bumpy appearance
+	- The Golgi apparatus is where all the molecules are sorted and shipped out, like a central hub for transportation. 
