@@ -36,4 +36,5 @@
 	- Called the "Rough ER" b/c the ribosomes are connected to it to form a bumpy appearance
 	- The Golgi apparatus is where all the molecules are sorted and shipped out, like a central hub for transportation. 
 
-- 
+- The Plasma Membrane
+	- 
