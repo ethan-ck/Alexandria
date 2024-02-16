@@ -99,3 +99,6 @@
 - Dallas wants 10 computers or so 
 
 - JayzTwoCents 
+
+- Dallas learning techniques, professor graves and chewing gum example
+- 
