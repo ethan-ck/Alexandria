@@ -37,4 +37,26 @@
 	- The Golgi apparatus is where all the molecules are sorted and shipped out, like a central hub for transportation. 
 
 - The Plasma Membrane
-	- 
+	- A Plasma membrane marks the boundary between the outside and inside of a cell
+	- It follows a fluid-mosaic model meaning that the structure of the plasma membrane is fluid-like as the molecules float around one another and mosaic-like as there are varying different types of molecule sin the membrane
+	- The plasma membrane regulates passage inside and outside of a cell.
+	- It is a phospholipid bilayer with embedded proteins 
+		- Polar heads (hydrophilic) 
+		- Nonpolar tails (hydrophobic)
+	- Types of Membrane Proteins 
+		- Channel protein 
+			- Form tunnel for specific molecules
+		- Transport protein 
+			- Involved in passage of molecules through the membrane, sometimes requiring input of energy
+		- Cell recognition protein 
+			- Enables our body to distinguish between our own cells and cells or other organism 
+		- Receptor Proteins
+			- Allows signal molecules to bind, causing a cellular response 
+		- Enzymatic protein 
+			- Directly participate in metabolic reactions 
+		- Junction proteins 
+			- Forms the junctions between cells
+			- Allows cell to cell adhesion and communication 
+
+- Several hundred different cell types make up the human body
+- 
