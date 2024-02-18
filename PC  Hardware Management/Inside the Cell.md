@@ -60,4 +60,9 @@
 
 - Several hundred different cell types make up the human body
 - Stem cells have the potential to divide almost indefinitely to produce a variety of cell types (Family Guy)
-- 
+- A extracellular matrix (ECM is a meshwork of fibrous proteins and polysaccharides
+- Collagen is a protein that resists stretching
+- ECMs vary by the arrangement of proteins present 
+- elastin gives resilience
+-  Polysaccharides is to direct the migration of cells during development 
+- The rough ER differs from the smooth ER b/c the RER contains ribosomes and 
