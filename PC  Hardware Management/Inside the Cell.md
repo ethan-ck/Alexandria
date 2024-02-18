@@ -59,4 +59,5 @@
 			- Allows cell to cell adhesion and communication 
 
 - Several hundred different cell types make up the human body
+- Stem cells have the potential to divide almost indefinitely to produce a variety of cell types (Family Guy)
 - 
