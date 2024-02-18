@@ -66,3 +66,5 @@
 - elastin gives resilience
 -  Polysaccharides is to direct the migration of cells during development 
 - The rough ER differs from the smooth ER b/c the RER contains ribosomes and 
+- Myosin is a motor protein the functions alongside actin to allow for cell movement
+- Other motor proteins, kinesin and dynein move along microtubes to help with organelle movement 
