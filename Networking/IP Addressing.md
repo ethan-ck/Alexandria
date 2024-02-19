@@ -26,6 +26,8 @@
 		- 127.x.x.x
 		- Excluded in the subnet mask octet range
 			- Pings your NIC 
+	- A 255.255.255.0 would mean that the first 3 are the Network ID, and the last one is the Host ID
+	- 255 = Network IDs, 0 = Host IDs (Can be assigned to a device)
 
 - Private IP Addresses
 	- Not public
