@@ -66,7 +66,7 @@
 		- 199.62.11.0      Network Address
 		- 199, 62, and 11 get transferred to the Network address b/c the subnet mask allows it
 	- Network is a bottom, Broadcast Address is a top 
-	- 
+	- Host Address is everything in between ".1 to .254"
 
 - ORing 
 	- T and F = T
@@ -74,4 +74,7 @@
 	- F and F = F
 	- T and T = T
 	- "75% True" OR is MORE 
-	- 
+
+- Ping (Layer 7) is ICBP (Layer 3)
+
+- 
