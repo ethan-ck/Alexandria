@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd43e4c3ad307482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database Design and Development/DB Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/IP Addressing.md",
+                "file": "Database Design and Development/DB Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/IP Addressing.md",
+                "file": "Database Design and Development/DB Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/IP Addressing.md"
+                "file": "Database Design and Development/DB Design.md"
               }
             }
           }
@@ -152,10 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "817295de91a18b30",
+  "active": "dd43e4c3ad307482",
   "lastOpenFiles": [
-    "Biology/Inside the Cell.md",
     "Networking/IP Addressing.md",
+    "Database Design and Development/DB Design.md",
+    "Biology/Inside the Cell.md",
     "PC  Hardware Management/Memory.md",
     "PC  Hardware Management/Cases and Motherboards.md",
     "PC  Hardware Management/Cables and Connectors.md",
@@ -179,7 +193,6 @@
     "Database Design and Development/Types of Databases.md",
     "Programming/Unsorted.md",
     "Networking/Untitled 2.md",
-    "PC  Hardware Management/PC Technician Responsibilities.md",
     "Untitled",
     "Networking",
     "PC  Hardware Management",
