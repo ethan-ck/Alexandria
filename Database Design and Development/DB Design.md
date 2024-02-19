@@ -61,5 +61,24 @@
 	- Don't. Numbering is a huge mistake 
 	- It's a sign from god that you split that entity into two separate entities 
 
-- Cardina
+- Cardinality 
+	- Defined as the number of permissible relationships between two entities 
+	- There is the Maximum Cardinality, and the minimum cardinality 
+		- A customer can have no more than 4 emails
+	- 
+
+- Entity Roles
+	- Domain is an entity that describes a core business element of DB
+		- Domain expansion
+	- Linking links shit idk 
+	- Lookup does stuff with data integrity
+		- Eliminates key errors 
+		- answer = input.lower()
+		- search one thing, get another thing 
+	- Weak entities depend on other entities for its meanings 
+		- Dependent entity is a weak entity because it relies on employees
+
+- Documentation (oh god oh fuck)
+	- document everything dummy 
+
 
