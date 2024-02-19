@@ -22,3 +22,25 @@
 				- Essentially any numbers besides 255 and 0 
 	- Puts up against the IP address to get the network destination 
 	- In other words, Network and hosts? 
+	- Local Loopback address 
+		- 127.x.x.x
+		- Excluded in the subnet mask octet range
+			- Pings your NIC 
+
+- Private IP Addresses
+	- Not public
+		- Non-routable (on Internet)
+		- Hidden from Public Internet
+		- NAT 
+		- Secure but not really (partial security)
+			- Better security would be encryption 
+		- Graves hiding example
+	- 3 Classes (A,B,C)
+		- Class A = 10.x.x.x
+		- Class B = 172.16.x.x to 172.31.x.x
+		- Class C = 192.168.x.x
+		- Holy shit these are private IP addresses! 
+
+- NAT (Network Address Translation)
+	- Private IP to Public IP
+	- 
