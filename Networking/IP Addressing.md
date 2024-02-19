@@ -40,7 +40,21 @@
 		- Class B = 172.16.x.x to 172.31.x.x
 		- Class C = 192.168.x.x
 		- Holy shit these are private IP addresses! 
+	- 127.0.0.1 is also a Non-Routable IP addresses (Loopback)
+	-  169.254.x.x is APIPA 
+		- Something is wrong 
+		- It means that DHCP is down (oh god, oh fuck) 
+		- Internet purgatory 
 
 - NAT (Network Address Translation)
 	- Private IP to Public IP
+
+- ANDing 
+	- This is how routers get the destination network 
+	- Think like a computer
+	- Needs both variables to be true
+		- EX. T and T = T
+		- T and F = F
+		- F and T = F
+		- F and F = F
 	- 
