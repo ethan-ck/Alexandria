@@ -28,7 +28,10 @@
 		- One to many
 		- Many to many (Sometimes it is resolved in multiple Many to One relationships)
 			- (Many students sign up to many classes ----> Student signs up to many classes + Many classes are assigned to one student)
-		- 
+			- Beware of Cross Relationship Error 
+				- ex. Impossible to enter data before entering a department, "a deadly embrace"
+				- Resolved by creating two One to Many thingies, look above
+				- Create a third table called a Linking table and you replicate the primary keys int he new table (composite keys)
 
 - Crow's Feet Notation 
 	- A three line, kind of like a pitchfork, represents the "many" side of the relationship 
@@ -57,4 +60,6 @@
 	- Usually bad, but when creating an entity that can contain many of the same attributes, it is tempting to list or number them
 	- Don't. Numbering is a huge mistake 
 	- It's a sign from god that you split that entity into two separate entities 
+
+- Cardina
 
