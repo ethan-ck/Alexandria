@@ -57,4 +57,21 @@
 		- T and F = F
 		- F and T = F
 		- F and F = F
+	- "25% True" LASER FOCUSED
+	- ROUTERS DO THIS 
+	- True = 1, False = 0 (This looks familiar)
+	- Remember that 255 = 11111111
+		- 199.62.11.155 IP Address
+		- 255.255.255.0 Subnet Mask
+		- 199.62.11.0      Network Address
+		- 199, 62, and 11 get transferred to the Network address b/c the subnet mask allows it
+	- Network is a bottom, Broadcast Address is a top 
+	- 
+
+- ORing 
+	- T and F = T
+	- F and T = T
+	- F and F = F
+	- T and T = T
+	- "75% True" OR is MORE 
 	- 
