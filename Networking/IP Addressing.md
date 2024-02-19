@@ -1,5 +1,6 @@
 - Subnetting "Sub-Network"
 	- Ex. Dividing a network into parts for HR, Marketing....
+	- Minimum to configure a network = IP address and subnet mask 
 
 - Types of IP Addresses
 	- Dotted Decimal
@@ -9,4 +10,15 @@
 - Subnet Masks 
 	- Determines the network (subnet) address 
 	- 2 Types 
-	- 
+		- Classful
+			- Not changing 
+			- default 
+			- A,B,C
+			- 255.255.255.0 = C
+			- 255.255.0.0 = B, and so on
+		- Classless
+			- AKA Variable length subnet mask (VLSM)
+				- 255.255.192.0, we get a little goofy 
+				- Essentially any numbers besides 255 and 0 
+	- Puts up against the IP address to get the network destination 
+	- In other words, Network and hosts? 
