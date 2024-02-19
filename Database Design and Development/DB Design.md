@@ -17,4 +17,28 @@
 	- A relationship is established by repeating one field from one table to another
 		- This key is usually a foreign key 
 	- The primary key table can be referred to as the parent table, or master table
-	- Tables with the foriegn keys are sometimes referred to as child table
+	- Tables with the foreign keys are sometimes referred to as child tables 
+		- Foreign keys are redundancy, which is usually bad, but not in this case.
+
+- Crow's Feet Notation 
+	- A three line, kind of like a pitchfork, represents the "many" side of the relationship 
+	- One to many, many to one 
+
+- Naming Conventions
+	- Obviously, naming conventions are important, they must be consistent
+	- Fuck camelCase, all my homies hate camelCase 
+
+- Conger Book Naming Conventions
+	- Entities and Tables are single nouns
+		- Tutor
+	- Attributes are named with the entity name along with the attribute name
+		- TutorLastName
+		- May be long, but long is good, MAXIMUM clarity
+	- Primary Keys end with the word "key"
+		- TutorKey
+	- Foreign keys retain the name of the primary key 
+
+- Term Equivalences
+	- Table = Relation
+	- Column and field = Attribute
+	- Row, record = Tuple 
