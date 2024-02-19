@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Design and Development/DB Design.md",
+                "file": "PC  Hardware Management/Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Design and Development/DB Design.md",
+                "file": "PC  Hardware Management/Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Design and Development/DB Design.md",
+                "file": "PC  Hardware Management/Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Design and Development/DB Design.md"
+                "file": "PC  Hardware Management/Memory.md"
               }
             }
           }
@@ -167,8 +167,9 @@
   },
   "active": "dd43e4c3ad307482",
   "lastOpenFiles": [
-    "Networking/IP Addressing.md",
+    "Data Structures and Algorithms/Introduction.md",
     "Database Design and Development/DB Design.md",
+    "Networking/IP Addressing.md",
     "Biology/Inside the Cell.md",
     "PC  Hardware Management/Memory.md",
     "PC  Hardware Management/Cases and Motherboards.md",
@@ -192,7 +193,6 @@
     "PC  Hardware Management/Network Cables.md",
     "Database Design and Development/Types of Databases.md",
     "Programming/Unsorted.md",
-    "Networking/Untitled 2.md",
     "Untitled",
     "Networking",
     "PC  Hardware Management",

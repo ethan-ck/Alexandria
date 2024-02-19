@@ -24,6 +24,7 @@
 	- DDR3 533 - 800 MHz, 1066 - 1600 Mt/s, PC8500 - PC14900 1.5 V
 	- DDR4 1066 - 1600 MHz, 2133 - 3200 MT/s PC12800 - PC25600 1.2 V, Power saving features, increased chip densities 
 	- DDR5 2133 - 3200 MHz, 3200 - 6400 MT/s, PC38400 - PC51200 1.1 Volts, Power management on chip, two or four 32-bit channels for increased efficiency 
+- * Remember that DDR4 is 260, DDR is 240*
 
 - Physical Characteristics
 	- DDR has pin slightly off to the side
