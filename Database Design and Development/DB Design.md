@@ -21,6 +21,10 @@
 		- Foreign keys are redundancy, which is usually bad, but not in this case.
 	- 3 types of relationships
 		- One to One 
+			- Two lines on right = one and only one
+			- Another one I'm not sure 
+			- Rare 
+			- Used to rid an entity of null attributes
 		- One to many
 		- Many to many (Sometimes it is resolved in multiple Many to One relationships)
 			- (Many students sign up to many classes ----> Student signs up to many classes + Many classes are assigned to one student)
