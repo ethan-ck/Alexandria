@@ -19,6 +19,12 @@
 	- The primary key table can be referred to as the parent table, or master table
 	- Tables with the foreign keys are sometimes referred to as child tables 
 		- Foreign keys are redundancy, which is usually bad, but not in this case.
+	- 3 types of relationships
+		- One to One 
+		- One to many
+		- Many to many (Sometimes it is resolved in multiple Many to One relationships)
+			- (Many students sign up to many classes ----> Student signs up to many classes + Many classes are assigned to one student)
+		- 
 
 - Crow's Feet Notation 
 	- A three line, kind of like a pitchfork, represents the "many" side of the relationship 
@@ -41,4 +47,10 @@
 - Term Equivalences
 	- Table = Relation
 	- Column and field = Attribute
-	- Row, record = Tuple 
+	- Row, record = Tuple (Not a too-pull) 
+
+- Repeating Fields (Attributes)
+	- Usually bad, but when creating an entity that can contain many of the same attributes, it is tempting to list or number them
+	- Don't. Numbering is a huge mistake 
+	- It's a sign from god that you split that entity into two separate entities 
+
