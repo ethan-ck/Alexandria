@@ -51,7 +51,7 @@ Cat 5 is 4x the improvement of cat 3
 Cat 5e - lessens crosstalk and other stuff, also faster
 Cat 6 - Speed, also backwards compatible with all the stuff 
 Cat 6a - improvement (wow) - not backwards compatible (cringe) 
-Cat 7 - shielded and two new connectors also 10gig (speed) (not backwards compatible, the Playstation of categories)
+Cat 7 - shielded and two new connectors also 10gig (speed) (not backwards compatible, the PlayStation of categories)
 
 Once again, the higher the cats, faster and better it is 
 
