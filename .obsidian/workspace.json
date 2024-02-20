@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Identifiers.md",
+                "file": "PC  Hardware Management/Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Identifiers.md",
+                "file": "PC  Hardware Management/Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Identifiers.md",
+                "file": "PC  Hardware Management/Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Identifiers.md"
+                "file": "PC  Hardware Management/Memory.md"
               }
             }
           }
@@ -167,9 +167,10 @@
   },
   "active": "dd43e4c3ad307482",
   "lastOpenFiles": [
-    "Networking/Hubs, Ports, Switches, and Routers.md",
     "PC  Hardware Management/Cases and Motherboards.md",
     "PC  Hardware Management/Memory.md",
+    "Networking/Identifiers.md",
+    "Networking/Hubs, Ports, Switches, and Routers.md",
     "PC  Hardware Management/Network Cables.md",
     "PC  Hardware Management/Cables and Connectors.md",
     "Networking/Network Cables and Connectors.md",
@@ -182,7 +183,6 @@
     "Database Design and Development/Chapter 3 Homework assignment.md",
     "Database Design and Development/Gathering Information.md",
     "Networking/Untitled.md",
-    "Networking/Identifiers.md",
     "Networking/The OSI Model.md",
     "Biology/Organic Molecules.md",
     "Biology/Characteristics of Life.md",
