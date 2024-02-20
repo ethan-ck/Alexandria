@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC  Hardware Management/Network Cables.md",
+                "file": "PC  Hardware Management/Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC  Hardware Management/Network Cables.md",
+                "file": "PC  Hardware Management/Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC  Hardware Management/Network Cables.md",
+                "file": "PC  Hardware Management/Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC  Hardware Management/Network Cables.md"
+                "file": "PC  Hardware Management/Memory.md"
               }
             }
           }
@@ -167,8 +167,8 @@
   },
   "active": "dd43e4c3ad307482",
   "lastOpenFiles": [
-    "PC  Hardware Management/Cables and Connectors.md",
     "PC  Hardware Management/Network Cables.md",
+    "PC  Hardware Management/Cables and Connectors.md",
     "Networking/Network Cables and Connectors.md",
     "Networking/Network Adapters.md",
     "PC  Hardware Management/Memory.md",
