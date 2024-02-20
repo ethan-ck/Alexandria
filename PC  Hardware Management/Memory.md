@@ -104,4 +104,7 @@
 - JayzTwoCents 
 
 - Dallas learning techniques, professor graves and chewing gum example
-- 
+
+- RAID 5 - Striping with Parity, can strike data between multiple disks \
+
+- RAID 1 - Mirroring, used if you want to keep a system up at all times  

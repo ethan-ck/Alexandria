@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC  Hardware Management/Memory.md",
+                "file": "Networking/Identifiers.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC  Hardware Management/Memory.md",
+                "file": "Networking/Identifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC  Hardware Management/Memory.md",
+                "file": "Networking/Identifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC  Hardware Management/Memory.md"
+                "file": "Networking/Identifiers.md"
               }
             }
           }
@@ -167,20 +167,20 @@
   },
   "active": "dd43e4c3ad307482",
   "lastOpenFiles": [
+    "Networking/Hubs, Ports, Switches, and Routers.md",
+    "PC  Hardware Management/Cases and Motherboards.md",
+    "PC  Hardware Management/Memory.md",
     "PC  Hardware Management/Network Cables.md",
     "PC  Hardware Management/Cables and Connectors.md",
     "Networking/Network Cables and Connectors.md",
     "Networking/Network Adapters.md",
-    "PC  Hardware Management/Memory.md",
     "Networking/Troubleshooting.md",
     "Data Structures and Algorithms/Introduction.md",
     "Database Design and Development/DB Design.md",
     "Networking/IP Addressing.md",
     "Biology/Inside the Cell.md",
-    "PC  Hardware Management/Cases and Motherboards.md",
     "Database Design and Development/Chapter 3 Homework assignment.md",
     "Database Design and Development/Gathering Information.md",
-    "Networking/Hubs, Ports, Switches, and Routers.md",
     "Networking/Untitled.md",
     "Networking/Identifiers.md",
     "Networking/The OSI Model.md",

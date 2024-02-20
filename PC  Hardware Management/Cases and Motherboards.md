@@ -87,3 +87,8 @@
 			- This checks a computer's internal hardware for compatibility and connection before starting the remainder of the boot process. If it passes, it may beep once or twice depending on the hardware.
 				- Ensure that the Pin 9 wire on the PSC connects to the power good wire on the MB
 				- Ensure that the power supply is not failing
+
+- BIOS password
+	- Remove CMOS battery
+	- Wait until 30 seconds, CMOS keeps a charge 
+	- 
