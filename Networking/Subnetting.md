@@ -89,7 +89,7 @@
 		- I = 32 
 	- Use the interval to determine each subnet Network ID, then broadcast address
 	- The smaller interval, the more network IDs you have 
-	- The larger the interval, the more host IDs you have 
+	- The larger the interval, the more host IDs you have.
 
 - Our own example
 	- We need 4 subnets

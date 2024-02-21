@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Subnetting.md",
+                "file": "Database Design and Development/DB Design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66c6c5c0d159cb2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database Design and Development/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Subnetting.md",
+                "file": "Database Design and Development/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Subnetting.md",
+                "file": "Database Design and Development/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Subnetting.md"
+                "file": "Database Design and Development/Untitled.md"
               }
             }
           }
@@ -152,10 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46f589b2a7244d34",
+  "active": "66c6c5c0d159cb2c",
   "lastOpenFiles": [
-    "PC  Hardware Management/Memory.md",
+    "Database Design and Development/DB Design.md",
+    "Database Design and Development/Untitled.md",
     "Networking/Subnetting.md",
+    "PC  Hardware Management/Memory.md",
     "PC  Hardware Management/Cases and Motherboards.md",
     "Networking/Identifiers.md",
     "Networking/Hubs, Ports, Switches, and Routers.md",
@@ -165,7 +180,6 @@
     "Networking/Network Adapters.md",
     "Networking/Troubleshooting.md",
     "Data Structures and Algorithms/Introduction.md",
-    "Database Design and Development/DB Design.md",
     "Networking/IP Addressing.md",
     "Biology/Inside the Cell.md",
     "Database Design and Development/Chapter 3 Homework assignment.md",
@@ -179,7 +193,6 @@
     "Database Design and Development/Requirements and Business Rules.md",
     "PC  Hardware Management/Computing Basics.md",
     "Database Design and Development/Misc.md",
-    "Database Design and Development/Types of Databases.md",
     "Untitled",
     "Networking",
     "PC  Hardware Management",
