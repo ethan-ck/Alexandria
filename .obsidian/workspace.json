@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Design and Development/Chapter 3 Homework assignment.md",
+                "file": "Database Design and Development/Review Stuff.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Design and Development/Chapter 3 Homework assignment.md",
+                "file": "Database Design and Development/Review Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Design and Development/Chapter 3 Homework assignment.md",
+                "file": "Database Design and Development/Review Stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Design and Development/Chapter 3 Homework assignment.md"
+                "file": "Database Design and Development/Review Stuff.md"
               }
             }
           }
@@ -154,6 +154,7 @@
   },
   "active": "66c6c5c0d159cb2c",
   "lastOpenFiles": [
+    "Database Design and Development/Chapter 3 Homework assignment.md",
     "Database Design and Development/DB Design.md",
     "Database Design and Development/Review Stuff.md",
     "Networking/Subnetting.md",
@@ -169,7 +170,6 @@
     "Data Structures and Algorithms/Introduction.md",
     "Networking/IP Addressing.md",
     "Biology/Inside the Cell.md",
-    "Database Design and Development/Chapter 3 Homework assignment.md",
     "Database Design and Development/Gathering Information.md",
     "Networking/Untitled.md",
     "Networking/The OSI Model.md",

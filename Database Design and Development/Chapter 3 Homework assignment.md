@@ -10,3 +10,4 @@ Graves got around 6
 
 Look for candidate keys (IDs and numbers) These will probably become candidate keys
 
+Under 10 
