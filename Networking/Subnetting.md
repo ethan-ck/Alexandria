@@ -1,0 +1,11 @@
+- Remember the subnet masks
+- 1 - 126 is class A, 255.0.0.0 
+- 128 - 191 is class B, 255.255.0.0
+- 192 - 223 is class C, 255.255.255.0 
+- 127 is the local loopback 
+
+- Private Address 
+	- Class A is 10.x
+	- Class B is 172.16.x.x to 172.31.x.x
+	- Class C is 192.168.x.x
+	- 
