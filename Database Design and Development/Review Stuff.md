@@ -1,8 +1,5 @@
 - SQL
-	- DDL 
+	- DDL for refining 
 		- Actual Objects
-		- DML 
+		- DML  for manipulation 
 			- Select, Insert, Update, Delete
-			- 
-
-- 
