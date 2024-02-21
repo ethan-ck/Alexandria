@@ -1,11 +1,21 @@
 - Remember the subnet masks
+- We need more networks (fucking business people)
+	- Compat
 - 1 - 126 is class A, 255.0.0.0 
 - 128 - 191 is class B, 255.255.0.0
 - 192 - 223 is class C, 255.255.255.0 
 - 127 is the local loopback 
 
-- Private Address 
+- Private Address (non-routable IP addresses)
 	- Class A is 10.x
 	- Class B is 172.16.x.x to 172.31.x.x
 	- Class C is 192.168.x.x
-	- 
+	- APIPA is a special one that is non-routable, this means that something is wrong with the DHCP server 
+		- Range is 169.254.x.x
+		- Automatic Private 
+	- 127.0.0.0 is the local loopback 
+
+- Other Important Info 
+	- IPV4 - has 4 billion addresses
+	- IPV6 - 4 billion x 4 billion addresses 
+	- Minimum need to get on the internet is to have an IP address and Subnet mask 
