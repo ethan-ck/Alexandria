@@ -55,10 +55,20 @@
 - Subnet Part 1 Video Notes
 	- "Taking a lake and breaking it into several ponds"
 		- Benefits include
-			- Increased
+			- Increased security
+			- network management 
+			- network performance
+			- separation 
+	- "how many bits do I have to steal?"
+	- "Interesting octet", the host id begins with it x.x.x.192
+	- Remember the subnetting formula 
+		- (enter formula here)
+		- Remember we subtract two addresses for the network and broadcast addresses)
 
-
-
+- Subnet Part 2 Video Notes (Supernetting)
+	- Fixed length subnet masking
+	- Variable Length Subnet Masking
+	- 
 
 
 
