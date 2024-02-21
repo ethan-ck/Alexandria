@@ -1,6 +1,6 @@
 - Remember the subnet masks
 - We need more networks (fucking business people)
-	- Compat
+	- Compartmentalize for security reasons 
 - 1 - 126 is class A, 255.0.0.0 
 - 128 - 191 is class B, 255.255.0.0
 - 192 - 223 is class C, 255.255.255.0 
@@ -19,3 +19,25 @@
 	- IPV4 - has 4 billion addresses
 	- IPV6 - 4 billion x 4 billion addresses 
 	- Minimum need to get on the internet is to have an IP address and Subnet mask 
+	- 255 is for network, 0's are for hosts
+		- Ex. Class A Subnet Mask 255.0.0.0 is one network for multiple hosts 
+
+- Subnet Black Magic
+	- For subnetting, we can take 2 octets in the binary system
+		- 00 = 0, 01 = 64, 10 = 128, 11 = 192
+		- We borrow the 2 left most binary digits, 128 and 64
+		- For example, if we need to divide 10.0.0.0 into 4 subnets 
+			- The 4 subnet masks become:
+			- 10.0.0.0
+			- 10.64.0.0
+			- 10.128.0.0
+			- 10.192.0.0
+
+- Supernetting (Super black magic)
+	- Goes the other way, for when we need more hosts per etwork 
+	- We still steal bits form network octet 
+	- We have networks and hosts
+		- Class A = 1 network, 3 hosts
+		- Class B = 2 network, 2 hosts
+		- Class C = 3 network, 1 host
+		- 
