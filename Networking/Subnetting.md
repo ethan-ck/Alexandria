@@ -81,6 +81,14 @@
 		- 192.0.0.3
 
 - Subnetting Steps
-	- 
-- First 14 labs in chapter 4
-- OSI Model quiz (5 times)
+
+
+- Determining Interval
+	- Divide 256 by the binary power of host bits e
+	- ex. 256 / 2^3 
+		- I = 32 
+	- Use the interval to determine each subnet Network ID, then broadcast address
+
+- Our own example
+	- We need 4 subnets
+	- 2^4 - 2 = 
