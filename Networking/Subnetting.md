@@ -34,10 +34,33 @@
 			- 10.192.0.0
 
 - Supernetting (Super black magic)
-	- Goes the other way, for when we need more hosts per etwork 
-	- We still steal bits form network octet 
+	- Goes the other way, for when we need more hosts per network 
+	- We still steal bits form network octet, but we use shorter masks to combine into larger address spaces
+	- If you see a subnet mask that has a number other than 255 or 0, it's most likely supernetting 
 	- We have networks and hosts
 		- Class A = 1 network, 3 hosts
 		- Class B = 2 network, 2 hosts
 		- Class C = 3 network, 1 host
-		- 
+
+- (Apple) CIDR (Classless Inter Domain Routing)
+		- Remember 32 bits 
+	- Allows VLSM ( Variable Length Subnet Mask)
+		- ex. 192.168.11.3/24
+			- Means that the 255.255.255.0 default subnet is used 
+			- 24 is divisible by 
+		- ex. 192.168.11.3/20 
+			- Means that 255.255.240 VLSM is used (It lost 4 bits) (these are called classless)
+	- Usually we will only see /8, /16, or /24. Class A, Class B, Class C  (Classful)
+
+- Subnet Part 1 Video Notes
+	- "Taking a lake and breaking it into several ponds"
+		- Benefits include
+			- Increased
+
+
+
+
+
+
+- First 14 labs in chapter 4
+- OSI Model quiz (5 times)
