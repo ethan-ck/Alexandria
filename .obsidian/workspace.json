@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "46f589b2a7244d34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database Design and Development/DB Design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "66c6c5c0d159cb2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Design and Development/Review Stuff.md",
+                "file": "Database Design and Development/Chapter 3 Homework assignment.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Design and Development/Review Stuff.md",
+                "file": "Database Design and Development/Chapter 3 Homework assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Design and Development/Review Stuff.md",
+                "file": "Database Design and Development/Chapter 3 Homework assignment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Design and Development/Review Stuff.md"
+                "file": "Database Design and Development/Chapter 3 Homework assignment.md"
               }
             }
           }
