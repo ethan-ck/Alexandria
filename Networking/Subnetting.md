@@ -62,15 +62,25 @@
 	- "how many bits do I have to steal?"
 	- "Interesting octet", the host id begins with it x.x.x.192
 	- Remember the subnetting formula 
-		- (enter formula here)
+		- 2^n - 2 = Y
+		- Y = number of subnets
+		- n = number of host bits to borrow
+		- -2 = reserved for network and broadcast addresses 
+			- Ex. 2^3 - 2 = 6, 
+			- We need 6 subnets, and 3 host bits 
 		- Remember we subtract two addresses for the network and broadcast addresses)
 
 - Subnet Part 2 Video Notes (Supernetting)
 	- Fixed length subnet masking
 	- Variable Length Subnet Masking
+	- Using ANDing to identify the network ID 
+		- ()
+	- To supernet networks, they must be contiguous
+		- 192.0.0.1
+		- 192.0.0.2
+		- 192.0.0.3
+
+- Subnetting Steps
 	- 
-
-
-
 - First 14 labs in chapter 4
 - OSI Model quiz (5 times)
