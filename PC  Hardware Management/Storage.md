@@ -61,5 +61,5 @@
 			- Also make sure to set the drive as the preferred bootable drive if you want it to default to your stuff or something 
 			- 
 
-- Optical Media 
+- RAID 
 	- 
