@@ -111,4 +111,12 @@
 		- 
 
 - Partitions, Volumes, and File Systems
-	- 
+	- The hard disk drive needs to be prepared before it can be used
+	- This is called partitioning
+	- A volume is like a boss controlling his workers (partitions)
+	- NTFS is the standard Windows file management 
+	- exFAT is a special file system used to support large flash drives, usually 32 GB or above 
+	- There are two disk types
+		- Basic
+		- Dynamic 
+			- 
