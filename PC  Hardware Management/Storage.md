@@ -30,7 +30,7 @@
 			- prone to scratches (This disk is either dirty or damaged)
 			- 
 
-- SATA Serial advanced technology attachment
+- SATA (Serial Advanced Technology Attachment)
 	- Uses a single cable to create a point to point connection between devices
 	- Serial bus architecture 
 	- Inside the cable, there are two pairs of wires(?) that are used for Data and ACK. The data and ACK both have two lines, one for TX and one for RX. 
@@ -49,4 +49,17 @@
 
 - Installing a SATA device 
 	- Steps are pretty much the same no matter what device
-	- 1. Gather devices t
+		- 1. Gather devices together
+		- 2. Physically install the drive
+			- Slide the drive into the drive bay and screw it down 
+		- 3. Connect the drive to the power supply
+			- Match the key connectors before plugging them in 
+		- 4. Connect the drive to the SATA interface to the motherboard
+		- 5. Connect the other end of the cable to the motherboard
+			- It is a best practice to connect the blue cord to the lowest numbered SATA port (or connector) 
+		- 6. Boot the system and verify that the drive is detected by BIOS or firmware
+			- Also make sure to set the drive as the preferred bootable drive if you want it to default to your stuff or something 
+			- 
+
+- Optical Media 
+	- 
