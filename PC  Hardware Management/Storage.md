@@ -28,3 +28,10 @@
 			- Portable
 			- Good storage capacity
 			- prone to scratches (This disk is either dirty or damaged)
+			- 
+
+- SATA Serial advanced technology attachment
+	- Uses a single cable to create a point to point connection between devices
+	- Serial bus architecture 
+	- Inside the cable, there are two pairs of wires(?) that are used for Data and ACK. The data and ACK both have two lines, one for TX and one for RX. 
+	- 
