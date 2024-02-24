@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c72d9bbb26ae4f9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a75f83381b63b350",
+  "active": "1c72d9bbb26ae4f9",
   "lastOpenFiles": [
     "PC  Hardware Management/Memory.md",
     "PC  Hardware Management/Storage.md",
