@@ -119,4 +119,11 @@
 	- There are two disk types
 		- Basic
 		- Dynamic 
-			- 
+
+- GPT Partitioning
+	- A new standard 
+	- They can be basic or dynamic
+	- Support 128 partitions
+	- Data integrity by backing up partition table
+	- also uses CRC redundancy checks 
+	- recovers damaged data, and have a protective MBR 
