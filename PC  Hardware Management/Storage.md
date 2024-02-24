@@ -1,0 +1,30 @@
+- Storage Devices
+	- Long term storage devices
+		- Hard Disk Drives (HDD)
+			- Composed of many platters that are magnetized and demagnetized to read and write data with heads (like a record player)
+			- Armature is the hand with a read/write head on the end of it
+			- the Bernoulli Effects the small cushion of air between the disk and read/write heads 
+			- For Rotation Speeds, cheap hard drives spin at around 5400 Rotations per minute (RPM), 7200 RPM, 10,000 RPM, and 15,000 RPM. 
+			- Disadvantages include the fact that they are not portable and the USB interface is too large
+		- Solid State Drives (SSDs)
+			- Uses flash memory instead of platters 
+			- Found in smartphones, camera, laptops, and fitness trackers
+			- No mechanical parts so they don't consume much heat or energy, so they are more reliable
+			- M.2 is usually found in laptops
+			- NVMe (Non volatile memory express) is made for accessing non-votatile storage through a PCI slot. 
+		- Flash Drives
+			- Flash memory 
+			- uses rows of memory chips, they are programmable and differ from other storage devies
+			- USB interface 
+		- Flash devices
+			- Card reader (think of a trailcam)
+			- Portable 
+			- as fast as a standard hard drive
+			- small physical device and large storage
+		- Optical Disk Drive
+			- CDs, DVDs, and Blue-ray 
+			- They use LIGHT, 
+			- Rainbow effect is caused by the light hitting the encoded binary stuff
+			- Portable
+			- Good storage capacity
+			- prone to scratches (This disk is either dirty or damaged)
