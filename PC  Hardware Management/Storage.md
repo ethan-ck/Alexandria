@@ -34,4 +34,19 @@
 	- Uses a single cable to create a point to point connection between devices
 	- Serial bus architecture 
 	- Inside the cable, there are two pairs of wires(?) that are used for Data and ACK. The data and ACK both have two lines, one for TX and one for RX. 
-	- 
+	- advantages is the thin cables that enable airflow through the case
+	- L shape with 7 pins, this connector is connected to the MB and creates a dedicated channel between the device and motherboard with no shared bandwidth 
+	- Enables Hot Plugging which allows SATA connectors to be unconnected while the PC is running 
+	- Standards
+		- SATA-I (1.5 Gbps)
+		- SATA- II (3 Gbps) also NCQ 
+		- SATA-III (6 Gbps) 
+		- These three are used for internal purposes
+		- eSATA (external SATA) connects external SATA devices and is faster than USB or FireWire 
+		- eSATA uses a rectangular connector and require an external power source
+		- eSATAp combines eSATA, USB, and power, basically like eSATA but has a built in power source
+	- Remember to check SATA standard, including the component and port, and match these standards
+
+- Installing a SATA device 
+	- Steps are pretty much the same no matter what device
+	- 1. Gather devices t
