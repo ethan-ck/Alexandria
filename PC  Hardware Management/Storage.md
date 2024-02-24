@@ -61,5 +61,7 @@
 			- Also make sure to set the drive as the preferred bootable drive if you want it to default to your stuff or something 
 			- 
 
-- RAID 
-	- 
+- RAID (Redundant Array of Independent Disks)
+	- A way to logically connect two drives into one drive
+	- Hardware Implementations
+		- Need a RAID controller card
