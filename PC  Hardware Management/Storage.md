@@ -64,4 +64,48 @@
 - RAID (Redundant Array of Independent Disks)
 	- A way to logically connect two drives into one drive
 	- Hardware Implementations
-		- Need a RAID controller card
+		- Need a RAID controller card with a processor
+		- Flexible and fast
+		- Expensive
+	- Software Imp
+		- System CPU with OS 
+		- Easier to implement
+		- Cheaper 
+		- Slower
+	- Critical RAID concepts
+		- RAID 0 - Striping
+			- Data is split into two disks for fast read/write performance
+			- Written to both drives at the same time
+			- The two disks are read as one drive
+			- If one disk fails, everything fails
+			- The 0 means there is no redundancy and no fault tolerance 
+		- RAID 1 - Mirroring 
+			- Protects the data by providing redundancy
+			- Both disks become mirrored copies of one another
+			- Data is written on both disks at the same time
+			- If one drive fails, the other one automatically takes over
+			- Single point of failure is that the single RAID controller can fail 
+		- RAID 1 - Duplexing
+			- Pretty much the same thing as mirroring, but with an extra RAID controller card
+		- RAID 5 - Striping with Parity
+			- Rebuilds data incase of a failure
+			- Requires 3 or more drives to implement
+		- RAID 10 - Stripe of Mirrors
+			- Provides fault tolerance for a single disk failure
+			- Provides redundancy and performance
+			- Uses 50% of the total raw capacity of the drives due to mirroring. 
+			- Requires a minimum of four disks
+	- JBOD Disk Arrays (Just a bunch of disk)
+		- Creates a single volume using space form two or more disks
+		- Data is not striped between disks, but saved to one or more disks. 
+		- uses the entire space available on  all disks for data storage with no overhead
+		- No performance or fault tolerance benefits
+
+- Creating a RAID Array
+	- For software implementation
+		- 1. Go to disk management
+		- 2. Initialize the disks 
+		- 3. Convert basic disks to dynamic disks (Right click and select convert to dynamic)
+		- 4. Right click a dynamic disk and select striped or mirrored volume
+		- 5. Continue following the dialogue box
+- 
