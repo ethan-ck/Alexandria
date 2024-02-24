@@ -108,4 +108,7 @@
 		- 3. Convert basic disks to dynamic disks (Right click and select convert to dynamic)
 		- 4. Right click a dynamic disk and select striped or mirrored volume
 		- 5. Continue following the dialogue box
-- 
+		- 
+
+- Partitions, Volumes, and File Systems
+	- 
