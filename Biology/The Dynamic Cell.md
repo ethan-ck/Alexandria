@@ -1,0 +1,28 @@
+
+- Three basic requirements for the cell to function
+	- Energy
+		- The energy source is for ATP, Adenosine Tri-Phosphate
+		- High energy molecule that when it breaks off the third phosphate, it releases energy for the cell
+		- ATP is a renewing energy resource 
+			- We Start with ADP (Di-phosphate)
+			- When we add a third phosphate, it converts to a tri-phosphate
+			- We need some input of energy to add a third phosphate to ADP
+			- When the body needs energy, they break off the third phosphate, which changes it back into ADP 
+	- Enzymes 
+		- All the energy things that happen in the cell require catalysts, this is where enzymes come into play, they speed up the process of ATP generation
+		- They are a biological catalyst, meaning that they are present in biological organism
+		- (proteins dawg)
+		- Shape is important as they can completely change how the protein functions
+		- They have an active site which is a very specific site, it is where a different molecule can bond to that specific enzyme. 
+		- The other molecule is known as a substrate, and it is a perfect fit to the enzyme. When the two are combined, it forms a specific action. (building or breaking reaction)
+		- The enzyme lowers the activation energy 
+	- Cell Transport 
+		- Involves the movement of the materials (substrates, enzymes, etc...) inside and outside the cell
+		- Cells are like factories, they are taking things in and processing things
+		- We can break down cell transport into two categories:
+		- Passive
+			- The cell does not require any energy (ATP) to transport
+			- These particles are moving from high concentration to an area of low concentration
+			- 
+		- Active
+			- The cell has to use energy to transport
