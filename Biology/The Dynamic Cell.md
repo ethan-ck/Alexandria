@@ -43,3 +43,7 @@
 					- Pinocytosis (liquid particles) 
 				- Exocytosis (exit the cell)
 					- Secretion (ew)
+
+- Notes from McGraw Hill
+	- Muscle Contractions, myosin filamins pull actin filaments to the center of the cell and the muscle shortens
+	- In metabolic pathways, 
