@@ -23,6 +23,23 @@
 		- Passive
 			- The cell does not require any energy (ATP) to transport
 			- These particles are moving from high concentration to an area of low concentration
-			- 
+			- Always moving towards being equal (it's literally the civil rights movement for cells)
+			- 3 ways this could happen
+				- Simple Diffusion
+					- Molecules are moving through the plasma membrane with phospholipids
+				- Facilitated Diffusion
+					- Needs proteins to help the materials get across (They do not use energy)
+				- Osmosis
+					- Specifically the movement of water (solvent)
+					- sometimes the solute cannot move, so water comes into play
+					- Hypertonic(high inside cell), Hypotonic (low outside cell) Isotonic (dont have to move, equality) 
+					- MLK 
 		- Active
 			- The cell has to use energy to transport
+			- Low to high
+			-  They do this through protein pumps, 
+			- Bulk transport 
+				- Indocytosis (Into the cell)
+					- Pinocytosis (liquid particles) 
+				- Exocytosis (exit the cell)
+					- Secretion (ew)
