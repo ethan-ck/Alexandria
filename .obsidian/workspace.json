@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c198061e055b69c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52557c642658347e",
+  "active": "0c198061e055b69c",
   "lastOpenFiles": [
     "Biology/Inside the Cell.md",
     "Biology/The Dynamic Cell.md",
