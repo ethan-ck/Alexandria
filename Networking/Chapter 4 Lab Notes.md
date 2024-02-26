@@ -62,4 +62,4 @@
 	- A Relay allows you to handle this odd situation
 	- "Jury-rigging" example
 	- It allows you to pass broadcasts 
-	- 
+	- Command Line final step = enter ipconfig /renew
