@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Chapter 4 Lab Notes.md",
+                "file": "Database Design and Development/DB Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Chapter 4 Lab Notes.md",
+                "file": "Database Design and Development/DB Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Chapter 4 Lab Notes.md",
+                "file": "Database Design and Development/DB Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Chapter 4 Lab Notes.md"
+                "file": "Database Design and Development/DB Design.md"
               }
             }
           }
@@ -154,23 +154,23 @@
   },
   "active": "23ca2724a3626465",
   "lastOpenFiles": [
-    "Networking/Network Adapters.md",
+    "Database Design and Development/Chapter 1 Case Study.md",
+    "Database Design and Development/Types of Databases.md",
+    "Database Design and Development/Vince's Vinyl SOW.md",
+    "Database Design and Development/Misc.md",
+    "Database Design and Development/Review Stuff.md",
+    "Database Design and Development/Chapter 3 Homework assignment.md",
+    "Database Design and Development/DB Design.md",
+    "Networking/Subnetting.md",
     "Networking/Chapter 4 Lab Notes.md",
+    "Networking/Network Adapters.md",
     "Biology/Inside the Cell.md",
     "Biology/The Dynamic Cell.md",
     "PC  Hardware Management/Storage.md",
     "PC  Hardware Management/Memory.md",
     "Untitled 1",
-    "Database Design and Development/Review Stuff.md",
-    "Database Design and Development/Misc.md",
     "Database Design and Development/Gathering Information.md",
     "Database Design and Development/SQL Basics.md",
-    "Database Design and Development/Chapter 3 Homework assignment.md",
-    "Database Design and Development/Vince's Vinyl SOW.md",
-    "Database Design and Development/Chapter 1 Case Study.md",
-    "Database Design and Development/Types of Databases.md",
-    "Database Design and Development/DB Design.md",
-    "Networking/Subnetting.md",
     "PC  Hardware Management/Cases and Motherboards.md",
     "Networking/Identifiers.md",
     "Networking/Hubs, Ports, Switches, and Routers.md",
