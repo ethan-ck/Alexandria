@@ -36,4 +36,9 @@
 	- DHCP
 		- Scope is a range or pool of IP addresses
 		- These groups of IP addresses will be given out as leases 
-		- 
+		- WINs are DNS for old Microsoft windows machines 
+		- "Activate the scope"
+	- Hyper V is a windows VM 
+	- CORPSERVER -> CORPSDHCP
+	- A windows server is called an NOS, (Network Operating System) it manages the server and allows it to manage other devices
+	- "Different hat examples" 
