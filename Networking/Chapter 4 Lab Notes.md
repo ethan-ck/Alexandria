@@ -47,5 +47,11 @@
 
 - Configure DHCP Options
 	- Configure the router and default gateway and what URL they are going to use
-	- Remember that server options are different from DNS options 
-	- Tools - DHCP - DHCP IPv4, Scope Options ACtions Configure Options
+	- **Remember that server options are different from DNS options** 
+
+- Create DHCP Exclusions
+	- Exclusions pull a subset from the pool of IP addresses for network devices 
+
+- Reservations of DHCP 
+	- For printers (hellspawn)
+	- 
