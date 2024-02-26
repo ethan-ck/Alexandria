@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database Design and Development/DB Design.md",
+                "file": "PC  Hardware Management/Memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ff388950ad5853f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PC  Hardware Management/Storage Spaces.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Design and Development/DB Design.md",
+                "file": "PC  Hardware Management/Storage Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Design and Development/DB Design.md",
+                "file": "PC  Hardware Management/Storage Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Design and Development/DB Design.md"
+                "file": "PC  Hardware Management/Storage Spaces.md"
               }
             }
           }
@@ -152,22 +165,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23ca2724a3626465",
+  "active": "9ff388950ad5853f",
   "lastOpenFiles": [
+    "PC  Hardware Management/Memory.md",
+    "PC  Hardware Management/Storage Spaces.md",
+    "Database Design and Development/DB Design.md",
     "Database Design and Development/Chapter 1 Case Study.md",
     "Database Design and Development/Types of Databases.md",
     "Database Design and Development/Vince's Vinyl SOW.md",
     "Database Design and Development/Misc.md",
     "Database Design and Development/Review Stuff.md",
     "Database Design and Development/Chapter 3 Homework assignment.md",
-    "Database Design and Development/DB Design.md",
     "Networking/Subnetting.md",
     "Networking/Chapter 4 Lab Notes.md",
     "Networking/Network Adapters.md",
     "Biology/Inside the Cell.md",
     "Biology/The Dynamic Cell.md",
     "PC  Hardware Management/Storage.md",
-    "PC  Hardware Management/Memory.md",
     "Untitled 1",
     "Database Design and Development/Gathering Information.md",
     "Database Design and Development/SQL Basics.md",
@@ -180,7 +194,6 @@
     "Networking/Troubleshooting.md",
     "Data Structures and Algorithms/Introduction.md",
     "Networking/IP Addressing.md",
-    "Networking/Untitled.md",
     "Untitled",
     "Networking",
     "PC  Hardware Management",
