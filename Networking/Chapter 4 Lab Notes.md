@@ -42,3 +42,10 @@
 	- CORPSERVER -> CORPSDHCP
 	- A windows server is called an NOS, (Network Operating System) it manages the server and allows it to manage other devices
 	- "Different hat examples" 
+	- Remember to be in Ethernet 
+	- Tools -> DHCP 
+
+- Configure DHCP Options
+	- Configure the router and default gateway and what URL they are going to use
+	- Remember that server options are different from DNS options 
+	- Tools - DHCP - DHCP IPv4, Scope Options ACtions Configure Options
