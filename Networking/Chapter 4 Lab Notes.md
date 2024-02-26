@@ -54,4 +54,12 @@
 
 - Reservations of DHCP 
 	- For printers (hellspawn)
+
+
+- Configure a DHCP Relay Agent 
+	- Anti-DDoS do not pass broadcasts 
+	- There is a problem if a device on LAN1 needs to broadcast to the DHCP server which is on LAN 2
+	- A Relay allows you to handle this odd situation
+	- "Jury-rigging" example
+	- It allows you to pass broadcasts 
 	- 
