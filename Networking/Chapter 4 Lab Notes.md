@@ -28,4 +28,12 @@
 		- Remember default gateway = router 
 
 - Configure Alternative Addressing 
-	- 
+	- Go to the IPv4 properties
+	- Make sure to obtain DNS and IP address automatically
+	- Go to the other tab and manually enter the addresses 
+
+- Configure a DHCP Server
+	- DHCP
+		- Scope is a range or pool of IP addresses
+		- These groups of IP addresses will be given out as leases 
+		- 
