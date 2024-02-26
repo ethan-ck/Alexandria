@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52557c642658347e",
+            "id": "23ca2724a3626465",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/The Dynamic Cell.md",
+                "file": "Networking/Chapter 4 Lab Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "0c198061e055b69c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/The Dynamic Cell.md",
+                "file": "Networking/Chapter 4 Lab Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/The Dynamic Cell.md",
+                "file": "Networking/Chapter 4 Lab Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/The Dynamic Cell.md"
+                "file": "Networking/Chapter 4 Lab Notes.md"
               }
             }
           }
@@ -163,15 +152,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c198061e055b69c",
+  "active": "23ca2724a3626465",
   "lastOpenFiles": [
+    "Networking/Network Adapters.md",
+    "Networking/Chapter 4 Lab Notes.md",
     "Biology/Inside the Cell.md",
     "Biology/The Dynamic Cell.md",
     "PC  Hardware Management/Storage.md",
     "PC  Hardware Management/Memory.md",
     "Untitled 1",
     "Database Design and Development/Review Stuff.md",
-    "Networking/Network Adapters.md",
     "Database Design and Development/Misc.md",
     "Database Design and Development/Gathering Information.md",
     "Database Design and Development/SQL Basics.md",
@@ -191,7 +181,6 @@
     "Data Structures and Algorithms/Introduction.md",
     "Networking/IP Addressing.md",
     "Networking/Untitled.md",
-    "Networking/The OSI Model.md",
     "Untitled",
     "Networking",
     "PC  Hardware Management",
