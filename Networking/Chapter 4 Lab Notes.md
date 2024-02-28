@@ -98,4 +98,10 @@
 	-  A role that you can install on a windows server that turns the server into a domain controller (DC) 
 
 - Create Host Records 
+	- Rmemeber to click PTR box 
+
+- Create CNAME Records (Canonical)
+	- Alias that allow www.BC3.edu or BC3.edu to work 
+
+- Troubleshoot DNS Records 
 	- 
