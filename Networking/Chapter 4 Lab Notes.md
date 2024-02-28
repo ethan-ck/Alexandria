@@ -104,4 +104,5 @@
 	- Alias that allow www.BC3.edu or BC3.edu to work 
 
 - Troubleshoot DNS Records 
-	- 
+	- Remember that there is a already a pointer for the reverse lookup zone, so we do not need to check the new PTR record dialogue box 
+	- Ping ping ping 
