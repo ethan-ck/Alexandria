@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Awareness Club/February 24th 2024 Meeting Notes.md",
+                "file": "Networking/Chapter 4 Lab Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Awareness Club/February 24th 2024 Meeting Notes.md",
+                "file": "Networking/Chapter 4 Lab Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Awareness Club/February 24th 2024 Meeting Notes.md",
+                "file": "Networking/Chapter 4 Lab Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Awareness Club/February 24th 2024 Meeting Notes.md"
+                "file": "Networking/Chapter 4 Lab Notes.md"
               }
             }
           }
@@ -167,8 +167,8 @@
   },
   "active": "e0b16bfa5bb5411c",
   "lastOpenFiles": [
-    "Networking/Chapter 4 Lab Notes.md",
     "Social Awareness Club/February 24th 2024 Meeting Notes.md",
+    "Networking/Chapter 4 Lab Notes.md",
     "Database Design and Development/Review Stuff.md",
     "PC  Hardware Management/Operating System Basics.md",
     "PC  Hardware Management/Memory.md",
