@@ -67,3 +67,4 @@
 
 - Add a  DHCP Server on another Subnet 
 	- Rouge = Unauthorized 
+	- Wizards = A series of dialogue boxes that 
