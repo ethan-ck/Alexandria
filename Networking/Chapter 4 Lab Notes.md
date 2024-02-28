@@ -93,8 +93,9 @@
 	- Remember to select the new forward lookup zone to allow any server in the properties dialogue box
 		- This is for data backups or load-sharing 
 		- It takes data from the first zone and copies it to the second zone
-	- 
 
 - Active Directory + Group Policy 
 	-  A role that you can install on a windows server that turns the server into a domain controller (DC) 
+
+- Create Host Records 
 	- 
