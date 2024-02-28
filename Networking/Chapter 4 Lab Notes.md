@@ -57,9 +57,13 @@
 
 
 - Configure a DHCP Relay Agent 
-	- Anti-DDoS do not pass broadcasts 
 	- There is a problem if a device on LAN1 needs to broadcast to the DHCP server which is on LAN 2
 	- A Relay allows you to handle this odd situation
 	- "Jury-rigging" example
 	- It allows you to pass broadcasts 
 	- Command Line final step = enter ipconfig /renew
+	- DORA process
+	- Routers do not pass broadcasts as an anti- DDoS feature 
+
+- Add a  DHCP Server on another Subnet 
+	- Rouge = Unauthorized 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC  Hardware Management/Operating System Basics.md",
+                "file": "Networking/Chapter 4 Lab Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC  Hardware Management/Operating System Basics.md",
+                "file": "Networking/Chapter 4 Lab Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC  Hardware Management/Operating System Basics.md",
+                "file": "Networking/Chapter 4 Lab Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC  Hardware Management/Operating System Basics.md"
+                "file": "Networking/Chapter 4 Lab Notes.md"
               }
             }
           }
@@ -154,15 +154,15 @@
   },
   "active": "8d9f95544fbbcf27",
   "lastOpenFiles": [
-    "PC  Hardware Management/Memory.md",
+    "Database Design and Development/Review Stuff.md",
     "PC  Hardware Management/Operating System Basics.md",
+    "PC  Hardware Management/Memory.md",
     "PC  Hardware Management/Storage Spaces.md",
     "Database Design and Development/DB Design.md",
     "Database Design and Development/Chapter 1 Case Study.md",
     "Database Design and Development/Types of Databases.md",
     "Database Design and Development/Vince's Vinyl SOW.md",
     "Database Design and Development/Misc.md",
-    "Database Design and Development/Review Stuff.md",
     "Database Design and Development/Chapter 3 Homework assignment.md",
     "Networking/Subnetting.md",
     "Networking/Chapter 4 Lab Notes.md",
