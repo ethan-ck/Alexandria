@@ -75,4 +75,16 @@
 		- A matchup of the Domain name and Ip address 
 	- Host A record
 		- (Pointer record)
-	- 
+	- Ethernet Properties -> IPv4 -> Use the following DNS server addresses -> advanced 
+	- /ipconfig all 
+
+- Create standard DNS Zones 
+	- Two main zones
+		- Forward Lookup zones
+			- Web address to the IP address
+		- Reverse lookup zones 
+			- IP Address to the Web Address
+			- (Pointer)
+	- This will allow a user to 
+	- CORPDc -> Tools -> DNS 
+	- Need a resource record in both zones 
