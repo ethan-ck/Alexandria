@@ -68,3 +68,11 @@
 - Add a  DHCP Server on another Subnet 
 	- Rouge = Unauthorized 
 	- Wizards = A series of dialogue boxes that 
+
+- Configure DNS Addresses 
+	- There are zones, and there are records in those zones 
+	- DNS 
+		- A matchup of the Domain name and Ip address 
+	- Host A record
+		- (Pointer record)
+	- 
