@@ -88,3 +88,13 @@
 	- This will allow a user to 
 	- CORPDc -> Tools -> DNS 
 	- Need a resource record in both zones 
+	- Dynamic updates is IP address and web address working together, it will automatically update the DNS 
+		- This is called Dynamic Domain Name (DDNS) 
+	- Remember to select the new forward lookup zone to allow any server in the properties dialogue box
+		- This is for data backups or load-sharing 
+		- It takes data from the first zone and copies it to the second zone
+	- 
+
+- Active Directory + Group Policy 
+	-  A role that you can install on a windows server that turns the server into a domain controller (DC) 
+	- 
