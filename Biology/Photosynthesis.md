@@ -1,0 +1,22 @@
+
+- Photosynthetic Process
+	- The equation, what goes in and what goes out
+	- Photosynthesis uses light energy and Co2 from the air, and water to create glucose and release oxygen as a byproduct
+		- ATP + CO2 + Water = Glucose + O2
+	- The chloroplast does this process in a whole series of steps
+	- Can be broken down into two reactions
+		- Light Reactions
+			- Thylakoids creates increased surface area so that light reactions can take place
+			- They use a light-transport chain to harness the energy from the sun 
+			- So a lot of membrane = more energy absorbed
+			- Electron Transport Chains
+				- Used in both chloroplasts and mitochondria 
+				- Is a series of proteins that transports an electron, in which these electrons have HIGH energy. As the electrons pass from protein from protein, each protein takes energy from the electron. 
+				- Pumps protons/hydrogen ion (H+)
+				- The energy from the electron is used to pump protons from the proteins
+				- A pump requires energy, it creates a high concentration on one side of the membrane. 
+				- H+ water wheel kinetic energy stuff, the ATP synthas does this stuff, spinning the bottom of the enzyme like a wheel 
+				- 
+		- Calvin (Dark) Reactions
+	- Photosynthesis occurs in plants, algae, and cyanobacteria. They are called producers because they feed themselves and all of the consumes (which are most of other living organisms on Earth) 
+	- Photosynthetic Organisms are called autotrophs or producers 
