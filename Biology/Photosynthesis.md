@@ -16,7 +16,33 @@
 				- The energy from the electron is used to pump protons from the proteins
 				- A pump requires energy, it creates a high concentration on one side of the membrane. 
 				- H+ water wheel kinetic energy stuff, the ATP synthas does this stuff, spinning the bottom of the enzyme like a wheel 
-				- 
+				- Water is oxidized, releasing electrons, hydrogen ions and oxygen
+				- ATP produced int he electron transport chain 
+				- NADP+ -> NADPH
 		- Calvin (Dark) Reactions
+			- Occurs in the stroma 
+			- CO2 is taken up 
+			- ATP and NADPH are used to reduce CO2 to a carbohydrate 
 	- Photosynthesis occurs in plants, algae, and cyanobacteria. They are called producers because they feed themselves and all of the consumes (which are most of other living organisms on Earth) 
 	- Photosynthetic Organisms are called autotrophs or producers 
+	- The green portions on leaves carry the process of photosynthesis
+		- The Carbon dioxide enters leaves through the stomata
+		- The roots absorb water
+		- CO2 and H2O diffuse into the mesophyll cells, then into the chloroplasts 
+	- The Chloroplast
+		- It is a double membrane surrounding the stroma
+		- The third membrane forms thylakoids
+			- Grana - means stacks basically
+			- Thylakoid space, remember that this expands the surface area of the cell, more area = more energy adsorbed 
+		- Chlorophyll and other pigments reside within thylakoid membrane
+			- These pigments adsorb solar energy
+			- The CO2 will be reduced in the stroma into carbohydrates
+			- glucose is the chief organic energy source for most organisms 
+
+- The actual process
+	- Begins with the end products of celluylar respiration, CO2 and H2O
+	- Hydrogen atoms removed from the water are added to carbon dioxide 
+		- Solar energy is required for this step
+	- Oxygen is a by-product of the oxidation of water
+	- The end product is CH2O or glucose C6H12O6 
+	- 
