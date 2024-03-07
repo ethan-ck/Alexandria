@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Photosynthesis.md",
+                "file": "Biology/Characteristics of Life.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Photosynthesis.md",
+                "file": "Biology/Characteristics of Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Photosynthesis.md",
+                "file": "Biology/Characteristics of Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Photosynthesis.md"
+                "file": "Biology/Characteristics of Life.md"
               }
             }
           }
@@ -179,9 +179,9 @@
   },
   "active": "3e1e4f7dc81bab12",
   "lastOpenFiles": [
+    "Biology/Photosynthesis.md",
     "Networking/The OSI Model.md",
     "Data Structures and Algorithms/Introduction.md",
-    "Biology/Photosynthesis.md",
     "Networking/Chapter 4 Lab Notes.md",
     "Social Awareness Club/February 24th 2024 Meeting Notes.md",
     "Database Design and Development/Review Stuff.md",
