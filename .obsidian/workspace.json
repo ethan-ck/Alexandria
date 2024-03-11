@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Organic Molecules.md",
+                "file": "Networking/Chapter 4 Lab Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17d34c66a316fb4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/IPv6 Addressing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Organic Molecules.md",
+                "file": "Networking/IPv6 Addressing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Organic Molecules.md",
+                "file": "Networking/IPv6 Addressing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Organic Molecules.md"
+                "file": "Networking/IPv6 Addressing.md"
               }
             }
           }
@@ -177,14 +189,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e1e4f7dc81bab12",
+  "active": "17d34c66a316fb4f",
   "lastOpenFiles": [
+    "Networking/Chapter 4 Lab Notes.md",
+    "Networking/IPv6 Addressing.md",
+    "Biology/Organic Molecules.md",
     "Biology/The Chemical Basis of Life.md",
     "Biology/Characteristics of Life.md",
     "Biology/Photosynthesis.md",
     "Networking/The OSI Model.md",
     "Data Structures and Algorithms/Introduction.md",
-    "Networking/Chapter 4 Lab Notes.md",
     "Social Awareness Club/February 24th 2024 Meeting Notes.md",
     "Database Design and Development/Review Stuff.md",
     "PC  Hardware Management/Operating System Basics.md",
@@ -204,8 +218,6 @@
     "Untitled 1",
     "Database Design and Development/Gathering Information.md",
     "Database Design and Development/SQL Basics.md",
-    "PC  Hardware Management/Cases and Motherboards.md",
-    "Networking/Identifiers.md",
     "Social Awareness Club",
     "Networking",
     "PC  Hardware Management",
