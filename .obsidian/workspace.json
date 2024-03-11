@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/IPv6 Addressing.md",
+                "file": "Database Design and Development/Chapter 1 Case Study.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf1abc0e2c578926",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database Design and Development/Normalization.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/IPv6 Addressing.md",
+                "file": "Database Design and Development/Normalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/IPv6 Addressing.md",
+                "file": "Database Design and Development/Normalization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/IPv6 Addressing.md"
+                "file": "Database Design and Development/Normalization.md"
               }
             }
           }
@@ -152,10 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17d34c66a316fb4f",
+  "active": "bf1abc0e2c578926",
   "lastOpenFiles": [
-    "Networking/Chapter 4 Lab Notes.md",
+    "Database Design and Development/Chapter 1 Case Study.md",
+    "Database Design and Development/Normalization.md",
     "Networking/IPv6 Addressing.md",
+    "Networking/Chapter 4 Lab Notes.md",
     "Biology/Organic Molecules.md",
     "Biology/The Chemical Basis of Life.md",
     "Biology/Characteristics of Life.md",
@@ -168,7 +183,6 @@
     "PC  Hardware Management/Memory.md",
     "PC  Hardware Management/Storage Spaces.md",
     "Database Design and Development/DB Design.md",
-    "Database Design and Development/Chapter 1 Case Study.md",
     "Database Design and Development/Types of Databases.md",
     "Database Design and Development/Vince's Vinyl SOW.md",
     "Database Design and Development/Misc.md",
@@ -180,7 +194,6 @@
     "PC  Hardware Management/Storage.md",
     "Untitled 1",
     "Database Design and Development/Gathering Information.md",
-    "Database Design and Development/SQL Basics.md",
     "Social Awareness Club",
     "Networking",
     "PC  Hardware Management",
