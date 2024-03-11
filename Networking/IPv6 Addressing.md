@@ -101,4 +101,9 @@ DORA process (4 steps)
 - Only do lab 4.9.5 2x (it's long) 
 	- This lab wants you to make use of the command line tools, as well as use everything we learned (where do you look to find important information?) 
 	- use PowerShell instead of command prompt 
+	- How many hops? (Traceroute)
+	- Remember the exhibits menu we get the IP address
+	- 4 hops is the answer
+	- The name of the device on the third hop is PF sense 
+	- NIC port, lights are good 
 	- 
