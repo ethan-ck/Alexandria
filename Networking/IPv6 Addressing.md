@@ -7,4 +7,30 @@
 		- IPv6 deals in multicasting, not broadcasting 
 		-  
 
-- 
+- IPv4 
+
+- IPv6 Format
+	- 128 Bit address
+	- One or more blocks consist of all zeros, we can remove two consectutive blocks and replace it with ::, we can also remove the beginning zeros
+		- Ex. 2001:0F56:0000:0000:C429:0008:0000:02D5
+		- 2001:F56::C429:8:0000:2D5
+		- Interface ID - used to identify the host 
+			- EUI-64 
+- IPv6 Components
+
+- Dual Stack Configuration
+	- Supports both IPv6 and IPv4 packets simultaneously
+	- Sometimes we have to use Tunneling instead
+		- Tunneling is when we have one packet inside another (encapsulate)
+		- Sort of like VPNs 
+
+Teredo Tunneling
+- IPv6 inside IPv4 packets
+- Encapsulation/Decapsulation completed by each host
+
+- 6to4 Tunneling
+	- IPv6 packets inside an IPv4 packets
+	- Encapsulation routers
+
+ISATAP Tunneling
+- IPv4 Network and IPv6 Network, the dual-stack router 
