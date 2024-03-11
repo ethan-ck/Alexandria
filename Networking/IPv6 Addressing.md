@@ -69,7 +69,7 @@
 			- ::1/128
 			- Literally all zeros but with a 1/128 at the end
 	- Assignment Methods 
-		- Static Assignent
+		- Static Assignment
 			- Static Full Assignment
 				- Manually configure everything
 			- Static-Partial Assignment
@@ -79,3 +79,13 @@
 
 - Labs
 	- Network and Sharing, it looks the same as the dialogue box for IPv4, but we are using IPv6 instead 
+
+- Ping -6 
+	- Ping always wants to ping IPv4 addresses, we have to specify to ping IPv6 addresses before we can ping 
+
+- Internet
+	- DNS
+	- DHCP
+	- IPv4 and IPv6 addresses
+
+- IPv6 is 8 blocks of 4 hex-digits 
