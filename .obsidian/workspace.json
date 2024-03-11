@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Characteristics of Life.md",
+                "file": "Biology/Organic Molecules.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Characteristics of Life.md",
+                "file": "Biology/Organic Molecules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Characteristics of Life.md",
+                "file": "Biology/Organic Molecules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Characteristics of Life.md"
+                "file": "Biology/Organic Molecules.md"
               }
             }
           }
@@ -179,6 +179,8 @@
   },
   "active": "3e1e4f7dc81bab12",
   "lastOpenFiles": [
+    "Biology/The Chemical Basis of Life.md",
+    "Biology/Characteristics of Life.md",
     "Biology/Photosynthesis.md",
     "Networking/The OSI Model.md",
     "Data Structures and Algorithms/Introduction.md",
@@ -204,8 +206,6 @@
     "Database Design and Development/SQL Basics.md",
     "PC  Hardware Management/Cases and Motherboards.md",
     "Networking/Identifiers.md",
-    "Networking/Hubs, Ports, Switches, and Routers.md",
-    "PC  Hardware Management/Network Cables.md",
     "Social Awareness Club",
     "Networking",
     "PC  Hardware Management",
