@@ -1,1 +1,5 @@
-- 
+- 1st design: unnormalized
+	- 1st Normalized form
+	- 2nd normalized form
+	- and so on 
+	- 
