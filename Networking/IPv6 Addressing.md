@@ -106,4 +106,5 @@ DORA process (4 steps)
 	- 4 hops is the answer
 	- The name of the device on the third hop is PF sense 
 	- NIC port, lights are good 
-	- 
+	- ipconfig /all 
+	- default gateway does not match, 
