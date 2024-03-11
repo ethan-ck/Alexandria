@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d9f95544fbbcf27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Chapter 4 Lab Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0b16bfa5bb5411c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Chapter 4 Lab Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e1e4f7dc81bab12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Chapter 4 Lab Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "17d34c66a316fb4f",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"

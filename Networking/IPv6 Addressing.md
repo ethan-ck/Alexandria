@@ -51,5 +51,31 @@
 			- FC00::/6 prefix
 				- Look at those ::, they could be important
 			- Starts with either FC 
-			- 
+			- ::1 is the local loopback for IPv6 
+		- Global Unicast Address
+			- Unique registered IPv6 address, one to many, broadcasts to all
+			- Global routing prefix assigned by ISP 
+			- public networks 
+			- starts with 2003 (unfinished)
+		- Multicast 
+			- One to many
+			- Unique for a set of devices, only devices that meet a specific function, will respond 
+			- FF00::/8 prefix
+			- FF02::/16 prefix aren't forwarded to the routers
+		- Anycast 
+			- Casts to literally any particular device, like DHCP servers across the globe
+		- Loopback Address 
+			- It loops 
+			- ::1/128
+			- Literally all zeros but with a 1/128 at the end
 	- Assignment Methods 
+		- Static Assignent
+			- Static Full Assignment
+				- Manually configure everything
+			- Static-Partial Assignment
+			- -DHCPv6  
+				- Stateful autoconfiguration 
+				- Stateless autoconfiguration (SLACK)
+
+- Labs
+	- Network and Sharing, it looks the same as the dialogue box for IPv4, but we are using IPv6 instead 
