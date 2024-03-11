@@ -89,3 +89,16 @@
 	- IPv4 and IPv6 addresses
 
 - IPv6 is 8 blocks of 4 hex-digits 
+
+- Ipconfig /release 
+	- Releases alias 
+	
+- Ipconfig /renew 
+	fills alias 
+
+DORA process (4 steps)
+
+- Only do lab 4.9.5 2x (it's long) 
+	- This lab wants you to make use of the command line tools, as well as use everything we learned (where do you look to find important information?) 
+	- use PowerShell instead of command prompt 
+	- 
