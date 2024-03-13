@@ -25,6 +25,8 @@
 	- Ensure that the scope is activated 
 
 - Improper IP configuration
+	- automatically assign IP address OR ensure that the Ip address is in the exclusion in the scope in the DHCP server
+	- after configuring the settings, release and renew the lease with ipconfig 
 
 - Command line tools
 	- ipconfig and ipconfig /all
@@ -35,3 +37,10 @@
 		- arp broadcast, 4 sent, 4 received?
 	- tracert
 		- how many hops 
+
+- IP Config Labs 
+	- 4.9.6 Troubleshoot Configuration 1 
+	- Default gateway has a .4 at the end, it should be .5 
+		- The default router is the one outside of the network, closet to the switch 
+		- 
+
