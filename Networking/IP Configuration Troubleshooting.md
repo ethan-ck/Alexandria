@@ -42,5 +42,10 @@
 	- 4.9.6 Troubleshoot Configuration 1 
 	- Default gateway has a .4 at the end, it should be .5 
 		- The default router is the one outside of the network, closet to the switch 
-		- 
+		- Questions from the lab
+			- The ISP Ping fails
+			- The default gateway that is assigned is 192.168.0.4 (wrong)
+			- The ISP ping fails
+			- 192.168.0.4
+			- 
 
