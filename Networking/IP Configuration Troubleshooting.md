@@ -1,2 +1,22 @@
-
+- Check the subnet mask 
+	- For example, there are four computers
+		- 192.168.1.1
+		- 192.168.1.2
+		- 192.168.1.3
+			- These three 
+		- 192.168.2.1 - This one would be on a different subnet 255.255.255.0 
+- Default Gateway
+	- ARP broadcast to determine proper destination
+	- If the computer is on another network, the packet gets sent to the default gateway
+	- if the default gateway is misconfigured, the packet fails to send 
+		- The switch uses the CAM table to find the correct MAC address, if it doesn't find the correct matchup, the switch sends it to the default gateway. 
+		- 
 - 
+- DHCP issues
+- Improper IP configuration
+
+- Command line tools
+	- ipconfig
+	- ping
+	- tracer
+	- 
