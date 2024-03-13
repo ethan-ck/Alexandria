@@ -47,5 +47,5 @@
 			- The default gateway that is assigned is 192.168.0.4 (wrong)
 			- The ISP ping fails
 			- 192.168.0.4
-			- 
+			- default gateway is different :) 
 
