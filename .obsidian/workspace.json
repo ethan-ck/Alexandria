@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "17d34c66a316fb4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database Design and Development/Chapter 1 Case Study.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf1abc0e2c578926",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/IPv6 Addressing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce0b843c1d4d8ff2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Types of Casts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "51704690f6762b3a",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,9 +154,9 @@
   },
   "active": "51704690f6762b3a",
   "lastOpenFiles": [
+    "Networking/IPv6 Addressing.md",
     "Networking/IP Configuration Troubleshooting.md",
     "Networking/Types of Casts.md",
-    "Networking/IPv6 Addressing.md",
     "Database Design and Development/Normalization.md",
     "Database Design and Development/Chapter 1 Case Study.md",
     "Networking/Chapter 4 Lab Notes.md",

@@ -18,7 +18,11 @@
 
 - DHCP issues
 	- Check for APIPA 
-	- Ipconfig e
+	- Ipconfig slash release
+	- ipconfig SLASH renew 
+	- If these options don't work, go to the DHCP server and reconfigure 
+	- Ensure that the default gateway is correct (in the labs it's 192.168.0.5)
+	- Ensure that the scope is activated 
 
 - Improper IP configuration
 
@@ -28,6 +32,6 @@
 		- Ip address
 		- MAC address
 	- ping
-		- 
+		- arp broadcast, 4 sent, 4 received?
 	- tracert
-	- 
+		- how many hops 
