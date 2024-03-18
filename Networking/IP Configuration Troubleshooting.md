@@ -49,3 +49,6 @@
 			- 192.168.0.4
 			- default gateway is different :) 
 
+- Pinging 4.2.2.1 
+	- This address is the DNS root server, which is always up
+
