@@ -1,0 +1,16 @@
+
+- A 4 step process by which a DHCP server assigns IP addresses
+	- DISCOVER Broadcast
+		- Client's PC starts the DORA process when their IP lease expires
+		- Sends out a broadcast to find the DHCP server(s)
+	- OFFER
+		- The DHCP server responds to the broadcast
+		- Client's PC accepts the first offer received (usually)
+	- REQUEST
+		- Client takes the DHCP's offer, and requests an IP
+	- ACKNOWLEDGE
+		- DHCP confirms the assignment of the IP address through and ACK 
+- The command prompt can "force" the DORA process through
+	- Ipconfig *slash* release
+	- Ipconfig *slash* renew (REQUEST and ACKNOWLEDGEMENT)
+	- 
