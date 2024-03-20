@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c78f544eeee8914b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networking/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3ab5cdc263838f3",
+  "active": "c78f544eeee8914b",
   "lastOpenFiles": [
     "Networking/IP Configuration Troubleshooting.md",
     "Networking/Untitled 1.md",
