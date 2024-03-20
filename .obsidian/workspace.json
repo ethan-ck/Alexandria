@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Awareness Club/March 20th Meeting Notes.md",
+                "file": "Database Design and Development/Normalization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c02cea8e99a73bdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database Design and Development/Data Types in Access and SQL Server.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social Awareness Club/March 20th Meeting Notes.md",
+                "file": "Database Design and Development/Data Types in Access and SQL Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Social Awareness Club/March 20th Meeting Notes.md",
+                "file": "Database Design and Development/Data Types in Access and SQL Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Social Awareness Club/March 20th Meeting Notes.md"
+                "file": "Database Design and Development/Data Types in Access and SQL Server.md"
               }
             }
           }
@@ -165,16 +177,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c78f544eeee8914b",
+  "active": "c02cea8e99a73bdf",
   "lastOpenFiles": [
+    "Database Design and Development/Normalization.md",
+    "Database Design and Development/Data Types in Access and SQL Server.md",
+    "Untitled",
+    "Database Design and Development/Review Stuff.md",
+    "Networking/IP Configuration Troubleshooting.md",
+    "Social Awareness Club/March 20th Meeting Notes.md",
     "Networking/Untitled 2.md",
     "Networking/DORA Process.md",
-    "Networking/IP Configuration Troubleshooting.md",
     "Social Awareness Club/Advertising.md",
-    "Social Awareness Club/March 20th Meeting Notes.md",
     "Networking/IPv6 Addressing.md",
     "Networking/Types of Casts.md",
-    "Database Design and Development/Normalization.md",
     "Database Design and Development/Chapter 1 Case Study.md",
     "Networking/Chapter 4 Lab Notes.md",
     "Biology/Organic Molecules.md",
@@ -183,7 +198,6 @@
     "Biology/Photosynthesis.md",
     "Networking/The OSI Model.md",
     "Data Structures and Algorithms/Introduction.md",
-    "Database Design and Development/Review Stuff.md",
     "PC  Hardware Management/Operating System Basics.md",
     "PC  Hardware Management/Memory.md",
     "PC  Hardware Management/Storage Spaces.md",
@@ -192,7 +206,6 @@
     "Database Design and Development/Vince's Vinyl SOW.md",
     "Database Design and Development/Misc.md",
     "Database Design and Development/Chapter 3 Homework assignment.md",
-    "Networking/Subnetting.md",
     "Untitled 1",
     "Social Awareness Club",
     "Networking",
@@ -208,7 +221,6 @@
     "Programming/Java",
     "Programming/Python",
     "Untitled 8",
-    "Database Design and Development",
-    "Programming"
+    "Database Design and Development"
   ]
 }
