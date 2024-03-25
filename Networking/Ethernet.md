@@ -43,4 +43,18 @@
 
 - Frame (Layer 2) Component 
 	- Remember this is the PDU for Layer 2 
-	- 
+	- Normal Frame Size = 50 - 1500 Bytes
+
+- CRC (Cyclical Redundacy Check) 
+	- Detects errors 
+	- IF CRC-Dest = CRC-Source
+		- OK
+	- ELSE
+		- ERROR (Collision)
+			- IF Collision, frames seize < 64 bytes 
+
+- Ethernet Specifications
+	- Speed, Base, Medium 
+	- Speeds 
+	- Base = Baseband 
+	- Medium - What type 
