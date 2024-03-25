@@ -21,10 +21,12 @@
 	- Sending devices send a jam signal
 	- They wait with a backoff time in ms (RNG) 
 	- one retransmits first
+
 - Process of Transmitting on a bus 
-	- Device senses line (carrier) freeMessage broadcast
-		- Received only by the intended destiantion 
-		- Dropped by all others 
+	- Device senses line (carrier) free
+	- Message broadcast
+	- Received only by the intended destination  
+	- Dropped by all others 
 
 - Plexes
 	- Simplex
@@ -38,4 +40,7 @@
 	- Full-Duplex
 		- Send AND Receive
 		- Cellphone
+
+- Frame (Layer 2) Component 
+	- Remember this is the PDU for Layer 2 
 	- 
