@@ -8,9 +8,34 @@
 		- Line or node goes down, its all down 
 	- Star
 		- All nodes are connected to a switch, like a star (wow)
+	- Mesh
+		- Every node is connected to each other, best for fault tolerance 
 
 - Hubs send to all, inefficient and insecure
 	- They're evil
 - Switches send to one, switches replaced hubs 
 	- No collisions
 
+- CSMA/CD (Carrier Sense Multiple Access / Collision Detection)
+	- It detects collisions, not prevent them
+	- Sending devices send a jam signal
+	- They wait with a backoff time in ms (RNG) 
+	- one retransmits first
+- Process of Transmitting on a bus 
+	- Device senses line (carrier) freeMessage broadcast
+		- Received only by the intended destiantion 
+		- Dropped by all others 
+
+- Plexes
+	- Simplex
+		- Send-all
+		- PA system
+	- Half-Duplex
+		- Send OR receive 
+		- one-way
+		- walkie-talkie
+		- may cut speed in half
+	- Full-Duplex
+		- Send AND Receive
+		- Cellphone
+	- 
