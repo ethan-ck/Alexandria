@@ -74,4 +74,33 @@
 	- FROM Session
 	- WHERE SessionDate BETWEEN (Date here) AND (date here)
 
-- 
+- AND, OR, NOT (Logical Boolean Operators)
+	- AND is specific
+	- OR is more
+	- NOT excludes 
+
+- NULL 
+	- Special, They are NOT a value and CANNOT be compared
+	- Use the IS keyword in criteria 
+	- WHERE StudentKey IS NULL
+	- WHERE StudentKey IS NOT NULL
+
+- Functions
+	- Functions in SQL has the same basic syntax as python
+	- Main()
+
+- Scalar Functions operate on a single row at a time
+	- GETDATE()
+	- MONTH()
+	- YEAR()
+
+- Aggregate Function operates on multiple rows at a time
+	- COUNT()
+	- SUM()
+	- AVG()
+	- MAX()
+	- MIN()
+
+- HAVING
+	- The HAVING keyword is used when tehre is an aggregate funciton in the criteria of a query
+	- SELECT TutorKey, COUNT(SessionTimeKey) AS [Total Sessions]
