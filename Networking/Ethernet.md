@@ -55,6 +55,10 @@
 
 - Ethernet Specifications
 	- Speed, Base, Medium 
-	- Speeds 
-	- Base = Baseband 
-	- Medium - What type 
+		- Speeds = 10 Mbps, 10 Gbps 
+		- Base 
+			-  Baseband = 1 Signal
+			- Broadband = multiple signals
+		- Medium - What type of fiber (TP, Coaxial, Fiber optic) 
+
+- 
