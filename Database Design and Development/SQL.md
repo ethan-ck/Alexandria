@@ -136,4 +136,33 @@
 -  Begin the comment with a slash and an asterisk (/*). Proceed with the text of the comment. This text can span multiple lines. End the comment with an asterisk and a slash (*/).
 	- /* Begin comment like this, end comment like this */
 
+- INSERT
+	- Inserts a record into a table
+	- INSERT INTO tablename(columnname, columnname)
+	- VALUES (value1,value2....)
+
+- UPDATES
+	- Update allows you to change existing records
+	- UPDATE TableName
+	- Set ColumnName = New Value
+	- Column = new value
+	- WHERE ColumnName = criteria 
+
+- DELETES
+	- Removes a record from a table
+	- DELETE FROM tablename
+	- WHERE column = criteria 
+
+- Notes
+	- DELETE and UPDATE are dangerous, you must specify a criteria, or the keyword will be applied to all the rows in a table
+	- Also, referential integrity may prevent a deletion. You cannot delete a parent that has children in another table
+
+- Creating a Trigger
+	- Triggers are programs that are triggered by an event, typically INSERT, UPDATE, or DELET
+	- Used to enforce business rules that normal constraints or referential integrity cannot enforce. 
+	- CREATE TRIGGER triggerName ON tableName
+	- [FOR, AFTER, INSTEAD OF] [INSERT, UPDATE, DELETE]
+	- AS
+	- SQL code
+
 - 
