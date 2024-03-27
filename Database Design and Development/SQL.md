@@ -34,5 +34,44 @@
 		- the standard ops (+,-,/)
 		- Modulus
 			- Returns the remainder in integer division 
+			- 3/10 = 3r1 
+	- Follows PEMDAS
+
+- Sorting
+	- Sort results using the keywords ORDER BY
+		- SELECT *
+		- FROM Session
+		- ORDER BY SessionDate
+	- ORDER BY does ascending by default
+
+- Aliasing
+	- Sometimes it is useful to alias a column name to make it more readable
+	- SELECT studentLastName AS [lastname], StudentFirstName AS [firstname]
+
+- Where clause
+	- The WHERE clause limits the rows returned in a query
+	- You use the WHERE clause to specify the criteria by which the rows will eb filtere
+	- SELET LastName,FirstName, Phone, City
+	- FROM Customer
+	- WHERE City = "Seattle"
+
+- Other Criteria
+	- Relational operators
+	- =, <, >,=<, and <> (not equal to)
+
+- Like
+	- the LIKE keyword used in a WHERE operator with a wildcard allows you to search for patterns in character-based fields
+	- The following returns all items whose name starts with "T"
+		- SELECT ItemName, ItemPrice
+		- FROM inventory
+		- WHERE ItemName LIKE "T%"
+	- Must use % as a 
+
+- Between
+	- BETWEEN keyword used in criteria to return a range of values
+	- BETWEEN is inclusive of its needs
+	- SElect TutorKey, SessionDate, StudentKey
+	- FROM Session
+	- WHERE SessionDate BETWEEN (Date here) AND (date here)
 
 - 
