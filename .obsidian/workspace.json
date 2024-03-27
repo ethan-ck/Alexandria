@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Ethernet.md",
+                "file": "Database Design and Development/Vince's Vinyl SOW.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbe4b3eda6afa8fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database Design and Development/SQL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Ethernet.md",
+                "file": "Database Design and Development/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Ethernet.md",
+                "file": "Database Design and Development/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Ethernet.md"
+                "file": "Database Design and Development/SQL.md"
               }
             }
           }
@@ -152,10 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebbbfff3e7e6d1b4",
+  "active": "cbe4b3eda6afa8fd",
   "lastOpenFiles": [
-    "Networking/Untitled 2.md",
+    "Database Design and Development/Vince's Vinyl SOW.md",
+    "Database Design and Development/SQL.md",
     "Networking/Ethernet.md",
+    "Networking/Untitled 2.md",
     "Networking/The OSI Model.md",
     "Database Design and Development/Data Types in Access and SQL Server.md",
     "Database Design and Development/Normalization.md",
@@ -179,8 +194,6 @@
     "PC  Hardware Management/Storage Spaces.md",
     "Database Design and Development/DB Design.md",
     "Database Design and Development/Types of Databases.md",
-    "Database Design and Development/Vince's Vinyl SOW.md",
-    "Database Design and Development/Misc.md",
     "Untitled 1",
     "Social Awareness Club",
     "Networking",

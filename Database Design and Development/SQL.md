@@ -1,0 +1,13 @@
+
+- SQL is a declarative language
+	- you say what you want to do, not how 
+	- not case sensitive
+- 
+- DDL (Data Definition Language)
+	- Created, Altering, and Removing database objects. 
+	- Usually used by database administrators 
+- DML (Data Manipulation Language)
+	- Retrieves and modify data
+	- SELECT, UPDATE, INSERT, and DELETE
+	- These are done on data within Tables 
+	- 
