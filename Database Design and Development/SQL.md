@@ -104,3 +104,36 @@
 - HAVING
 	- The HAVING keyword is used when tehre is an aggregate funciton in the criteria of a query
 	- SELECT TutorKey, COUNT(SessionTimeKey) AS [Total Sessions]
+	- FROM Session
+	- GROUP BY TutorKey
+	- HAVING Count(SessionTimeKey) (Greater than or equal to symbol) 4
+
+- Joins
+	- In database design and normalization, the data is broken into several discrete tables
+	- Joins are the mechanism for recombing the data into one reuslt 
+	- Three kinds of joins:
+		- Inner Joins 
+		- Equi Joins 
+		- Outer Joins 
+
+- Inner Join 
+	- Inner joins return related records from each of the tables joined
+	- SELECT column1 AND column2
+	- FROM table1
+	- INNER JOIN table2
+	- ON table1.column1.column2
+
+- Equi Joins
+	- Presents an alternative way to perform inner joins. Some older RDMSs only support this alternative form. 
+
+- OUTER JOIN 
+	- Outer join return records that are not matched, joins records from first table and related records from second table
+	- SELECT Column1, column2
+	- FROM table1
+	- LEFT OUTER JOIN table2
+	- ON table1.Column>=table2.column
+
+-  Begin the comment with a slash and an asterisk (/*). Proceed with the text of the comment. This text can span multiple lines. End the comment with an asterisk and a slash (*/).
+	- /* Begin comment like this, end comment like this */
+
+- 
