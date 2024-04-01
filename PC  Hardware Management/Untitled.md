@@ -11,3 +11,6 @@ Connect the right monitor using the DVI-D cable
 Make the left monitor the main monitor
 
 Change the arrangement of the monitors
+
+
+Connect PCIe power to the video card
