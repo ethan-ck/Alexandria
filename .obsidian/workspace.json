@@ -8,41 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cbe4b3eda6afa8fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database Design and Development/SQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4879bf0c1a439d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networking/Wireless.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3a26d05bc91e3ce3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "PC  Hardware Management/Operating System Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74de43b316e3e16e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PC  Hardware Management/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,14 +69,6 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "f09796075763b7f4",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ]
       }
@@ -108,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Wireless.md",
+                "file": "PC  Hardware Management/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Wireless.md",
+                "file": "PC  Hardware Management/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Wireless.md"
+                "file": "PC  Hardware Management/Untitled.md"
               }
             }
           }
@@ -175,8 +157,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a26d05bc91e3ce3",
+  "active": "74de43b316e3e16e",
   "lastOpenFiles": [
+    "PC  Hardware Management/Operating System Basics.md",
+    "PC  Hardware Management/Untitled.md",
+    "Data Structures and Algorithms/Recursion.md",
     "Database Design and Development/SQL.md",
     "Networking/Untitled 2.md",
     "Networking/Wireless.md",
@@ -200,10 +185,7 @@
     "Biology/Characteristics of Life.md",
     "Biology/Photosynthesis.md",
     "Data Structures and Algorithms/Introduction.md",
-    "PC  Hardware Management/Operating System Basics.md",
     "PC  Hardware Management/Memory.md",
-    "PC  Hardware Management/Storage Spaces.md",
-    "Database Design and Development/DB Design.md",
     "Untitled 1",
     "Social Awareness Club",
     "Networking",
