@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a26d05bc91e3ce3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4879bf0c1a439d7",
+  "active": "3a26d05bc91e3ce3",
   "lastOpenFiles": [
     "Database Design and Development/SQL.md",
     "Networking/Untitled 2.md",

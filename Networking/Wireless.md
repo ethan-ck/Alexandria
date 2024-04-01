@@ -39,5 +39,9 @@
 		- Basic Service Set
 	- Media Access Control Methods
 		- CSMA/CA
-			- Collision Avoidance that checks to see if there is currently a 
-
+			- Collision Avoidance 
+			- Works similar to the bus topology collision detection/prevention 
+			- RTS - Wait until the data is received
+			- CTS - Clear to Send
+			- Waits for an ACK, if no ACK is received, the wireless device assumes that there was a collision and sends the data again
+			- Uses a star topology, but uses the logical bus topology 
