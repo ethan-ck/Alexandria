@@ -165,4 +165,9 @@
 	- AS
 	- SQL code
 
-- 
+- SQL Query, Expected Results, Actual Results
+
+Rule to Test, Means of Testing, Expected Results, Actual Result
+
+Returns all students by gender, SQL code, Expected Results, Actual Results 
+
