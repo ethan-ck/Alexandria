@@ -15,7 +15,29 @@
 
 - Service Set Identifier (SSID) 
 	- Wireless network's public name
+	- Name of the wireless network 
+	- It broadcasts out like a lighthouse
 
 - Service Set 
 	- A group of devices that share an SSID in a network
+
+- Channels
+	- Frequency is one string constantly moving 
+	- A lot of channels for each 2 frequency ranges
+	- Channels can overlap, so 5 GHz introduced more channels 
+	- Overlap is bad (Duh)
+
+- Wireless Architecture 
+	- STA 
+		- A Station that is usually the host itself
+		- Two modes 
+			- Ad hoc network 
+				-  uses a mesh topology and communicates with each other
+			- Infrastructure mode
+				- Uses a wireless access point that acts as a hub or switch. The access point in the middle acts as a keeper towards all other device
+	- BSS 
+		- Basic Service Set
+	- Media Access Control Methods
+		- CSMA/CA
+			- Collision Avoidance that checks to see if there is currently a 
 
