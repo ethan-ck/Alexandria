@@ -64,4 +64,25 @@
 - SOHO (Small Office, Home Office)
 	- Sort of like a HAN - Hoem Area network
 	- It is used for a small office area network
-	- not for large businesses obvo
+	- not for large businesses obviously 
+
+- General configuration steps
+	- Connect workstation to WAP ethernet port
+	- Set workstation static Ip address or use DHCP 
+	- Connect and power on the workstation 
+	- Access the web service on WAP in browser
+		- Key in IP address in browser 
+	- Make configuration changes 
+
+- Security
+	- WEP 
+		- Old, easier to exploit
+	- WPA Personal (PSK - Preshared Key)
+	- WPA Enterprise (RADIUS/TACACS server)
+	- WPA2 Personal (PSK) 
+	- WPA2 Enterprise (Radius/TACACS server)
+	- Essentially the encryption gets better 
+		- More bits = stronger encryption algorithm 
+	- Access controls
+		- MAC Address filtering 
+		- Whitelist certain MAC addresses to connect to network 
