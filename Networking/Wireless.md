@@ -54,4 +54,14 @@
 	- 
 
 - MIMO (Multiple Input/Multiple Output)
-	- 
+
+
+- NFC (Near Field Communication)
+	- Similar to RFID, has the same freqeuncy (13.56 MHz)
+	- <= 4 cm between devices
+	- used in smartphones, notebooks, laptops, tablets, NFC readers and tags 
+
+- SOHO (Small Office, Home Office)
+	- Sort of like a HAN - Hoem Area network
+	- It is used for a small office area network
+	- not for large businesses obvo
