@@ -46,4 +46,12 @@
 			- Waits for an ACK, if no ACK is received, the wireless device assumes that there was a collision and sends the data again
 			- Uses a star topology, but uses the logical bus topology 
 
-- 
+- Two Frequencies 
+	- 5Ghz (The towers are controlling your brain) 
+		- 12 out of 23 channels 
+	- 2.4Ghz
+		- Only has three channels (3 arcs) 
+	- 
+
+- MIMO (Multiple Input/Multiple Output)
+	- 
