@@ -45,3 +45,5 @@
 			- CTS - Clear to Send
 			- Waits for an ACK, if no ACK is received, the wireless device assumes that there was a collision and sends the data again
 			- Uses a star topology, but uses the logical bus topology 
+
+- 
