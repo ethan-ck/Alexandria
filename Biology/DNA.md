@@ -33,5 +33,14 @@
 - This DNA codes for protein in a two-step process
 	- Transcription - Copies the DNA into RNA 
 		- DNA is stuck inside the nucleus, RNA can leave the nucleus through the pores in the nuclear membrane to go into the cytoplasm. DNA cannot be damaged, if it does we're FUCKED
-		- RNA is a photo-copy, i
+		- RNA is a photo-copy, it's okay if it gets damaged 
+		- The ribosomes (protein factories) are in the cytoplasm
+		- Transcription creates a photo copy of the DNA in mRNA to allow the RNA to go into the cytoplasm 
+	- Splicing 
+		- This removes the sections known as "introns" that don't code for anything. "Exons" stay in the RNA and exit the nucleus 
+		- Some cells do alternative splicing, sometimes they leave certain introns in there and leave exons to create different stuff. They're dynamic 
+	- Translation 
+		- Takes Nucleic Acid and translates it into Amino acids
+		- Needs 3 types of RNA 
+			- Riboose Su
 
