@@ -42,5 +42,12 @@
 	- Translation 
 		- Takes Nucleic Acid and translates it into Amino acids
 		- Needs 3 types of RNA 
-			- Riboose Su
+			- tRNA -
+		- starts when an mRNA joins up and is sandwiched between ribosomes 
+		- signals the tRNA to bring in the first amino acid 
+		- Codons that match upo with an anti codon by the base RNA - ensures correct matching 
+		- A peptide bond that is formed to create a long chain of amino acids (Polypeptide)
+		- The ribosome will continue until it reaches a stop codon 
+		- 
 
+- 
