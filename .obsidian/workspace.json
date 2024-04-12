@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking/Wireless.md",
+                "file": "Biology/Photosynthesis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a46a88db9b1b6523",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/DNA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Wireless.md",
+                "file": "Biology/DNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Wireless.md",
+                "file": "Biology/DNA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking/Wireless.md"
+                "file": "Biology/DNA.md"
               }
             }
           }
@@ -152,14 +165,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad26eb2ea1a48768",
+  "active": "a46a88db9b1b6523",
   "lastOpenFiles": [
+    "Biology/Photosynthesis.md",
+    "Biology/DNA.md",
+    "Networking/Wireless.md",
     "PC  Hardware Management/Untitled.md",
     "PC  Hardware Management/Operating System Basics.md",
     "Data Structures and Algorithms/Recursion.md",
     "Database Design and Development/SQL.md",
     "Networking/Untitled 2.md",
-    "Networking/Wireless.md",
     "Database Design and Development/Vince's Vinyl SOW.md",
     "Networking/Ethernet.md",
     "Networking/The OSI Model.md",
@@ -178,9 +193,7 @@
     "Biology/Organic Molecules.md",
     "Biology/The Chemical Basis of Life.md",
     "Biology/Characteristics of Life.md",
-    "Biology/Photosynthesis.md",
     "Data Structures and Algorithms/Introduction.md",
-    "PC  Hardware Management/Memory.md",
     "Untitled 1",
     "Social Awareness Club",
     "Networking",
