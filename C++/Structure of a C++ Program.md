@@ -17,3 +17,11 @@
 
 - Operators
 	- - 
+	- + 
+	- <<
+	- >>
+
+- Punctuation 
+	- ; 
+	- {
+	- }
