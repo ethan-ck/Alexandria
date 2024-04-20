@@ -25,3 +25,15 @@
 	- ; 
 	- {
 	- }
+
+- Preprocessor 
+	- A program that processes your source code before the compiler sees it
+		- It strips each comment out with a blank space
+		- Then looks for directives and executes them
+
+- Preprocessor Directives
+	- Start with #, they are commands to the preprocessor
+	- Used to conditionally compile code 
+	- The C++ Preprocessor DOES NOT understand C++ 
+		- It just gets the source code ready for the compiler
+
