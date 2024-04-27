@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4ed37ac6425bbbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ad63bfe013fe33a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/Biotechnology.md",
+                "file": "Cybersecurity/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology/Biotechnology.md",
+                "file": "Cybersecurity/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biology/Biotechnology.md"
+                "file": "Cybersecurity/Untitled.md"
               }
             }
           }
@@ -177,10 +201,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5405ef3adaa46819",
+  "active": "7ad63bfe013fe33a",
   "lastOpenFiles": [
-    "Biology/DNA.md",
+    "Cybersecurity/Untitled 1.md",
+    "Cybersecurity/Untitled.md",
+    "Untitled",
+    "Cybersecurity",
     "Biology/Biotechnology.md",
+    "Biology/DNA.md",
     "C++/Structure of a C++ Program.md",
     "Biology/Characteristics of Life.md",
     "Biology/Photosynthesis.md",
@@ -204,8 +232,6 @@
     "Networking/IPv6 Addressing.md",
     "Networking/Types of Casts.md",
     "Database Design and Development/Chapter 1 Case Study.md",
-    "Networking/Chapter 4 Lab Notes.md",
-    "Biology/Organic Molecules.md",
     "Untitled 1",
     "Social Awareness Club",
     "Networking",
@@ -219,8 +245,6 @@
     "Data Structures and Algorithms/1280px-Comparison_computational_complexity.svg.png",
     "Programming/C++",
     "Programming/Java",
-    "Programming/Python",
-    "Untitled 8",
-    "Database Design and Development"
+    "Programming/Python"
   ]
 }
