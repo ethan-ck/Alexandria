@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e20cd7d160b4804f",
+        "id": "44d30b4faaba80ee",
         "type": "tabs",
         "children": [
           {
-            "id": "a46a88db9b1b6523",
+            "id": "5301561b372b6227",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/DNA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc01bc3fcd714c54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/DNA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5405ef3adaa46819",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biology/Biotechnology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4ed37ac6425bbbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ad63bfe013fe33a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cybersecurity/Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -201,15 +144,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ad63bfe013fe33a",
+  "active": "69058bd0d2cb793d",
   "lastOpenFiles": [
-    "Cybersecurity/Untitled 1.md",
+    "C++/Structure of a C++ Program.md",
+    "Data Structures and Algorithms/Big-O Notation.md",
+    "Data Structures and Algorithms/Intro to Data Structures and Algorithms.md",
+    "Data Structures and Algorithms/Introduction.md",
     "Cybersecurity/Untitled.md",
+    "Cybersecurity/Untitled 1.md",
     "Untitled",
     "Cybersecurity",
     "Biology/Biotechnology.md",
     "Biology/DNA.md",
-    "C++/Structure of a C++ Program.md",
     "Biology/Characteristics of Life.md",
     "Biology/Photosynthesis.md",
     "Networking/Wireless.md",
@@ -229,11 +175,8 @@
     "Social Awareness Club/March 20th Meeting Notes.md",
     "Networking/DORA Process.md",
     "Social Awareness Club/Advertising.md",
-    "Networking/IPv6 Addressing.md",
-    "Networking/Types of Casts.md",
-    "Database Design and Development/Chapter 1 Case Study.md",
     "Untitled 1",
-    "Social Awareness Club",
+    "Linux",
     "Networking",
     "PC  Hardware Management",
     "exampl;e.png",
