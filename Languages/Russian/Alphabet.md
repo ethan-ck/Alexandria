@@ -1,9 +1,10 @@
+![[Pasted image 20240724075513.png]]
+
 Russian language has 33 letters
 
 Can be split into four groups
 
 Sounds that are the same or similar in English:
-
 
 Sounds that look the same but sound different:
 
