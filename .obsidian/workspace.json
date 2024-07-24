@@ -11,8 +11,12 @@
             "id": "5301561b372b6227",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Russian/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Languages/Russian/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Languages/Russian/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Languages/Russian/Untitled.md"
+              }
             }
           }
         ]
@@ -144,15 +152,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69058bd0d2cb793d",
+  "active": "5301561b372b6227",
   "lastOpenFiles": [
+    "Hierarchical-Database-Model-example.png",
+    "download (1).png",
+    "large-Hierarchical-Databases-v2-1.jpg",
+    "download.jpg",
+    "download.png",
+    "exampl;e.png",
+    "00 - Landing Page.md",
+    "Languages/Russian/Untitled.md",
+    "Languages/Mandarin",
+    "Languages/Russian",
     "C++/Structure of a C++ Program.md",
     "Data Structures and Algorithms/Big-O Notation.md",
     "Data Structures and Algorithms/Intro to Data Structures and Algorithms.md",
     "Data Structures and Algorithms/Introduction.md",
     "Cybersecurity/Untitled.md",
     "Cybersecurity/Untitled 1.md",
-    "Untitled",
+    "Languages",
     "Cybersecurity",
     "Biology/Biotechnology.md",
     "Biology/DNA.md",
@@ -172,22 +190,11 @@
     "C++",
     "Database Design and Development/Review Stuff.md",
     "Networking/IP Configuration Troubleshooting.md",
-    "Social Awareness Club/March 20th Meeting Notes.md",
-    "Networking/DORA Process.md",
-    "Social Awareness Club/Advertising.md",
     "Untitled 1",
     "Linux",
     "Networking",
     "PC  Hardware Management",
-    "exampl;e.png",
-    "download.png",
-    "download.jpg",
-    "download (1).png",
-    "Hierarchical-Database-Model-example.png",
-    "large-Hierarchical-Databases-v2-1.jpg",
     "Data Structures and Algorithms/1280px-Comparison_computational_complexity.svg.png",
-    "Programming/C++",
-    "Programming/Java",
-    "Programming/Python"
+    "Programming/C++"
   ]
 }
