@@ -23,3 +23,6 @@ Install VMWare
 	- Options = ls **-a** 
 	- Arguments specify where the command and option of the command returns
 		- ls -a **/home/ksf/** 
+	- There are always spaces between all commands, options, and arguments 
+
+- 
