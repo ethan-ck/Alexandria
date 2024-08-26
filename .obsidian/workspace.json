@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b14a74f34efc7de7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5301561b372b6227",
+  "active": "b14a74f34efc7de7",
   "lastOpenFiles": [
     "Pasted image 20240724075513.png",
     "Hierarchical-Database-Model-example.png",
