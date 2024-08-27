@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking I/Troubleshooting.md",
+                "file": "Networking I/DORA Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking I/Troubleshooting.md",
+                "file": "Networking I/DORA Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking I/Troubleshooting.md",
+                "file": "Networking I/DORA Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking I/Troubleshooting.md"
+                "file": "Networking I/DORA Process.md"
               }
             }
           }
@@ -167,6 +167,7 @@
   },
   "active": "28b5017d301f0d33",
   "lastOpenFiles": [
+    "Networking I/Troubleshooting.md",
     "Networking II/Introduction.md",
     "Linux/Introduction.md",
     "Cybersecurity I/Untitled 1.md",
@@ -206,7 +207,6 @@
     "Database Design and Development/Data Types in Access and SQL Server.md",
     "Database Design and Development/Normalization.md",
     "C++",
-    "Database Design and Development/Review Stuff.md",
     "Principles of Management",
     "Linux",
     "Networking I",
