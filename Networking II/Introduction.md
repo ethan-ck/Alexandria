@@ -1,0 +1,4 @@
+- Review the OSI model and look-up tables and ports
+- Major networking identifies
+	- Subnet masks, IP addresses, 
+- 
