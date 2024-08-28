@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d77e63bc65098af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity I/Key Definitions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1df1b4a3a200a93c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity I/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity I/Access Control Models.md",
+                "file": "Cybersecurity I/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity I/Access Control Models.md",
+                "file": "Cybersecurity I/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity I/Access Control Models.md"
+                "file": "Cybersecurity I/Untitled.md"
               }
             }
           }
@@ -152,10 +177,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "246495618b614c55",
+  "active": "1df1b4a3a200a93c",
   "lastOpenFiles": [
-    "Cybersecurity I/Identity and Access Management.md",
+    "Cybersecurity I/Key Definitions.md",
+    "Cybersecurity I/Untitled.md",
     "Cybersecurity I/Access Control Models.md",
+    "Cybersecurity I/Identity and Access Management.md",
     "C++/cout Object.md",
     "C++/Namespaces.md",
     "C++/Parts of a C++ Program.md",
@@ -191,8 +218,6 @@
     "PC  Hardware Management/Untitled.md",
     "PC  Hardware Management/Operating System Basics.md",
     "Data Structures and Algorithms/Recursion.md",
-    "Database Design and Development/SQL.md",
-    "Networking/Untitled 2.md",
     "C++",
     "Principles of Management",
     "Linux",

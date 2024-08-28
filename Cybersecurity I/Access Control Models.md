@@ -26,5 +26,8 @@
 	- combines attributes (user, role, etc..)
 	- If-else-then statements
 
+- Conditional Access
+	- Factores a user, group etc..
+	- MFA 
 
 
