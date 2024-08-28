@@ -16,5 +16,4 @@
 	- Computer-Aided System Engineering 
 		- Provides an overall framework and supports design workflows
 
-- Systems Analyst 
-	- A person who 
+- 
