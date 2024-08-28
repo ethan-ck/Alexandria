@@ -4,28 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "b3b090aeb1d7ceed",
+        "id": "66d867ece75158c7",
         "type": "tabs",
         "children": [
           {
-            "id": "9ad253f9e71e90c1",
+            "id": "7690b20ecd353a63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Analysis and Design/Systems Development.md",
+                "file": "C++/Namespaces.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "89eb5c71b081b6fc",
+            "id": "dba0cd0522438e91",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "C++/Identifiers.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Analysis and Design/Systems Development.md",
+                "file": "C++/Identifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Analysis and Design/Systems Development.md",
+                "file": "C++/Identifiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Analysis and Design/Systems Development.md"
+                "file": "C++/Identifiers.md"
               }
             }
           }
@@ -163,16 +165,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89eb5c71b081b6fc",
+  "active": "dba0cd0522438e91",
   "lastOpenFiles": [
-    "Cybersecurity I/Untitled.md",
+    "C++/Namespaces.md",
+    "C++/Identifiers.md",
+    "C++/cout Object.md",
+    "C++/Parts of a C++ Program.md",
     "System Analysis and Design/Systems Development.md",
+    "download (1).png",
+    "Pasted image 20240724075513.png",
+    "Languages/Russian/Alphabet.md",
+    "Cybersecurity I/Untitled.md",
     "Cybersecurity I/Key Definitions.md",
     "Cybersecurity I/Access Control Models.md",
     "Cybersecurity I/Identity and Access Management.md",
-    "C++/cout Object.md",
-    "C++/Namespaces.md",
-    "C++/Parts of a C++ Program.md",
     "C++/Structure of a C++ Program.md",
     "Linux/Basic Linux File Management.md",
     "Linux/Introduction.md",
@@ -181,15 +187,12 @@
     "Networking II/Introduction.md",
     "System Analysis and Design",
     "Networking II",
-    "Pasted image 20240724075513.png",
     "Hierarchical-Database-Model-example.png",
-    "download (1).png",
     "large-Hierarchical-Databases-v2-1.jpg",
     "download.jpg",
     "download.png",
     "exampl;e.png",
     "00 - Landing Page.md",
-    "Languages/Russian/Alphabet.md",
     "Languages/Mandarin",
     "Languages/Russian",
     "Data Structures and Algorithms/Big-O Notation.md",
@@ -203,7 +206,6 @@
     "Biology/Photosynthesis.md",
     "Networking I/Wireless.md",
     "PC  Hardware Management/Untitled.md",
-    "PC  Hardware Management/Operating System Basics.md",
     "C++",
     "Principles of Management",
     "Linux",
