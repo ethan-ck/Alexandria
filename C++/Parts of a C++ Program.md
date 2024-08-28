@@ -1,4 +1,5 @@
-- C++ IS a case-sensitiv
+- C++ IS a case-sensitive language
+
 - Comments start with a //
 
 - Preprocessor Directives and Directives
@@ -10,5 +11,3 @@
 		- They're like dictionaries in python
 
 
-- NameSpaces 
-	- 
