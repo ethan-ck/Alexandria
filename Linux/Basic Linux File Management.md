@@ -37,7 +37,7 @@
 - File management commands
 	- touch = creates blank files
 	- cp = copies files
-	- mv = moves files
+	- mv = moves files, can also rename files 
 	- rm = remove
 
 - The Nano Editor 
