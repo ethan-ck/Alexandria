@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e60961f17c2262a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Parts of a C++ Program.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a562c1b5d365a453",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Namespaces.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "246495618b614c55",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"

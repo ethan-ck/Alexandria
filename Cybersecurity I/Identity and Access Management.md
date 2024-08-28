@@ -4,5 +4,11 @@
 - 2. Authentication 
 	- Make sure you are who you say you are - fancy term for the log-in process
 	- A match in the look-up table between username and password
+	- Remember the look-up tables
+	- Multi-Factor 
+		- What you know (passwords, pins, etc..)
+		- What you have (phone, key, etc...)
+		- What you are (biometrics = fingerprints, face ID, retina, voice)
+		- Where you 
+- 3. Authorization 
 	- 
-- 3. 
