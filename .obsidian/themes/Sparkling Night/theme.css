@@ -88,7 +88,7 @@
     /* --italic: var(--robin-egg-blue); */
     --underline-text-color: var(--white);
     --underline-line-color: var(--bright-green);
-    --underline-line-thickness: 3px;
+    --underline-line-thickness: 0.15em;
 
     /* Code */
     --codeblock-background: var(--dark-purple);
@@ -101,6 +101,7 @@
     --code-string-color: var(--robin-egg-blue);
     --code-operator-color: var(--bright-green);
     --code-comment-color: var(--cool-gray);
+    --code-text-size: 0.9em;
 
     /* Tags */
     --tags-background: var(--dark-purple);
@@ -112,16 +113,17 @@
 
     /* Checkboxes */
     --checkbox-marker-color: var(--white);
-    --radius-s: 2px;
+    --radius-s: 3px;
     --interactive-accent: var(--tropical-indigo); /*marked color*/
     --checklist-done-color: var(--cool-gray);
     --checkbox-border-color: var(--cool-gray);
     --checkbox-border-color-hover: var(--bright-green);
     --checkbox-color-hover: var(--bright-green);
+    --checklist-done-decoration: none;
 
     /* Quotes */
     --quote-background: var(--dark-purple);
-    --quote-style: italic;
+    /* --quote-style: italic; */
 
     /* Links */
     --link-text-shadow: var(--raisin-black);
@@ -163,7 +165,7 @@
 
 /* ----------- Titles ----------- */
 
-.HyperMD-header-1, h1 {
+.HyperMD-header-1, .HyperMD-header.HyperMD-header-1.cm-line, h1 {
     text-align: center;
     width: 100%;
     border-bottom: 0.1em solid transparent;
@@ -173,24 +175,44 @@
                   var(--h1-gradient-end) 96%);
     border-radius: 3px;
     border-image-slice: 1;
-    padding-top: 20px!important;
-    padding-bottom: 8px!important;
-    margin-top: 5px!important;
-    margin-bottom: 5px!important;
-
-}
-
-.HyperMD-header-2, h2 {
+    padding-top: 0.3em!important;
+    padding-bottom: 0.2em!important;
+    margin-top: 0.3em!important;
+    margin-bottom: 0.5em!important;
+  }
+  
+  .HyperMD-header-2, .HyperMD-header.HyperMD-header-2.cm-line, h2 {
     text-align: left;
     width: 100%;
     border-bottom: 0.05em solid transparent;
     border-image: linear-gradient(0.25turn, 
-                  var(--h2-gradient-start) 0%,
-                  var(--h2-gradient-end) 60%);
+    var(--h2-gradient-start) 0%,
+    var(--h2-gradient-end) 60%);
     border-radius: 3px;
     border-image-slice: 1;
+    padding-top: 0.3em!important;
+    padding-bottom: 0.2em!important;
+    margin-top: 0.3em!important;
+    margin-bottom: 0.5em!important;
 }
 
+.HyperMD-header-3, .HyperMD-header.HyperMD-header-3.cm-line, h3 {
+  padding-top: 0.3em!important;
+  margin-top: 0.3em!important;
+  margin-bottom: 0.3em!important;
+}
+
+.cm-header.cm-header-1.cm-inline-code,
+.cm-header.cm-header-2.cm-inline-code{
+  font-size: var(--code-text-size)!important;
+}
+
+.cm-header.cm-header-3.cm-inline-code,
+.cm-header.cm-header-4.cm-inline-code,
+.cm-header.cm-header-5.cm-inline-code,
+.cm-header.cm-header-6.cm-inline-code{
+  font-size: var(--code-text-size)!important;
+}
 /* ----------- Bar ----------- */
 
 .cm-line hr,
@@ -246,6 +268,7 @@ ul ul ul {
 .HyperMD-task-line[data-task="/"] .task-list-item-checkbox:hover {
   background-color: var(--folly);
   border-color: var(--checkbox-border-color);
+  text-decoration: none;
 }
 
 .HyperMD-task-line[data-task=">"] .task-list-item-checkbox,
@@ -282,12 +305,18 @@ ul ul ul {
 pre code { 
     background-color: var(--codeblock-background) !important;
     border: var(--codeblock-background) !important;
+    color: var(--codeblock-color)!important;
+}
+
+.markdown-rendered pre {
+  background-color: var(--codeblock-background);
 }
 
 pre[class*="language-"], 
 code[class*="language-"]
 {
-    background: var(--codeblock-background);
+    font-size: var(--code-text-size)!important;
+    background: var(--codeblock-background)!important;
     color: var(--codeblock-color)!important;
 }
 
@@ -305,17 +334,16 @@ code[class*="language-"]
 .cm-inline-code{
     background-color: var(--inline-code-background)!important;
     color: var(--inline-code-color)!important;
-    font-size: 0.9rem!important;
+    font-size: var(--code-text-size)!important;
     padding: 3px 4px;
     border-radius: 5px;
-    font-size: 0.85em!important;
 }
 
 .markdown-rendered code {
     background-color: var(--codeblock-background)!important;
     /* color: var(--white); */
     color: var(--inline-code-color);
-    font-size: 0.9rem;
+    font-size: var(--code-text-size)!important;
     padding: 3px 4px;
     border-radius: 5px;
 }
@@ -323,12 +351,13 @@ code[class*="language-"]
 /* code styling */
 
 .cm-link, .cm-variable, .cm-variable-2, .cm-variable-3 {color: var(--code-variable-color)!important;} /* variable */
-.cm-def.cm-hmd-codeblock, .token.function{
+.cm-def.cm-hmd-codeblock, .token.function, .token.class-name {
     color: var(--code-function-color)!important;
     text-emphasis: italic;
 } /* function name in declaration */
 .cm-builtin, .cm-property, .cm-attribute, .cm-type, .cm-keyword, .token.keyword, .token.builtin, .token.property {color: var(--code-builtin-color)!important;} /* built-in functions, methods */
-.cm-hmd-codeblock.cm-string, .cm-hmd-codeblock.cm-number, .token.string, .token.number {color: var(--code-string-color)!important;} /* strings and numbers */
+.cm-hmd-codeblock.cm-string, .token.string {color: var(--code-string-color)!important;} /* strings and numbers */
+.cm-hmd-codeblock.cm-number, .token.number {color: var(--code-operator-color)!important}
 .cm-operator, .token.operator {color: var(--code-operator-color)!important;} /* operators */
 .cm-hmd-codeblock {color: var(--codeblock-color);} /* codeblock */
 .cm-comment, .token.comment {color: var(--code-comment-color)!important;} /* comment */
@@ -347,7 +376,7 @@ code[class*="language-"]
 /* ----------- Quotes ----------- */
 
 .markdown-source-view.mod-cm6.is-live-preview .HyperMD-quote, .markdown-rendered blockquote {
-    font-style: var(--quote-style);
+    /* font-style: var(--quote-style); */
     font-size: 0.9em;
     background-color: var(--quote-background);
     padding-top: 0.3em;
@@ -401,7 +430,7 @@ u {
   color: var(--link-text-color);
   background-position: 0 100%;
   background-repeat: repeat-x;
-  background-size: 3px 3px;
+  background-size: 1px 2px;
   text-decoration: none;
   padding-right: 0;
 }
@@ -444,6 +473,10 @@ a:hover,
     /* text-decoration: double!important; */
 }
 
+.markdown-rendered .internal-link{
+  color: var(--text-normal) !important;
+}
+
 /* ----------- Images ----------- */
 
 img {display:block;
@@ -463,6 +496,19 @@ img {display:block;
   .markdown-preview-view img:hover {
       -webkit-transform:scale(1); /* experiment with values */
       transform:scale(1.4);
+  }
+
+  /* ----------- Tables ----------- */
+  
+  /* preview */
+  .markdown-preview-view table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .markdown-source-view.mod-cm6 .cm-table-widget {
+    margin-left: auto!important;
+    margin-right: auto!important;
   }
 
 /* ----------- File Explorer ----------- */

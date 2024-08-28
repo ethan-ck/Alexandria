@@ -1,5 +1,11 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "AnuPpuccin"
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "custom-rainbow-colors",
+    "custom-background",
+    "extended-colorschemes",
+    "minimal-cards"
+  ]
 }

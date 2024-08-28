@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Analysis and Design/Information Systems.md",
+                "file": "System Analysis and Design/Systems Development.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Analysis and Design/Information Systems.md",
+                "file": "System Analysis and Design/Systems Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Analysis and Design/Information Systems.md",
+                "file": "System Analysis and Design/Systems Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Analysis and Design/Information Systems.md"
+                "file": "System Analysis and Design/Systems Development.md"
               }
             }
           }
@@ -155,7 +155,7 @@
   "active": "9ad253f9e71e90c1",
   "lastOpenFiles": [
     "Cybersecurity I/Untitled.md",
-    "System Analysis and Design/Information Systems.md",
+    "System Analysis and Design/Systems Development.md",
     "Cybersecurity I/Key Definitions.md",
     "Cybersecurity I/Access Control Models.md",
     "Cybersecurity I/Identity and Access Management.md",
