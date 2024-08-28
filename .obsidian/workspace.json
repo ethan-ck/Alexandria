@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity I/Untitled 1.md",
+                "file": "Cybersecurity I/Identity and Access Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity I/Untitled 1.md",
+                "file": "Cybersecurity I/Identity and Access Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity I/Untitled 1.md",
+                "file": "Cybersecurity I/Identity and Access Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity I/Untitled 1.md"
+                "file": "Cybersecurity I/Identity and Access Management.md"
               }
             }
           }
@@ -188,7 +188,7 @@
     "Networking I/DORA Process.md",
     "Networking I/Troubleshooting.md",
     "Networking II/Introduction.md",
-    "Cybersecurity I/Untitled 1.md",
+    "Cybersecurity I/Identity and Access Management.md",
     "System Analysis and Design",
     "Networking II",
     "Pasted image 20240724075513.png",
