@@ -9,6 +9,17 @@
 		- What you know (passwords, pins, etc..)
 		- What you have (phone, key, etc...)
 		- What you are (biometrics = fingerprints, face ID, retina, voice)
-		- Where you 
+		- Where you are (geolocation)
 - 3. Authorization 
+	- What you can do 
+- 4. Auditing and Accounting
+	- Logs
+	- Objects = data applications, systems, and networks
+	- Subjects = the user 
 	- 
+
+Steps 2 - 4 are called the three A's (The triple A's)
+
+- Two servers do this, Radius and Tacacs
+
+- 
