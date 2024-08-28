@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f0e9742b4a1f2d9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Floating Point Decimals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Integer Types.md",
+                "file": "C++/Floating Point Decimals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Integer Types.md",
+                "file": "C++/Floating Point Decimals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Integer Types.md"
+                "file": "C++/Floating Point Decimals.md"
               }
             }
           }
@@ -152,11 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82faedf937b00d1d",
+  "active": "f0e9742b4a1f2d9e",
   "lastOpenFiles": [
-    "Screenshot 2024-08-28 191855.png",
-    "C++/Identifiers.md",
     "C++/Integer Types.md",
+    "C++/Identifiers.md",
+    "C++/Floating Point Decimals.md",
+    "floats.png",
+    "Screenshot 2024-08-28 191855.png",
     "C++/Namespaces.md",
     "C++/cout Object.md",
     "C++/Parts of a C++ Program.md",
@@ -192,7 +207,6 @@
     "Biology/Biotechnology.md",
     "Biology/DNA.md",
     "Biology/Characteristics of Life.md",
-    "Biology/Photosynthesis.md",
     "C++",
     "Principles of Management",
     "Linux",
