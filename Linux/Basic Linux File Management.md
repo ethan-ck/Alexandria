@@ -27,3 +27,22 @@
 			- -d = displays the directories but not the files 
 		- You can combine options
 			- ex. ls -al would list all directory contents as well as the extended information 
+
+- The tilde key is a shortcut to the user's home directory
+
+- rmdir and rm
+	- rmdir only removes empty directories
+	- rm removes the directory and all files 
+
+- File management commands
+	- touch = creates blank files
+	- cp = copies files
+	- mv = moves files
+	- rm = remove
+
+- The Nano Editor 
+	- nano allows you to edit files in the command line
+
+- VIM (Vi Editor)
+	- Command line text editor 
+	- 
