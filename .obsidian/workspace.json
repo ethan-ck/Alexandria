@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "246495618b614c55",
+            "id": "9ad253f9e71e90c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity I/Access Control Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d77e63bc65098af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity I/Key Definitions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1df1b4a3a200a93c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity I/Untitled.md",
+                "file": "System Analysis and Design/Information Systems.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity I/Untitled.md",
+                "file": "System Analysis and Design/Information Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity I/Untitled.md",
+                "file": "System Analysis and Design/Information Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity I/Untitled.md"
+                "file": "System Analysis and Design/Information Systems.md"
               }
             }
           }
@@ -177,10 +152,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1df1b4a3a200a93c",
+  "active": "9ad253f9e71e90c1",
   "lastOpenFiles": [
-    "Cybersecurity I/Key Definitions.md",
     "Cybersecurity I/Untitled.md",
+    "System Analysis and Design/Information Systems.md",
+    "Cybersecurity I/Key Definitions.md",
     "Cybersecurity I/Access Control Models.md",
     "Cybersecurity I/Identity and Access Management.md",
     "C++/cout Object.md",
@@ -217,7 +193,6 @@
     "Networking I/Wireless.md",
     "PC  Hardware Management/Untitled.md",
     "PC  Hardware Management/Operating System Basics.md",
-    "Data Structures and Algorithms/Recursion.md",
     "C++",
     "Principles of Management",
     "Linux",
