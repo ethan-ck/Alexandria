@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking I/DORA Process.md",
+                "file": "Linux/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking I/DORA Process.md",
+                "file": "Linux/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking I/DORA Process.md",
+                "file": "Linux/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking I/DORA Process.md"
+                "file": "Linux/Introduction.md"
               }
             }
           }
@@ -167,11 +167,12 @@
   },
   "active": "28b5017d301f0d33",
   "lastOpenFiles": [
+    "C++/Structure of a C++ Program.md",
+    "Linux/Introduction.md",
+    "Networking I/DORA Process.md",
     "Networking I/Troubleshooting.md",
     "Networking II/Introduction.md",
-    "Linux/Introduction.md",
     "Cybersecurity I/Untitled 1.md",
-    "C++/Structure of a C++ Program.md",
     "System Analysis and Design",
     "Networking II",
     "Pasted image 20240724075513.png",
@@ -205,7 +206,6 @@
     "Networking I/Ethernet.md",
     "Networking I/The OSI Model.md",
     "Database Design and Development/Data Types in Access and SQL Server.md",
-    "Database Design and Development/Normalization.md",
     "C++",
     "Principles of Management",
     "Linux",
