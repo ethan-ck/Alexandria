@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a3481cd1e685f2a",
+            "id": "3e60961f17c2262a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Basic Linux File Management.md",
+                "file": "C++/Parts of a C++ Program.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Basic Linux File Management.md",
+                "file": "C++/Parts of a C++ Program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Basic Linux File Management.md",
+                "file": "C++/Parts of a C++ Program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Basic Linux File Management.md"
+                "file": "C++/Parts of a C++ Program.md"
               }
             }
           }
@@ -152,11 +152,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a3481cd1e685f2a",
+  "active": "3e60961f17c2262a",
   "lastOpenFiles": [
-    "Linux/Introduction.md",
-    "Linux/Basic Linux File Management.md",
     "C++/Structure of a C++ Program.md",
+    "C++/Parts of a C++ Program.md",
+    "Linux/Basic Linux File Management.md",
+    "Linux/Introduction.md",
     "Networking I/DORA Process.md",
     "Networking I/Troubleshooting.md",
     "Networking II/Introduction.md",
@@ -192,7 +193,6 @@
     "Networking/Untitled 2.md",
     "Database Design and Development/Vince's Vinyl SOW.md",
     "Networking I/Ethernet.md",
-    "Networking I/The OSI Model.md",
     "C++",
     "Principles of Management",
     "Linux",
