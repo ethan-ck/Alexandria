@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "89eb5c71b081b6fc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ad253f9e71e90c1",
+  "active": "89eb5c71b081b6fc",
   "lastOpenFiles": [
     "Cybersecurity I/Untitled.md",
     "System Analysis and Design/Systems Development.md",
