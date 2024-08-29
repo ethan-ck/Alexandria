@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Floating Point Decimals.md",
+                "file": "C++/Namespaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Floating Point Decimals.md",
+                "file": "C++/Namespaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Floating Point Decimals.md",
+                "file": "C++/Namespaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Floating Point Decimals.md"
+                "file": "C++/Namespaces.md"
               }
             }
           }
@@ -154,6 +154,8 @@
   },
   "active": "5f367293746c49ae",
   "lastOpenFiles": [
+    "C++/Parts of a C++ Program.md",
+    "C++/Floating Point Decimals.md",
     "C++/Namespaces.md",
     "C++/Structure of a C++ Program.md",
     "Database Design and Development/Types of Databases.md",
@@ -161,7 +163,6 @@
     "C++/Identifiers.md",
     "C++/Operators.md",
     "C++/Determining the Size of a Data Type.md",
-    "C++/Parts of a C++ Program.md",
     "C++/Integer Types.md",
     "Networking II/Look-Up Tables (Again).md",
     "Networking II/Ports (Again).md",
@@ -177,7 +178,6 @@
     "Networking I/The OSI Model.md",
     "Networking I/Network Cables and Connectors.md",
     "Screenshot 2024-08-28 211516.png",
-    "C++/Floating Point Decimals.md",
     "floats.png",
     "Screenshot 2024-08-28 191855.png",
     "download (1).png",
