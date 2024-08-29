@@ -30,13 +30,17 @@ The Open Systems Interconnection, or OSI for short, is a model that is designed 
 			- IP 
 			- ARP 
 		- PDU is called Packet 
-	- Data Link - Error checking [CRC]
+	- Data Link - Error checking [CRC] (Cyclical Redundancy Checking)
 		- MAC Address 
+			- 48 bit 
+			- Hexadecimal 
+			- Burned into the NIC, every address is unique 
 		- Devices include: 
 			- a Switch
 			- Wireless Application Protocol (WAP) 
 			- Network Interface controller (NIC)
 			- Bridge
+				- Connects two networks, a little bit safer than a hub or repeaters
 		- PDUs are called Frames 
 	- Physical 
 		-  Puts Signal on Wire or Channel 

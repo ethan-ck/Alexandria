@@ -27,4 +27,7 @@
 - PDU - Protocol Data Unit 
 	- Generic name for Packets, Frame, segments, and bits 
 
+- Signal Emanation
 - 
+- 
+-  
