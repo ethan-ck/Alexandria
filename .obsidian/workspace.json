@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Principles of Management/Untitled.md",
+                "file": "Principles of Management/The Art of Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principles of Management/Untitled.md",
+                "file": "Principles of Management/The Art of Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Principles of Management/Untitled.md",
+                "file": "Principles of Management/The Art of Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Principles of Management/Untitled.md"
+                "file": "Principles of Management/The Art of Management.md"
               }
             }
           }
@@ -165,10 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69058bd0d2cb793d",
+  "active": "4230e0553437d8a3",
   "lastOpenFiles": [
     "System Analysis and Design/Systems Development.md",
-    "Principles of Management/Untitled.md",
+    "Principles of Management/The Art of Management.md",
     "C++/Operators.md",
     "Screenshot 2024-08-28 211516.png",
     "C++/Parts of a C++ Program.md",
