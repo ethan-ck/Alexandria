@@ -6,6 +6,9 @@
 
 - DNS - Dynamic Name System
 	- IP and URL
+	- Humans need URLs, it's easier to remember
+	- Router needs IP address
+	- Port A and PTR Records
 
 - CAM Table - 
 	- Mac address and port on the switch

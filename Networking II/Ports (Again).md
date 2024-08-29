@@ -24,4 +24,4 @@
 	 - is like an intrusion detection system
 	 - it sends an alert called a trap
 
-- 
+- HTTPS is 443 because SSL is 443

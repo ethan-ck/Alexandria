@@ -1,5 +1,3 @@
 
 ![[floats.png]]
 
-
-Decimals 
