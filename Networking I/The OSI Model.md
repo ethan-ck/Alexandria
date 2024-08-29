@@ -4,7 +4,7 @@ The Open Systems Interconnection, or OSI for short, is a model that is designed 
 
 - The OSI Model has 7 layers:
 	- Application -
-		- This layer is the final layer, and is the closet to the user, it integrates the Network services with the Operating system through the use of the protocols below/ 
+		- This layer is the final layer, and is the closet to the user, it integrates the Network services with the Operating system through the use of the protocols below:
 		- Has Multiple Protocols
 			- HTTP 
 			- FTP
@@ -12,10 +12,14 @@ The Open Systems Interconnection, or OSI for short, is a model that is designed 
 			- DNS
 			- DHCP
 	- Presentation 
-		- Once a session is established, it must "present" the data in a clean and efficient way. This layer handles the formatting, encryption, and compression of data. 
+		- Once a session is established, it must "present" the data in a clean and efficient way. This layer handles the formatting, encryption, and compression of data.
 	- Session 
 		- Establishes a session between two or more devices with a Session-ID 
 			- Sync and acknowledged
+			- Synchronize packet
+			- Acknowledge packet
+			- 3 way "handshake"
+			- Sync packets open up a partial session which is the premise behind a ddos attack
 	- Transport 
 		- Allows for the flow of Data through controls 
 			- Flow control prevents "traffic jams"

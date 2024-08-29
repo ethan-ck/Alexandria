@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking I/The OSI Model.md",
+                "file": "Networking II/OSI Model (Again).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking I/The OSI Model.md",
+                "file": "Networking II/OSI Model (Again).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking I/The OSI Model.md",
+                "file": "Networking II/OSI Model (Again).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking I/The OSI Model.md"
+                "file": "Networking II/OSI Model (Again).md"
               }
             }
           }
@@ -154,13 +154,13 @@
   },
   "active": "4b3599482fd225af",
   "lastOpenFiles": [
-    "Networking I/Identifiers.md",
-    "Networking II/OSI Model (Again).md",
-    "Networking II/Introduction.md",
-    "Networking I/The OSI Model.md",
-    "Networking I/Network Cables and Connectors.md",
     "Principles of Management/The Art of Management.md",
     "System Analysis and Design/Systems Development.md",
+    "Networking I/Identifiers.md",
+    "Networking I/The OSI Model.md",
+    "Networking II/OSI Model (Again).md",
+    "Networking II/Introduction.md",
+    "Networking I/Network Cables and Connectors.md",
     "C++/Operators.md",
     "Screenshot 2024-08-28 211516.png",
     "C++/Parts of a C++ Program.md",
