@@ -15,8 +15,11 @@ The Open Systems Interconnection, or OSI for short, is a model that is designed 
 		- Once a session is established, it must "present" the data in a clean and efficient way. This layer handles the formatting, encryption, and compression of data. 
 	- Session 
 		- Establishes a session between two or more devices with a Session-ID 
+			- Sync and acknowledged
 	- Transport 
 		- Allows for the flow of Data through controls 
+			- Flow control prevents "traffic jams"
+			- Sequencing which ensures that data arrives in the order it is supposed to 
 		- Think of a log going down the river with multiple gates. 
 		- PORTS Live here
 		- Has two Protocols 
