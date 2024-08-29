@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "82c79a520a95d344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Floating Point Decimals.md",
+                "file": "C++/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Floating Point Decimals.md",
+                "file": "C++/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Floating Point Decimals.md"
+                "file": "C++/Untitled.md"
               }
             }
           }
@@ -165,11 +177,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0e9742b4a1f2d9e",
+  "active": "82c79a520a95d344",
   "lastOpenFiles": [
+    "C++/Floating Point Decimals.md",
+    "C++/Untitled.md",
     "C++/Integer Types.md",
     "C++/Identifiers.md",
-    "C++/Floating Point Decimals.md",
     "floats.png",
     "Screenshot 2024-08-28 191855.png",
     "C++/Namespaces.md",
