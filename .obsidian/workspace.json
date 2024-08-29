@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82c79a520a95d344",
+            "id": "c51105d0bd194c75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Parts of a C++ Program.md",
+                "file": "C++/Operators.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Parts of a C++ Program.md",
+                "file": "C++/Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Parts of a C++ Program.md",
+                "file": "C++/Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Parts of a C++ Program.md"
+                "file": "C++/Operators.md"
               }
             }
           }
@@ -152,8 +152,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82c79a520a95d344",
+  "active": "c51105d0bd194c75",
   "lastOpenFiles": [
+    "Screenshot 2024-08-28 211516.png",
+    "C++/Parts of a C++ Program.md",
+    "C++/Operators.md",
     "C++/Determining the Size of a Data Type.md",
     "C++/Floating Point Decimals.md",
     "C++/Integer Types.md",
@@ -162,7 +165,6 @@
     "Screenshot 2024-08-28 191855.png",
     "C++/Namespaces.md",
     "C++/cout Object.md",
-    "C++/Parts of a C++ Program.md",
     "System Analysis and Design/Systems Development.md",
     "download (1).png",
     "Pasted image 20240724075513.png",
@@ -193,8 +195,6 @@
     "Languages",
     "Cybersecurity I",
     "Biology/Biotechnology.md",
-    "Biology/DNA.md",
-    "Biology/Characteristics of Life.md",
     "C++",
     "Principles of Management",
     "Linux",
