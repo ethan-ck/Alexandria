@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "82faedf937b00d1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Integer Types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0e9742b4a1f2d9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Floating Point Decimals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "82c79a520a95d344",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Untitled.md",
+                "file": "C++/Determining the Size of a Data Type.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Untitled.md",
+                "file": "C++/Determining the Size of a Data Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Untitled.md",
+                "file": "C++/Determining the Size of a Data Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Untitled.md"
+                "file": "C++/Determining the Size of a Data Type.md"
               }
             }
           }
@@ -180,7 +155,7 @@
   "active": "82c79a520a95d344",
   "lastOpenFiles": [
     "C++/Floating Point Decimals.md",
-    "C++/Untitled.md",
+    "C++/Determining the Size of a Data Type.md",
     "C++/Integer Types.md",
     "C++/Identifiers.md",
     "floats.png",
