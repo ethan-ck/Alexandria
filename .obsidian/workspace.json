@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Determining the Size of a Data Type.md",
+                "file": "C++/Parts of a C++ Program.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Determining the Size of a Data Type.md",
+                "file": "C++/Parts of a C++ Program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Determining the Size of a Data Type.md",
+                "file": "C++/Parts of a C++ Program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Determining the Size of a Data Type.md"
+                "file": "C++/Parts of a C++ Program.md"
               }
             }
           }
@@ -154,8 +154,8 @@
   },
   "active": "82c79a520a95d344",
   "lastOpenFiles": [
-    "C++/Floating Point Decimals.md",
     "C++/Determining the Size of a Data Type.md",
+    "C++/Floating Point Decimals.md",
     "C++/Integer Types.md",
     "C++/Identifiers.md",
     "floats.png",

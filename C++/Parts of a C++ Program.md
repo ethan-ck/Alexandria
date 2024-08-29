@@ -10,4 +10,6 @@
 		- The word enclosed in the brackets <iostream> is the name of the header file. 
 		- They're like dictionaries in python
 
+- The Keyword auto automatically assigns a variable
+
 
