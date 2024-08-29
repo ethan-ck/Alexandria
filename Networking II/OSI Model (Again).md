@@ -11,7 +11,7 @@
 	- Creates a session-ID between the two devices
 
 - Transport Layer
-	- Where does the data go?
+	- Where does the data go? It delivers data and controls the flow, control, and sequences the data
 	- Ports live here
 	- PDU = Segment 
 
