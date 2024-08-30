@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Floating Point Decimals.md",
+                "file": "C++/Integer Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Floating Point Decimals.md",
+                "file": "C++/Integer Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Floating Point Decimals.md",
+                "file": "C++/Integer Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Floating Point Decimals.md"
+                "file": "C++/Integer Types.md"
               }
             }
           }
@@ -154,13 +154,13 @@
   },
   "active": "5f367293746c49ae",
   "lastOpenFiles": [
+    "C++/Floating Point Decimals.md",
     "C++/Integer Types.md",
     "C++/Identifiers.md",
     "C++/cout Object.md",
     "C++/Structure of a C++ Program.md",
     "C++/Parts of a C++ Program.md",
     "C++/Namespaces.md",
-    "C++/Floating Point Decimals.md",
     "Database Design and Development/Types of Databases.md",
     "C++/Operators.md",
     "C++/Determining the Size of a Data Type.md",
