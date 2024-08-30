@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "490ed96b42ad27c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Youtube.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "327e6b73ffd94372",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Auto Keyword.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Namespaces.md",
+                "file": "C++/Auto Keyword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Namespaces.md",
+                "file": "C++/Auto Keyword.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Namespaces.md"
+                "file": "C++/Auto Keyword.md"
               }
             }
           }
@@ -152,15 +177,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f367293746c49ae",
+  "active": "327e6b73ffd94372",
   "lastOpenFiles": [
+    "C++/Youtube.md",
+    "C++/Auto Keyword.md",
+    "C++/Namespaces.md",
     "C++/Integer Types.md",
     "C++/Floating Point Decimals.md",
     "C++/Identifiers.md",
     "C++/cout Object.md",
     "C++/Structure of a C++ Program.md",
     "C++/Parts of a C++ Program.md",
-    "C++/Namespaces.md",
     "Database Design and Development/Types of Databases.md",
     "C++/Operators.md",
     "C++/Determining the Size of a Data Type.md",
@@ -183,8 +210,6 @@
     "download (1).png",
     "Pasted image 20240724075513.png",
     "Languages/Russian/Alphabet.md",
-    "Cybersecurity I/Key Definitions.md",
-    "Cybersecurity I/Identity and Access Management.md",
     "System Analysis and Design",
     "Networking II",
     "Hierarchical-Database-Model-example.png",
