@@ -1,0 +1,1 @@
+- A simple namespace is nothing more than identifying the class
