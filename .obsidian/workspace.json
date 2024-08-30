@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Namespaces.md",
+                "file": "C++/Floating Point Decimals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Namespaces.md",
+                "file": "C++/Floating Point Decimals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Namespaces.md",
+                "file": "C++/Floating Point Decimals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Namespaces.md"
+                "file": "C++/Floating Point Decimals.md"
               }
             }
           }
@@ -154,16 +154,16 @@
   },
   "active": "5f367293746c49ae",
   "lastOpenFiles": [
-    "C++/Parts of a C++ Program.md",
-    "C++/Floating Point Decimals.md",
-    "C++/Namespaces.md",
-    "C++/Structure of a C++ Program.md",
-    "Database Design and Development/Types of Databases.md",
-    "C++/cout Object.md",
+    "C++/Integer Types.md",
     "C++/Identifiers.md",
+    "C++/cout Object.md",
+    "C++/Structure of a C++ Program.md",
+    "C++/Parts of a C++ Program.md",
+    "C++/Namespaces.md",
+    "C++/Floating Point Decimals.md",
+    "Database Design and Development/Types of Databases.md",
     "C++/Operators.md",
     "C++/Determining the Size of a Data Type.md",
-    "C++/Integer Types.md",
     "Networking II/Look-Up Tables (Again).md",
     "Networking II/Ports (Again).md",
     "Networking II/DNS Thing.md",
