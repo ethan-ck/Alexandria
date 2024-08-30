@@ -11,3 +11,15 @@
 - Declares the program will be accessing entities
 
 - Namespaces allow you to use the same names for variables, functions, and others without overwriting them
+
+	NameSpace A {
+		void func()
+		 { std::cout << "Hello!"; }
+		}
+
+	NameSpace B {
+		void func()
+		 { std::cout << "World!"; }
+		}
+
+- In the example, you have two void functions that are named the exact same but will not overwrite or break one another. 
