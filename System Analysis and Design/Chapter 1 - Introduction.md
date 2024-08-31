@@ -70,9 +70,40 @@
 	- 1. Top Managers
 	- 2. Middle Managers and Knowledge Workers
 	- 3. Supervisors and Team Leaders
+		- Oversee operation employees and carry out day to day functions
 	- 4. Operational Employees
+		- Rely on TOP systems to enter and receive data, empowered to handle tasks and make decisions that were assigned previously to supervisors
 
 - Business Functions
 	- IT, Human Resources, Accounting, Sales, Marketing, and Production 
 
+- Systems Development 
+	- Structured Analysis
+		- Uses systems developmental life cycle (SDLC) to plan, analyze, design, implement, and support an information system
+	- Object-oriented analysis
+		- Combines data and processes as objects
+	- Agile methods
+		- Builds a series of prototypes and constantly adjusts them to user requirements
+		- Spiral model
+
+- Prototyping 
+	- An early working version of an information system
+		- Disadvantage: important decisions might be made before business or IT issues are thoroughly understood
+		- Prototypes based on careful fact-finding and modeling techniques can be extremely valuable 
+
+- Computer-Aided Systems Engineering (CASE) tools
+	- Computer-aided software engineering
+	- Provide an overall framework
+	- support design metholodogies 
+	- generate program code
+
+- Trends in Information Technology
+	- IT is one of the fastest evolving industries, knowledge of current trends is vital
+	- Key trends include:
+		- Agile methods
+		- Cloud computing 
+		- Data science
+		- Mobile devices
+		- Service orientation
+		- Social Media
 - 
