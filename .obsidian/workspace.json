@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity I/Identity and Access Management.md",
+                "file": "System Analysis and Design/Systems Development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a77e62206683859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Analysis and Design/Chapter 1 - Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity I/Identity and Access Management.md",
+                "file": "System Analysis and Design/Chapter 1 - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity I/Identity and Access Management.md",
+                "file": "System Analysis and Design/Chapter 1 - Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity I/Identity and Access Management.md"
+                "file": "System Analysis and Design/Chapter 1 - Introduction.md"
               }
             }
           }
@@ -152,8 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69058bd0d2cb793d",
+  "active": "7a77e62206683859",
   "lastOpenFiles": [
+    "System Analysis and Design/Systems Development.md",
+    "System Analysis and Design/Chapter 1 - Introduction.md",
+    "Cybersecurity I/Identity and Access Management.md",
     "C++/Namespaces.md",
     "C++/Auto Keyword.md",
     "C++/Youtube.md",
@@ -176,15 +192,12 @@
     "Networking II/Introduction.md",
     "Networking I/Identifiers.md",
     "Principles of Management/The Art of Management.md",
-    "System Analysis and Design/Systems Development.md",
     "Networking I/The OSI Model.md",
-    "Networking I/Network Cables and Connectors.md",
     "Screenshot 2024-08-28 211516.png",
     "floats.png",
     "Screenshot 2024-08-28 191855.png",
     "download (1).png",
     "Pasted image 20240724075513.png",
-    "Languages/Russian/Alphabet.md",
     "System Analysis and Design",
     "Networking II",
     "Hierarchical-Database-Model-example.png",
