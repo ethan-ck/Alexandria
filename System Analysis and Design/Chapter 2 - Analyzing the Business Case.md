@@ -2,7 +2,7 @@
 
 - Technical Feasibility refers to the practical resources needed to develop, purchase, install, or operate the system
 
--   Which feasibilities do NOT mean the proposed system will be used effectively after it has been developed.
+-  Which feasibilities do NOT mean the proposed system will be used effectively after it has been developed.
 	- Technical
 	- Schedule
 	- Economic
@@ -38,7 +38,7 @@
 
 - A systems request form should NOT have complex instructions
 
-- IN a preliminary investigation report, the findings section contains the results of the preliminary investigation, including a description of the project's scope, constraints, and feasibility
+- In a preliminary investigation report, the findings section contains the results of the preliminary investigation, including a description of the project's scope, constraints, and feasibility
 
 - Strategic planning is the process of identifying long-term organization goals, strategies, and resources.
   
