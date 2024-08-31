@@ -106,4 +106,28 @@
 		- Mobile devices
 		- Service orientation
 		- Social Media
-- 
+
+- O-O Model
+	- Object-Oriented Analysis
+	- Treats processes and data as separate components, which combines data and the processes that act on the data as objects.
+	- System analysists use O-O to model real-world business processes and operations
+	- Object is a member of a class, which is a collection of similar objects. These objects possess characteristics called properties, in which the object inherits from its class or on its own.
+	- Built in processes called methods can change an object's properties. Planning analysis, and design tasks interact to produce prototypes that can be tested and implemented 
+
+- Agile Methods
+	- Typically use a spiral model, which represents a series of iterations or revisions based on user feedback. 
+	- Each iteration or phase of the model must have a specific goal that is accepted, rejected, or changed by the user or client. 
+
+- Prototyping 
+	- Structured analysis, O-O analysis, and agile methods can all employ prototyping as a supporting systems development method. 
+	- Prototypes test system concepts and provides an opportunity to examine input, output, and user interfaces before any final decisions are made. 
+	- A prototype is an early working version of an information system.
+	- Speeds up development significantly
+
+- Tools 
+	- All systems development methods must be supported by tools to enable the systems analysist to develop, manage, and maintain large-scale information systems.
+	- These tools go by various names including:
+		- Application Lifecycle Management (ALM) or Product (PLM)
+		- Integrated Development Environments (IDE) 
+		- Computer Aided Systems Engineering (CASE)
+		- CASE tools provide an overall framework for systems development and support a wide variety of design methodologies, including structured analysis and object-oriented analysis
