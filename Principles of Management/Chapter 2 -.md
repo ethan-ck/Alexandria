@@ -21,4 +21,17 @@
 
 - Maslow 
 	- Created the hierarchy of needs
-	- 
+
+- McGregor 
+	- X worker - negative traits
+	- Y Worker - positive traits
+
+- Quantitative 
+	- Numbers, do we have enough stores
+	- Operations management
+		- focus on productivity and effectively
+		- work schedules, planning, etc...
+
+- Systems viewpoint
+	- Open 
+		- 
