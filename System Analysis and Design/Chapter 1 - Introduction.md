@@ -1,4 +1,6 @@
 
+![[Screenshot 2024-08-31 172206.png]]
+
 - Businesses rely on information technology more than over because we're very important to the productivity, efficiency, and other stuff 
 
 - IT is driving a new digital economy, advancing hardware, software, and connectivity which in turn is a huge boon to businesses.
