@@ -1,5 +1,4 @@
-Peter Drucker - the creator and inventory of modern management 
-
-
-- 2 Branches of the classical viewpoint of management
-	- 
+- Two perspectives on management
+	- Historical (Old School)
+		- 
+	- Contemporary (New) 
