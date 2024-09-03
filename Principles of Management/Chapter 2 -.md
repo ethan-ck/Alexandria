@@ -27,11 +27,26 @@
 	- Y Worker - positive traits
 
 - Quantitative 
-	- Numbers, do we have enough stores
+	- Numbers, do we have enough stores/product?
 	- Operations management
 		- focus on productivity and effectively
 		- work schedules, planning, etc...
 
 - Systems viewpoint
 	- Open 
-		- 
+		- More accepting of customer feedback
+	- Closed
+		- The customer is always wrong
+	- Synergy
+
+- Contingency Viewpoint
+	- Management approach should vary by individual and environmental situations
+		- Environmental situations = business uncertainly presidential elections, covid, etc...
+	- Case by case basis
+
+- Total Quality Management
+	- TQM - 
+	- Comprehensive approach led by top dogs throughout the org
+	- Dedicated to continuous quality improvement, training, and customer satisfaction
+	- Juran Deming
+		- Studied in Japan 
