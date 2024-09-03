@@ -13,4 +13,12 @@
 	- 4 functions of management (PLOC)
 
 - Max Weber 
+	- A well defined hierarchy
+
+- Hawthorne effect
+	- Elton May
+	- Employees work differently if being watched 
+
+- Maslow 
+	- Created the hierarchy of needs
 	- 
