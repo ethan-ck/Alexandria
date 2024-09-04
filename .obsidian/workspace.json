@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c61fc456bd0b670",
+            "id": "47ac659d1347513f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity I/Biometrics.md",
+                "file": "Cybersecurity I/Active Directory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity I/Biometrics.md",
+                "file": "Cybersecurity I/Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity I/Biometrics.md",
+                "file": "Cybersecurity I/Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity I/Biometrics.md"
+                "file": "Cybersecurity I/Active Directory.md"
               }
             }
           }
@@ -152,10 +152,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c61fc456bd0b670",
+  "active": "47ac659d1347513f",
   "lastOpenFiles": [
-    "Cybersecurity I/Security Protocols.md",
     "Cybersecurity I/Biometrics.md",
+    "Cybersecurity I/Active Directory.md",
+    "Cybersecurity I/Security Protocols.md",
     "Linux/Linux Introduction.md",
     "Linux/Basic Linux File Management.md",
     "C++/Untitled.md",
@@ -180,7 +181,6 @@
     "C++/Structure of a C++ Program.md",
     "C++/Parts of a C++ Program.md",
     "Database Design and Development/Types of Databases.md",
-    "Networking II/Look-Up Tables (Again).md",
     "Screenshot 2024-08-28 211516.png",
     "floats.png",
     "Screenshot 2024-08-28 191855.png",
