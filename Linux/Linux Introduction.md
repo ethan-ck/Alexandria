@@ -9,6 +9,24 @@
 		- GUI
 		- Command Line
 
-- 1991
+- Created by Linus Torvalds in 1991
+
+- GPL License 
+	- Free to anyone who wants it
+	- Open-Source
+	- Create your own distro
+
+- GNU (GNU Not Unix)
+
+- Refer to fact sheet to recognize distros
+	- Which of the following are/aren't distros 
+	- Mint
+	- Ubuntu
+	- Debian
+	- Fedora
+	- openSUSE
+	- Red Hat Enterprise Linux
+	- Oracle
+	- CentOS
 
 - 
