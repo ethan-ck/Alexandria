@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b0d26a6df4ea47a",
+            "id": "71b504ec503668dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Untitled.md",
+                "file": "Linux/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Untitled.md",
+                "file": "Linux/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Untitled.md",
+                "file": "Linux/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Untitled.md"
+                "file": "Linux/Untitled.md"
               }
             }
           }
@@ -152,10 +152,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b0d26a6df4ea47a",
+  "active": "69058bd0d2cb793d",
   "lastOpenFiles": [
-    "C++/Determining the Size of a Data Type.md",
+    "Linux/Basic Linux File Management.md",
+    "Linux/Untitled.md",
     "C++/Untitled.md",
+    "C++/Determining the Size of a Data Type.md",
     "C++/Operators.md",
     "C++/Auto Keyword.md",
     "C++/Floating Point Decimals.md",
@@ -179,8 +181,6 @@
     "Networking II/Look-Up Tables (Again).md",
     "Networking II/Ports (Again).md",
     "Networking II/OSI Model (Again).md",
-    "Cybersecurity I/Security Protocols.md",
-    "Cybersecurity I/Access Control Models.md",
     "Screenshot 2024-08-28 211516.png",
     "floats.png",
     "Screenshot 2024-08-28 191855.png",
