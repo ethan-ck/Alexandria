@@ -17,6 +17,9 @@
 		- Enrollment, then Verification, (Identification)
 	- Voice
 	- Face
+		- Could be inaccurate due to angles and lighting'
+		- Phones with multiple cameras and scanners are more accurate than a single camera, harder to fool
+		- 
 	- Signature
 	- Retina
 	- Hand
@@ -33,5 +36,3 @@
 	- Acceptable for the average person, not for high security people
 		- High Security aim for less false positives, more false negatives
 		- For Forensic people, you want more false positives as you want to find people
-
-- 
