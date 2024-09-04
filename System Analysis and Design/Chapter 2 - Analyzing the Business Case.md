@@ -45,3 +45,29 @@
 - Many companies implement CRM system that integrate all customer-related events and transactions
 
 - When using a fishbone diagram to investigate causes of a problem, an analyst first states the problem and then draws a main bone with sub-bones that represent possible causes of the problem
+
+- *IN CLASS* 
+	- Business Case
+		- Can you make your idea for an IS work?
+			- Justification
+		- Feasibility study
+	- SWOT Analysis
+		- (Internal) Strengths, weaknesses, (External) opportunities, threats
+	- System Request form
+		- Improve everything
+	- Feasibility Study
+		- Planning
+			- System Request 
+			- Preliminary Investigation (Will this system fit the company's goals and objectives?)
+			- Preliminary Investigation Report (Goes to Management)
+
+- 4 Main Feasibilities
+	- Operational
+		- Will it fit the business process?
+	- Economic
+		- Benefits > costs 
+		- TCO (Total cost of ownership)
+	- Technically 
+		- 
+	- Scheduling
+		- Can it be done in a reasonable timeframe

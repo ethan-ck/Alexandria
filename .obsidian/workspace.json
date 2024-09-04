@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Analysis and Design/Group Project.md",
+                "file": "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Analysis and Design/Group Project.md",
+                "file": "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Analysis and Design/Group Project.md",
+                "file": "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Analysis and Design/Group Project.md"
+                "file": "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md"
               }
             }
           }
@@ -154,10 +154,10 @@
   },
   "active": "a79b3d8a3fd90534",
   "lastOpenFiles": [
+    "System Analysis and Design/Group Project.md",
     "Screenshot 2024-09-04 135437.png",
     "Screenshot 2024-09-04 135008.png",
     "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
-    "System Analysis and Design/Group Project.md",
     "Principles of Management/Chapter 3.md",
     "Principles of Management/The Art of Management.md",
     "Cybersecurity I/Active Directory.md",
@@ -191,7 +191,6 @@
     "Networking II",
     "Hierarchical-Database-Model-example.png",
     "large-Hierarchical-Databases-v2-1.jpg",
-    "download.jpg",
     "Languages/Mandarin",
     "Languages/Russian",
     "Languages",

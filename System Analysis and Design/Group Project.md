@@ -10,7 +10,8 @@
 		- Analysis, interview questions, questionnaire
 		- Design, Development, Implementation
 	- All tasks above also need to be included (Request form, requirements, data flow diagrams, how much time and what needs done first)
-	- Chapter 3, page 
+	- Chapter 3, page 78 
+	- 3 columns
 - 6. Create a use case diagram and table (figure 4-18 + 19 on page 132) for 1 transaction in the Reservation system (1-page)
 	- Could do it in word
 	- Make a Reservation
