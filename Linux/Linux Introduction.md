@@ -50,5 +50,6 @@
 
 - Linux Virtualization installs a Hypervisor that acts as a middleman between the computer system and the data on a drive
 	- Xen, KVM, VirtualBox, VMware
+	- Allows you to consolidate resources and manage multiple servers in one
+		- 3 servers into 1 example
 
-- 
