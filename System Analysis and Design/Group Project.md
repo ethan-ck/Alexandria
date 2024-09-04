@@ -7,6 +7,9 @@
 	- Make a Reservation
 	- Sequence Diagram that shows the timing of interactions between objects as they occur 
 	- Information has to be correct
+	- chooses a date
+	- alt: date already taken
+	- precon: person has selected a date at least
 
 ![[Screenshot 2024-09-04 135008.png]]
 ![[Screenshot 2024-09-04 135437.png]]
