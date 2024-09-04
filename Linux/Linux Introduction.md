@@ -41,6 +41,8 @@
 		- DNS 
 		- Web Servers
 		- Databases
+		- SSH
+		- NTP
 	- Desktop
 	- Mobile Devices
 		- Android OS
@@ -57,4 +59,9 @@
 	- Linux provides a stable foundation for businesses to continue operating or recover from a disruption
 
 - Embedded Linux 
-	- 
+	- The process of embedding Linux within intelligent devices 
+		- smart TVs
+		- smartphones
+		- tablets
+		- etc...
+- 
