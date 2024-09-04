@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity I/Active Directory.md",
+                "file": "Principles of Management/The Art of Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d3f744e003c5b73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Principles of Management/Chapter 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity I/Active Directory.md",
+                "file": "Principles of Management/Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity I/Active Directory.md",
+                "file": "Principles of Management/Chapter 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity I/Active Directory.md"
+                "file": "Principles of Management/Chapter 3.md"
               }
             }
           }
@@ -152,10 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47ac659d1347513f",
+  "active": "6d3f744e003c5b73",
   "lastOpenFiles": [
-    "Cybersecurity I/Biometrics.md",
+    "Principles of Management/The Art of Management.md",
+    "Principles of Management/Chapter 3.md",
     "Cybersecurity I/Active Directory.md",
+    "Cybersecurity I/Biometrics.md",
     "Cybersecurity I/Security Protocols.md",
     "Linux/Linux Introduction.md",
     "Linux/Basic Linux File Management.md",
@@ -167,7 +182,6 @@
     "Networking II/Chapter 4 Labs - IP Addressing (Again).md",
     "Networking II/DNS Thing.md",
     "Principles of Management/Chapter 2 -.md",
-    "Principles of Management/The Art of Management.md",
     "System Analysis and Design/Chapter 1 - Introduction.md",
     "Screenshot 2024-08-31 172206.png",
     "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
@@ -180,7 +194,6 @@
     "C++/cout Object.md",
     "C++/Structure of a C++ Program.md",
     "C++/Parts of a C++ Program.md",
-    "Database Design and Development/Types of Databases.md",
     "Screenshot 2024-08-28 211516.png",
     "floats.png",
     "Screenshot 2024-08-28 191855.png",
