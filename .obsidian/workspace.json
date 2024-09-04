@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Untitled.md",
+                "file": "Linux/Linux Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Untitled.md",
+                "file": "Linux/Linux Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Untitled.md",
+                "file": "Linux/Linux Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Untitled.md"
+                "file": "Linux/Linux Introduction.md"
               }
             }
           }
@@ -152,10 +152,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69058bd0d2cb793d",
+  "active": "71b504ec503668dc",
   "lastOpenFiles": [
     "Linux/Basic Linux File Management.md",
-    "Linux/Untitled.md",
+    "Linux/Linux Introduction.md",
     "C++/Untitled.md",
     "C++/Determining the Size of a Data Type.md",
     "C++/Operators.md",
