@@ -11,7 +11,7 @@
 - 5. Write 8 System Requirements, 4 functional (services) and 4 non-functional (constraints/quantitative) (Approx. 1 page) (pages 105-106)
 	- Functional (services requirements)
 		- Services a system provides
-	- Non-Functional 
+	- Non-Functional
 		- Quality attributes (More critical, and if they are not satisfied, the system is useless)
 	- Avoid imprecise/misinterpretation, disagreement, and scope creep
-- Chapters 2-5 
+- Chapters 2-5
