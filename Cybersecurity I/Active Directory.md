@@ -8,8 +8,16 @@
 
 - Organizational Unit (OU) - A way to organize users, groups, and etc... in an active directory
 	- Basically folders 
+	- Org - Department, region, or division - mirrors the business structure (or process)
+	- Stores user and security information
+
 
 - Domain objects - All resources (users, groups, computers, printers, etc...) are stored as objects in the AD
+
+- Member Servers 
+	- Other windows servers that do other things other than the active directory 
+	- They have different roles
+	- Email server, storage server, web server, database server
 
 - You can add functionalities to servers by assigning it roles
 	- Graves' hats example
@@ -48,5 +56,17 @@
 
 - On-Premise Active Directory and Azure Active Directory (Cloud)
 	- Must sync them up
+
+- ADUC 
+	- One of 5 roles that we are in the most
+
+- Keep the structure broad to prevent resources from being spent 
+	- No deeper than 5 folders
+
+- Built-In Containers
+	- OU Icons have a golden box on the folder icon
+		- We make these
+	- Built-in folders do not, they're stuck there
+		- We cannot create, move, rename, or delete them
 
 - 
