@@ -1,3 +1,9 @@
 
-- Task 3 
-- 
+- Tasks 8, 5, and 6
+- 8. GANTT Chart - 10 steps and include all planning, analysis and design steps above + development (implementation) of each 3 modules identified in the DFDs
+- 6. Create a use case diagram and table (figure 4-18 + 19 on page 132) for 1 transaction in the Reservation system (1-page)
+- 5. Write 8 System Requirements, 4 functional (services) and 4 non-functional (constraints/quantitative) (Approx. 1 page) (pages 105-106)
+	- Functional (services requirements)
+		- Services a system provides
+	- Non-Functi
+- Chapters 2-5 
