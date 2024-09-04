@@ -29,4 +29,26 @@
 	- Oracle
 	- CentOS
 
+- Linux Implementations
+	- Red Hat Variant
+		- Fedora, Rocky
+	- Debian Variant
+		- Ubuntu, Kali, Mint
+
+- There are several unique distros that is tailored to specific roles
+	- Servers
+		- DHCP
+		- DNS 
+		- Web Servers
+		- Databases
+	- Desktop
+	- Mobile Devices
+		- Android OS
+	- Cybersecurity
+
+- Linux is extremely modular and efficient 
+
+- Linux Virtualization installs a Hypervisor that acts as a middleman between the computer system and the data on a drive
+	- Xen, KVM, VirtualBox, VMware
+
 - 
