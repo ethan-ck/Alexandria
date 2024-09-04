@@ -8,10 +8,13 @@
 
 - Intrusion Detection
 	- Positive "I found something" not good
+		- False positive means it's a non-threat
 	- Negative "I did not find anything" good
+		- False negative means that a threat got through and was not detected - very bad 
 
 - Common biometrics include:
 	- Fingerprint
+		- Enrollment, then Verification, (Identification)
 	- Voice
 	- Face
 	- Signature
@@ -29,5 +32,6 @@
 	- Where there is an even number of false positives and false negatives
 	- Acceptable for the average person, not for high security people
 		- High Security aim for less false positives, more false negatives
+		- For Forensic people, you want more false positives as you want to find people
 
 - 
