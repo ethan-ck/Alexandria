@@ -3,7 +3,10 @@
 - 8. GANTT Chart - 10 steps and include all planning, analysis and design steps above + development (implementation) of each 3 modules identified in the DFDs
 	- 
 - 6. Create a use case diagram and table (figure 4-18 + 19 on page 132) for 1 transaction in the Reservation system (1-page)
+	- Could do it in word
+	- Make a Reservation
 	- Sequence Diagram that shows the timing of interactions between objects as they occur 
+	- Information has to be correct
 
 ![[Screenshot 2024-09-04 135008.png]]
 ![[Screenshot 2024-09-04 135437.png]]
