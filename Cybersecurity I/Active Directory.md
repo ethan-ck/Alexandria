@@ -69,4 +69,21 @@
 	- Built-in folders do not, they're stuck there
 		- We cannot create, move, rename, or delete them
 
-- 
+- Object Attributes
+	- Contain specific information about an object
+		- ex. name, telephone, email of a user
+
+- Group Policy
+	- Configuration settings that controls policies to an entire group
+	- Found under the tools tab, just like DHCP in the labs
+	- Default Domain
+		- Is the rule itself that should apply to all
+	- Group Policy Object (GPO)
+		- Are the exceptions to the rule above
+
+- Computer Policy
+	- Applied upon restart
+
+- User Policy
+	- Applied upon logging out
+
