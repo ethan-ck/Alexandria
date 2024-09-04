@@ -7,6 +7,7 @@
 				- OUs (user accounts, groups, computer accounts, other OUs)
 
 - Organizational Unit (OU) - A way to organize users, groups, and etc... in an active directory
+	- Basically folders 
 
 - Domain objects - All resources (users, groups, computers, printers, etc...) are stored as objects in the AD
 
@@ -27,4 +28,25 @@
 	- Does not scale well, 10 to 15 computers, lacks control and security, has to duplicate user accounts and backup each workstation
 
 - Client Server
-	- 
+	- Each host has a role
+
+- Domain Controller (DC)
+	- It is a Windows Server that has the active directory role installed
+	- A single point of failure, if it goes down, you're screwed
+	- That's why you have multiple (redundancy) set up at the same time
+	- Devices must join the domain
+		- Easier with a centralized networking model
+	- Expensive, specialized hardware and software, implementation is more complex
+
+- Cloud-based Domain Networking
+	- Use somebody else's server
+	- as a service
+	- metered use
+		- Only pay for what you use 
+	- Great ROI 
+	- Frees up resources
+
+- On-Premise Active Directory and Azure Active Directory (Cloud)
+	- Must sync them up
+
+- 
