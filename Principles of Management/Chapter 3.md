@@ -19,7 +19,7 @@
 	- government regulators
 	- special interest groups
 
-- General Environment
+- General Environment (macroenvironment)
 	- Economic Force
 		- Inflation, Unemployment
 		- Technological Force
@@ -38,3 +38,4 @@
 	- Justice Approach
 		- Respect for impartial standards of fairness and equity 
 
+- Friedman believed that making profits is the only social responsibility of a business

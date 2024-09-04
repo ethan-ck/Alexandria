@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47ac659d1347513f",
+            "id": "a79b3d8a3fd90534",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Principles of Management/The Art of Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d3f744e003c5b73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Principles of Management/Chapter 3.md",
+                "file": "System Analysis and Design/Group Project.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principles of Management/Chapter 3.md",
+                "file": "System Analysis and Design/Group Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Principles of Management/Chapter 3.md",
+                "file": "System Analysis and Design/Group Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Principles of Management/Chapter 3.md"
+                "file": "System Analysis and Design/Group Project.md"
               }
             }
           }
@@ -165,10 +152,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d3f744e003c5b73",
+  "active": "a79b3d8a3fd90534",
   "lastOpenFiles": [
-    "Principles of Management/The Art of Management.md",
+    "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
+    "System Analysis and Design/Group Project.md",
     "Principles of Management/Chapter 3.md",
+    "Principles of Management/The Art of Management.md",
     "Cybersecurity I/Active Directory.md",
     "Cybersecurity I/Biometrics.md",
     "Cybersecurity I/Security Protocols.md",
@@ -184,7 +173,6 @@
     "Principles of Management/Chapter 2 -.md",
     "System Analysis and Design/Chapter 1 - Introduction.md",
     "Screenshot 2024-08-31 172206.png",
-    "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
     "System Analysis and Design/Systems Development.md",
     "Cybersecurity I/Identity and Access Management.md",
     "C++/Namespaces.md",
@@ -193,7 +181,6 @@
     "C++/Identifiers.md",
     "C++/cout Object.md",
     "C++/Structure of a C++ Program.md",
-    "C++/Parts of a C++ Program.md",
     "Screenshot 2024-08-28 211516.png",
     "floats.png",
     "Screenshot 2024-08-28 191855.png",
