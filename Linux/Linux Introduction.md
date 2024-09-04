@@ -53,3 +53,8 @@
 	- Allows you to consolidate resources and manage multiple servers in one
 		- 3 servers into 1 example
 
+- Business Continuity 
+	- Linux provides a stable foundation for businesses to continue operating or recover from a disruption
+
+- Embedded Linux 
+	- 
