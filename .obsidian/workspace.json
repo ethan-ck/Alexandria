@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking II/DNS Thing.md",
+                "file": "Networking II/Major Networking Identifiers (Again).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking II/DNS Thing.md",
+                "file": "Networking II/Major Networking Identifiers (Again).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking II/DNS Thing.md",
+                "file": "Networking II/Major Networking Identifiers (Again).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking II/DNS Thing.md"
+                "file": "Networking II/Major Networking Identifiers (Again).md"
               }
             }
           }
@@ -154,8 +154,10 @@
   },
   "active": "a79b3d8a3fd90534",
   "lastOpenFiles": [
-    "Networking II/Look-Up Tables (Again).md",
+    "Networking II/Ports (Again).md",
     "Networking II/Chapter 4 Labs - IP Addressing (Again).md",
+    "Networking II/Look-Up Tables (Again).md",
+    "Networking II/DNS Thing.md",
     "Networking II/OSI Model (Again).md",
     "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
     "System Analysis and Design/Group Project.md",
@@ -173,7 +175,6 @@
     "C++/Operators.md",
     "C++/Auto Keyword.md",
     "C++/Floating Point Decimals.md",
-    "Networking II/DNS Thing.md",
     "Principles of Management/Chapter 2 -.md",
     "System Analysis and Design/Chapter 1 - Introduction.md",
     "Screenshot 2024-08-31 172206.png",
@@ -182,7 +183,6 @@
     "C++/Namespaces.md",
     "C++/Youtube.md",
     "C++/Integer Types.md",
-    "C++/Identifiers.md",
     "Screenshot 2024-08-28 211516.png",
     "floats.png",
     "Screenshot 2024-08-28 191855.png",
