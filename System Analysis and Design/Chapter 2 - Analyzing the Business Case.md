@@ -63,11 +63,18 @@
 
 - 4 Main Feasibilities
 	- Operational
-		- Will it fit the business process?
+		- Will the project fit the business process?
 	- Economic
 		- Benefits > costs 
 		- TCO (Total cost of ownership)
+			- Licensing 
+			- Fees
+			- Consulting
+			- etc...
 	- Technically 
-		- 
+		- Hardware, software, IT people
+		- Do we have the skilled labor to complete the project?
 	- Scheduling
 		- Can it be done in a reasonable timeframe
+		- If something happens, did we account for it?
+
