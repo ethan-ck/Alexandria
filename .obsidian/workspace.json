@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking II/Major Networking Identifiers (Again).md",
+                "file": "Cybersecurity I/Access Control Models.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking II/Major Networking Identifiers (Again).md",
+                "file": "Cybersecurity I/Access Control Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking II/Major Networking Identifiers (Again).md",
+                "file": "Cybersecurity I/Access Control Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking II/Major Networking Identifiers (Again).md"
+                "file": "Cybersecurity I/Access Control Models.md"
               }
             }
           }
@@ -154,6 +154,12 @@
   },
   "active": "a79b3d8a3fd90534",
   "lastOpenFiles": [
+    "Cybersecurity I/Security Protocols.md",
+    "Cybersecurity I/Identity and Access Management.md",
+    "Cybersecurity I/Key Definitions.md",
+    "Cybersecurity I/Biometrics.md",
+    "Cybersecurity I/Access Control Models.md",
+    "Networking II/Major Networking Identifiers (Again).md",
     "Networking II/Ports (Again).md",
     "Networking II/Chapter 4 Labs - IP Addressing (Again).md",
     "Networking II/Look-Up Tables (Again).md",
@@ -166,8 +172,6 @@
     "Principles of Management/Chapter 3.md",
     "Principles of Management/The Art of Management.md",
     "Cybersecurity I/Active Directory.md",
-    "Cybersecurity I/Biometrics.md",
-    "Cybersecurity I/Security Protocols.md",
     "Linux/Linux Introduction.md",
     "Linux/Basic Linux File Management.md",
     "C++/Untitled.md",
@@ -179,10 +183,6 @@
     "System Analysis and Design/Chapter 1 - Introduction.md",
     "Screenshot 2024-08-31 172206.png",
     "System Analysis and Design/Systems Development.md",
-    "Cybersecurity I/Identity and Access Management.md",
-    "C++/Namespaces.md",
-    "C++/Youtube.md",
-    "C++/Integer Types.md",
     "Screenshot 2024-08-28 211516.png",
     "floats.png",
     "Screenshot 2024-08-28 191855.png",
