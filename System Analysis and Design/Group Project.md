@@ -26,7 +26,10 @@
 
 - 5. Write 8 System Requirements, 4 functional (services) and 4 non-functional (constraints/quantitative) (Approx. 1 page) (pages 105-106)
 	- Functional (services requirements)
-		- Services a system provides
+		- Services a system providesThe reservation system must support a way for a customer to reserve, change, and cancel time slots 
+		- The system should have a way to gather customer information, including customer name, phone number/email, length of the reservation, and the specific date and time slot.
+		- Customers should be able to be able to view which time slots are available when they choose their desired time slot 
+		- The system should remind the customer when their reservation is when the date gets closer
 	- Non-Functional
 		- Quality attributes (More critical, and if they are not satisfied, the system is useless)
 	- Avoid imprecise/misinterpretation, disagreement, and scope creep
