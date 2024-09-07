@@ -33,8 +33,8 @@
 	- Non-Functional
 		- Quality attributes (More critical, and if they are not satisfied, the system is useless)
 		- 1. The system that contains the user information should be secure and encrypted to prevent customer data leaking
-		- 2.
-		- 3.
-		- 4.
+		- 2. The system should be able to handle both website and over the phone reservations 
+		- 3. The system must be up 7 days a week, 365 days a year to ensure that customers can schedule their reservations even when the business is closed.
+		- 4. The website must be responsive during the booking process to ensure quality performance
 	- Avoid imprecise/misinterpretation, disagreement, and scope creep
 - Chapters 2-5
