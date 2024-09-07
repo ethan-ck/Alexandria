@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a79b3d8a3fd90534",
+            "id": "95d0a6a73310926f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Analysis and Design/Group Project.md",
+                "file": "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Analysis and Design/Group Project.md",
+                "file": "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Analysis and Design/Group Project.md",
+                "file": "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Analysis and Design/Group Project.md"
+                "file": "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md"
               }
             }
           }
@@ -152,8 +152,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a79b3d8a3fd90534",
+  "active": "95d0a6a73310926f",
   "lastOpenFiles": [
+    "Cybersecurity I/Active Directory.md",
+    "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
+    "Screenshot 2024-09-06 211520.png",
+    "System Analysis and Design/Group Project.md",
     "Cybersecurity I/Access Control Models.md",
     "Cybersecurity I/Security Protocols.md",
     "Cybersecurity I/Identity and Access Management.md",
@@ -166,12 +170,10 @@
     "Networking II/DNS Thing.md",
     "Networking II/OSI Model (Again).md",
     "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
-    "System Analysis and Design/Group Project.md",
     "Screenshot 2024-09-04 135437.png",
     "Screenshot 2024-09-04 135008.png",
     "Principles of Management/Chapter 3.md",
     "Principles of Management/The Art of Management.md",
-    "Cybersecurity I/Active Directory.md",
     "Linux/Linux Introduction.md",
     "Linux/Basic Linux File Management.md",
     "C++/Untitled.md",
@@ -180,9 +182,7 @@
     "C++/Auto Keyword.md",
     "C++/Floating Point Decimals.md",
     "Principles of Management/Chapter 2 -.md",
-    "System Analysis and Design/Chapter 1 - Introduction.md",
     "Screenshot 2024-08-31 172206.png",
-    "System Analysis and Design/Systems Development.md",
     "Screenshot 2024-08-28 211516.png",
     "floats.png",
     "Screenshot 2024-08-28 191855.png",
@@ -191,7 +191,6 @@
     "System Analysis and Design",
     "Networking II",
     "Hierarchical-Database-Model-example.png",
-    "large-Hierarchical-Databases-v2-1.jpg",
     "Languages/Mandarin",
     "Languages/Russian",
     "Languages",
