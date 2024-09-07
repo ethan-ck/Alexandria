@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity I/Active Directory.md",
+                "file": "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity I/Active Directory.md",
+                "file": "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity I/Active Directory.md",
+                "file": "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity I/Active Directory.md"
+                "file": "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md"
               }
             }
           },
@@ -163,10 +163,13 @@
   },
   "active": "95d0a6a73310926f",
   "lastOpenFiles": [
+    "System Analysis and Design/Group Project.md",
     "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
+    "Screenshot 2024-09-07 141131.png",
+    "Screenshot 2024-09-07 120555.png",
+    "Screenshot 2024-09-07 115907.png",
     "Cybersecurity I/Active Directory.md",
     "Screenshot 2024-09-06 211520.png",
-    "System Analysis and Design/Group Project.md",
     "Cybersecurity I/Access Control Models.md",
     "Cybersecurity I/Security Protocols.md",
     "Cybersecurity I/Identity and Access Management.md",
@@ -195,11 +198,8 @@
     "Screenshot 2024-08-28 211516.png",
     "floats.png",
     "Screenshot 2024-08-28 191855.png",
-    "download (1).png",
-    "Pasted image 20240724075513.png",
     "System Analysis and Design",
     "Networking II",
-    "Hierarchical-Database-Model-example.png",
     "Languages/Mandarin",
     "Languages/Russian",
     "Languages",
