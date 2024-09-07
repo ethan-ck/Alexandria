@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
+                "file": "Cybersecurity I/Active Directory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
+                "file": "Cybersecurity I/Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
+                "file": "Cybersecurity I/Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md"
+                "file": "Cybersecurity I/Active Directory.md"
               }
             }
+          },
+          {
+            "id": "969c4cdec729a684",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -154,8 +163,8 @@
   },
   "active": "95d0a6a73310926f",
   "lastOpenFiles": [
-    "Cybersecurity I/Active Directory.md",
     "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
+    "Cybersecurity I/Active Directory.md",
     "Screenshot 2024-09-06 211520.png",
     "System Analysis and Design/Group Project.md",
     "Cybersecurity I/Access Control Models.md",
