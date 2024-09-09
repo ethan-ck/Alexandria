@@ -83,4 +83,7 @@
 
 - Preliminary Investigations
 	- An analyst or group of analysts get together to discuss whether or not this system would make sense in 4 areas. (Job-shadowing etc...)
-	- Improvment
+	- Improvements and enhancements 
+	- Know the 6 main steps (Chp 2 PPT Slide 27)
+
+- Know the parts of a preliminary investigation 
