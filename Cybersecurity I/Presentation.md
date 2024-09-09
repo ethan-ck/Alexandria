@@ -25,7 +25,13 @@
 
 
 - Sources 
-	- https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63-3.pdf
-	- https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-121r2.pdf
-	- https://dl.acm.org/doi/pdf/10.1145/3419394.3423665
-	- 
+	- Introduction + Detail about MiTM
+		- https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63-3.pdf
+		- https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-121r2.pdf
+	- How it works + Different types of MiTM 
+		- https://www.fortinet.com/resources/cyberglossary/man-in-the-middle-attack
+	- Example 1: Kazakhstan Man in the Middle Attack
+		- https://dl.acm.org/doi/pdf/10.1145/3419394.3423665
+		- https://support.mozilla.org/en-US/kb/certificate-cannot-be-trusted-warning-kazakhstan
+	- Example 2: 
+	- The Future 
