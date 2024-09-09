@@ -33,5 +33,16 @@
 	- Example 1: Kazakhstan Man in the Middle Attack
 		- https://dl.acm.org/doi/pdf/10.1145/3419394.3423665
 		- https://support.mozilla.org/en-US/kb/certificate-cannot-be-trusted-warning-kazakhstan
-	- Example 2: 
-	- The Future 
+	- Example 2: Comcast Man in the Middle displaying "Critical Info and other alerts"
+		- https://www.techspot.com/news/62887-comcast-using-man-middle-attack-warn-subscribers-potential.html
+		- https://www.privateinternetaccess.com/blog/comcast-still-uses-mitm-javascript-injection-serve-unwanted-ads-messages/
+		- https://thenextweb.com/news/comcast-continues-to-inject-its-own-code-into-websites-you-visit
+	- Prevention
+		- https://www.forbes.com/councils/forbestechcouncil/2024/03/07/19-keys-to-detecting-and-preventing-man-in-the-middle-attacks/
+		- https://arcticwolf.com/resources/blog/how-a-security-operations-approach-can-prevent-man-in-the-middle-attacks/
+	- The Future
+		- Smart devices on the rise https://www.oberlo.com/statistics/smart-home-statistics
+		- Continue with common sense policies 
+		- use sources above
+	- Questions 
+		- Any questions? 
