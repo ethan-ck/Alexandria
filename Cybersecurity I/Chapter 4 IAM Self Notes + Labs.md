@@ -232,3 +232,8 @@ Tools -> Group Policy Management ->
     8. Repeat steps 2d–2g for each policy setting.
 
 ![[Screenshot 2024-09-07 141131.png]]
+
+
+A -> G -> (u) -> DL <- P 
+
+Account, Global, User/ account, Domain local, permissions

@@ -37,6 +37,7 @@
 		- https://www.techspot.com/news/62887-comcast-using-man-middle-attack-warn-subscribers-potential.html
 		- https://www.privateinternetaccess.com/blog/comcast-still-uses-mitm-javascript-injection-serve-unwanted-ads-messages/
 		- https://thenextweb.com/news/comcast-continues-to-inject-its-own-code-into-websites-you-visit
+	- 
 	- Prevention
 		- https://www.forbes.com/councils/forbestechcouncil/2024/03/07/19-keys-to-detecting-and-preventing-man-in-the-middle-attacks/
 		- https://arcticwolf.com/resources/blog/how-a-security-operations-approach-can-prevent-man-in-the-middle-attacks/
