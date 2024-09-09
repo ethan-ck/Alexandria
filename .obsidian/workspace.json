@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95d0a6a73310926f",
+            "id": "7fe0b55e376d1593",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking II/Chapter 4 Labs - IP Addressing (Again).md",
+                "file": "Linux/Linux Shell Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking II/Chapter 4 Labs - IP Addressing (Again).md",
+                "file": "Linux/Linux Shell Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking II/Chapter 4 Labs - IP Addressing (Again).md",
+                "file": "Linux/Linux Shell Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,20 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking II/Chapter 4 Labs - IP Addressing (Again).md"
+                "file": "Linux/Linux Shell Overview.md"
               }
             }
-          },
-          {
-            "id": "969c4cdec729a684",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,25 +152,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95d0a6a73310926f",
+  "active": "7fe0b55e376d1593",
   "lastOpenFiles": [
+    "Linux/Introduction.md",
+    "Linux/Linux Shell Overview.md",
     "Networking II/Labs Self-Notes.md",
-    "Networking II/Chapter 4 Labs - IP Addressing (Again).md",
-    "Untitled",
-    "Cybersecurity I/Biometrics.md",
-    "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
     "System Analysis and Design/Group Project.md",
-    "Screenshot 2024-09-07 141131.png",
-    "Screenshot 2024-09-07 120555.png",
-    "Screenshot 2024-09-07 115907.png",
-    "Cybersecurity I/Active Directory.md",
-    "Screenshot 2024-09-06 211520.png",
     "Cybersecurity I/Access Control Models.md",
     "Cybersecurity I/Security Protocols.md",
     "Cybersecurity I/Identity and Access Management.md",
     "Cybersecurity I/Key Definitions.md",
+    "Cybersecurity I/Biometrics.md",
     "Networking II/Major Networking Identifiers (Again).md",
     "Networking II/Ports (Again).md",
+    "Networking II/Chapter 4 Labs - IP Addressing (Again).md",
     "Networking II/Look-Up Tables (Again).md",
     "Networking II/DNS Thing.md",
     "Networking II/OSI Model (Again).md",
@@ -188,6 +174,7 @@
     "Screenshot 2024-09-04 135008.png",
     "Principles of Management/Chapter 3.md",
     "Principles of Management/The Art of Management.md",
+    "Cybersecurity I/Active Directory.md",
     "Linux/Linux Introduction.md",
     "Linux/Basic Linux File Management.md",
     "C++/Untitled.md",
@@ -195,19 +182,23 @@
     "C++/Operators.md",
     "C++/Auto Keyword.md",
     "C++/Floating Point Decimals.md",
-    "Principles of Management/Chapter 2 -.md",
     "Screenshot 2024-08-31 172206.png",
     "Screenshot 2024-08-28 211516.png",
     "floats.png",
     "Screenshot 2024-08-28 191855.png",
+    "download (1).png",
+    "Pasted image 20240724075513.png",
     "System Analysis and Design",
     "Networking II",
+    "Hierarchical-Database-Model-example.png",
+    "large-Hierarchical-Databases-v2-1.jpg",
     "Languages/Mandarin",
     "Languages/Russian",
     "Languages",
     "Cybersecurity I",
     "C++",
     "Principles of Management",
-    "Linux"
+    "Linux",
+    "Networking I"
   ]
 }
