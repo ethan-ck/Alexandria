@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux Shell Overview.md",
+                "file": "Cybersecurity I/Active Directory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ac270888d086871",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity I/Presentation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux Shell Overview.md",
+                "file": "Cybersecurity I/Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux Shell Overview.md",
+                "file": "Cybersecurity I/Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux Shell Overview.md"
+                "file": "Cybersecurity I/Presentation.md"
               }
             }
           }
@@ -152,10 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fe0b55e376d1593",
+  "active": "4ac270888d086871",
   "lastOpenFiles": [
-    "Linux/Introduction.md",
+    "Cybersecurity I/Active Directory.md",
+    "Cybersecurity I/Presentation.md",
     "Linux/Linux Shell Overview.md",
+    "Linux/Introduction.md",
     "Networking II/Labs Self-Notes.md",
     "System Analysis and Design/Group Project.md",
     "Cybersecurity I/Access Control Models.md",
@@ -174,14 +189,12 @@
     "Screenshot 2024-09-04 135008.png",
     "Principles of Management/Chapter 3.md",
     "Principles of Management/The Art of Management.md",
-    "Cybersecurity I/Active Directory.md",
     "Linux/Linux Introduction.md",
     "Linux/Basic Linux File Management.md",
     "C++/Untitled.md",
     "C++/Determining the Size of a Data Type.md",
     "C++/Operators.md",
     "C++/Auto Keyword.md",
-    "C++/Floating Point Decimals.md",
     "Screenshot 2024-08-31 172206.png",
     "Screenshot 2024-08-28 211516.png",
     "floats.png",
