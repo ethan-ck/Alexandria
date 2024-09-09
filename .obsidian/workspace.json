@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "44ea40b1978ba249",
+        "id": "8ff57c70000af1bf",
         "type": "tabs",
         "children": [
           {
-            "id": "ea5bfc2b1b7d4508",
+            "id": "d2c27aa6ac5aa385",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Analysis and Design/SDLC 5 Phases.md",
+                "file": "Networking II/Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "457a5e4e6ee01d25",
+            "id": "f031ae9b8518ca4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
+                "file": "Networking II/Labs Self-Notes 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
+                "file": "Networking II/Labs Self-Notes 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
+                "file": "Networking II/Labs Self-Notes 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md"
+                "file": "Networking II/Labs Self-Notes 2.md"
               }
             }
           }
@@ -165,18 +165,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "457a5e4e6ee01d25",
+  "active": "f031ae9b8518ca4e",
   "lastOpenFiles": [
-    "System Analysis and Design/Notes.md",
-    "System Analysis and Design/SDLC 5 Phases.md",
+    "Screenshot 2024-09-09 192139.png",
+    "Screenshot 2024-09-09 191135.png",
+    "Networking II/Introduction.md",
+    "Networking II/Labs Self-Notes 2.md",
     "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
+    "System Analysis and Design/SDLC 5 Phases.md",
+    "System Analysis and Design/Group Project.md",
+    "System Analysis and Design/Notes.md",
     "Cybersecurity I/Presentation.md",
     "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
     "Cybersecurity I/Active Directory.md",
     "Linux/Linux Shell Overview.md",
     "Linux/Introduction.md",
     "Networking II/Labs Self-Notes.md",
-    "System Analysis and Design/Group Project.md",
     "Cybersecurity I/Access Control Models.md",
     "Cybersecurity I/Security Protocols.md",
     "Cybersecurity I/Identity and Access Management.md",
@@ -192,9 +196,6 @@
     "Screenshot 2024-09-04 135008.png",
     "Principles of Management/Chapter 3.md",
     "Principles of Management/The Art of Management.md",
-    "Linux/Linux Introduction.md",
-    "Linux/Basic Linux File Management.md",
-    "C++/Untitled.md",
     "Screenshot 2024-08-31 172206.png",
     "Screenshot 2024-08-28 211516.png",
     "floats.png",
@@ -204,7 +205,6 @@
     "System Analysis and Design",
     "Networking II",
     "Hierarchical-Database-Model-example.png",
-    "large-Hierarchical-Databases-v2-1.jpg",
     "Languages/Mandarin",
     "Languages/Russian",
     "Languages",
