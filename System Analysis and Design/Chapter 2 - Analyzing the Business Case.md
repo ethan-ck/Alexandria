@@ -78,3 +78,9 @@
 		- Can it be done in a reasonable timeframe
 		- If something happens, did we account for it?
 
+- Discretionary and Non-discretionary
+	- Management has a choice to enact vs. does not have a choice to enact
+
+- Preliminary Investigations
+	- An analyst or group of analysts get together to discuss whether or not this system would make sense in 4 areas. (Job-shadowing etc...)
+	- Improvment

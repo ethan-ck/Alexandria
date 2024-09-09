@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "457a5e4e6ee01d25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Analysis and Design/SDLC 5 Phases.md",
+                "file": "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Analysis and Design/SDLC 5 Phases.md",
+                "file": "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Analysis and Design/SDLC 5 Phases.md"
+                "file": "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md"
               }
             }
           }
@@ -152,10 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea5bfc2b1b7d4508",
+  "active": "457a5e4e6ee01d25",
   "lastOpenFiles": [
-    "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
+    "System Analysis and Design/Notes.md",
     "System Analysis and Design/SDLC 5 Phases.md",
+    "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
     "Cybersecurity I/Presentation.md",
     "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
     "Cybersecurity I/Active Directory.md",
@@ -181,7 +195,6 @@
     "Linux/Linux Introduction.md",
     "Linux/Basic Linux File Management.md",
     "C++/Untitled.md",
-    "C++/Determining the Size of a Data Type.md",
     "Screenshot 2024-08-31 172206.png",
     "Screenshot 2024-08-28 211516.png",
     "floats.png",
