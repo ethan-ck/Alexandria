@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity I/Presentation.md",
+                "file": "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea5bfc2b1b7d4508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Analysis and Design/SDLC 5 Phases.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity I/Presentation.md",
+                "file": "System Analysis and Design/SDLC 5 Phases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity I/Presentation.md",
+                "file": "System Analysis and Design/SDLC 5 Phases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity I/Presentation.md"
+                "file": "System Analysis and Design/SDLC 5 Phases.md"
               }
             }
           }
@@ -152,10 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ac270888d086871",
+  "active": "ea5bfc2b1b7d4508",
   "lastOpenFiles": [
-    "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
+    "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
+    "System Analysis and Design/SDLC 5 Phases.md",
     "Cybersecurity I/Presentation.md",
+    "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
     "Cybersecurity I/Active Directory.md",
     "Linux/Linux Shell Overview.md",
     "Linux/Introduction.md",
@@ -172,7 +187,6 @@
     "Networking II/Look-Up Tables (Again).md",
     "Networking II/DNS Thing.md",
     "Networking II/OSI Model (Again).md",
-    "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
     "Screenshot 2024-09-04 135437.png",
     "Screenshot 2024-09-04 135008.png",
     "Principles of Management/Chapter 3.md",
@@ -181,7 +195,6 @@
     "Linux/Basic Linux File Management.md",
     "C++/Untitled.md",
     "C++/Determining the Size of a Data Type.md",
-    "C++/Operators.md",
     "Screenshot 2024-08-31 172206.png",
     "Screenshot 2024-08-28 211516.png",
     "floats.png",
