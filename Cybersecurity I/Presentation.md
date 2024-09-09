@@ -6,7 +6,7 @@
 	- Aim for 10-15 minutes
 
 - Introduction
-	- Topic
+	- Topic - "Man in the Middle Attacks"
 	- What is it
 	- How common/ other fun facts
 
@@ -22,4 +22,10 @@
 	- What does the future look like?
 
 - Questions
+
+
+- Sources 
+	- https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63-3.pdf
+	- https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-121r2.pdf
+	- https://dl.acm.org/doi/pdf/10.1145/3419394.3423665
 	- 
