@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
+                "file": "Networking II/Chapter 4 Labs - IP Addressing (Again).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
+                "file": "Networking II/Chapter 4 Labs - IP Addressing (Again).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
+                "file": "Networking II/Chapter 4 Labs - IP Addressing (Again).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md"
+                "file": "Networking II/Chapter 4 Labs - IP Addressing (Again).md"
               }
             }
           },
@@ -163,8 +163,12 @@
   },
   "active": "95d0a6a73310926f",
   "lastOpenFiles": [
-    "System Analysis and Design/Group Project.md",
+    "Networking II/Labs Self-Notes.md",
+    "Networking II/Chapter 4 Labs - IP Addressing (Again).md",
+    "Untitled",
+    "Cybersecurity I/Biometrics.md",
     "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
+    "System Analysis and Design/Group Project.md",
     "Screenshot 2024-09-07 141131.png",
     "Screenshot 2024-09-07 120555.png",
     "Screenshot 2024-09-07 115907.png",
@@ -174,10 +178,8 @@
     "Cybersecurity I/Security Protocols.md",
     "Cybersecurity I/Identity and Access Management.md",
     "Cybersecurity I/Key Definitions.md",
-    "Cybersecurity I/Biometrics.md",
     "Networking II/Major Networking Identifiers (Again).md",
     "Networking II/Ports (Again).md",
-    "Networking II/Chapter 4 Labs - IP Addressing (Again).md",
     "Networking II/Look-Up Tables (Again).md",
     "Networking II/DNS Thing.md",
     "Networking II/OSI Model (Again).md",
@@ -206,7 +208,6 @@
     "Cybersecurity I",
     "C++",
     "Principles of Management",
-    "Linux",
-    "Networking I"
+    "Linux"
   ]
 }
