@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking II/DNS Review.md",
+                "file": "C++/cout Object.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking II/DNS Review.md",
+                "file": "C++/cout Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking II/DNS Review.md",
+                "file": "C++/cout Object.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking II/DNS Review.md"
+                "file": "C++/cout Object.md"
               }
             }
           }
@@ -167,8 +167,14 @@
   },
   "active": "e7aff6df69ed6aaf",
   "lastOpenFiles": [
-    "Networking II/Introduction.md",
+    "C++/Namespaces.md",
+    "C++/Identifiers.md",
+    "C++/Operators.md",
+    "C++/Determining the Size of a Data Type.md",
+    "C++/Floating Point Decimals.md",
+    "C++/Integer Types.md",
     "Networking II/DNS Review.md",
+    "Networking II/Introduction.md",
     "Principles of Management/Chapter 4.md",
     "Principles of Management/Chapter 2 -.md",
     "Cybersecurity I/Active Directory.md",
@@ -193,12 +199,6 @@
     "Cybersecurity I/Identity and Access Management.md",
     "Cybersecurity I/Key Definitions.md",
     "Cybersecurity I/Biometrics.md",
-    "Networking II/Major Networking Identifiers (Again).md",
-    "Networking II/Ports (Again).md",
-    "Networking II/Chapter 4 Labs - IP Addressing (Again).md",
-    "Networking II/Look-Up Tables (Again).md",
-    "Networking II/DNS Thing.md",
-    "Networking II/OSI Model (Again).md",
     "Screenshot 2024-09-04 135437.png",
     "Screenshot 2024-09-04 135008.png",
     "Screenshot 2024-08-31 172206.png",
