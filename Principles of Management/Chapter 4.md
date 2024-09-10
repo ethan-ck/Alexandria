@@ -19,4 +19,4 @@
 
 # Chapter 4 - Global Management
 
-- 
+-  
