@@ -19,4 +19,10 @@
 
 # Chapter 4 - Global Management
 
--  
+-  Ethnocentric Managers
+- Parochialism
+- Polycentric
+- Geocentric
+
+
+- 
