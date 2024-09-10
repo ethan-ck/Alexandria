@@ -40,12 +40,34 @@ NAT Forwarding
     3. Select **Save**.
     4. Select **Apply Changes**.
 
+Username and Password fields, enter cisco (case-sensitive).Select Log In.  
+
+Assign port GE26 to VLAN 
+1.From the left pane, expand and select VLAN Management > Port VLAN Membership.Select GE26 and then select Join VLAN.From the left pane, under Select VLAN, select 1 (for VLAN 1).
+
+Select > to move VLAN 1 from the available pane to the attached VLAN pane.Select Apply and then select Close.  
+
+Mirror the received traffic from port GE28 to port GE26.
+
+From the left pane, expand and select Administration > Diagnostics > Port and VLAN Mirroring.Select Add.
+
+For the Destination Port, use the drop-down list to select GE26.For the Source Interface, use the drop-down list to select GE28.For the Type, make sure that Rx only is selected. This allows you to only mirror the incoming packets.
+
+Select Apply and then select Close.  
+
+Save the changes to the switch's startup configuration file.
+From the upper right of the switch window, select Save.
+For the Source File Name, make sure Running configuration is selected.
+
+For the Destination File Name, make sure Startup configuration is selected.
+
+Select Apply.Select OK.Select Done.
+
 ![[Screenshot 2024-09-09 191135.png]]
 ![[Screenshot 2024-09-09 192139.png]]
 
 ![[Screenshot 2024-09-09 194324.png]]
 
-![[Screenshot 2024-09-09 194900.png]]
 
 ![[Screenshot 2024-09-09 194936.png]]
 Complete this lab as follows:
