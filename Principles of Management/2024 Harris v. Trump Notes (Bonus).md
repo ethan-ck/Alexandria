@@ -1,0 +1,8 @@
+
+# Trump 
+
+- 
+
+# Harris 
+
+- 

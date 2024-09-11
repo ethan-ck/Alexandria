@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44049f30cda74b02",
+            "id": "e7aff6df69ed6aaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking II/Introduction.md",
+                "file": "Principles of Management/Chapter 4.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e7aff6df69ed6aaf",
+            "id": "8a09c99628ab637a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/cout Object.md",
+                "file": "Principles of Management/2024 Harris v. Trump Notes (Bonus).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/cout Object.md",
+                "file": "Principles of Management/2024 Harris v. Trump Notes (Bonus).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/cout Object.md",
+                "file": "Principles of Management/2024 Harris v. Trump Notes (Bonus).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/cout Object.md"
+                "file": "Principles of Management/2024 Harris v. Trump Notes (Bonus).md"
               }
             }
           }
@@ -165,8 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7aff6df69ed6aaf",
+  "active": "8a09c99628ab637a",
   "lastOpenFiles": [
+    "Principles of Management/Chapter 4.md",
+    "Principles of Management/2024 Harris v. Trump Notes (Bonus).md",
+    "Networking II/Labs Self-Notes 2.md",
+    "C++/cout Object.md",
     "C++/Namespaces.md",
     "C++/Identifiers.md",
     "C++/Operators.md",
@@ -175,10 +179,8 @@
     "C++/Integer Types.md",
     "Networking II/DNS Review.md",
     "Networking II/Introduction.md",
-    "Principles of Management/Chapter 4.md",
     "Principles of Management/Chapter 2 -.md",
     "Cybersecurity I/Active Directory.md",
-    "Networking II/Labs Self-Notes 2.md",
     "Screenshot 2024-09-09 200038.png",
     "Screenshot 2024-09-09 194936.png",
     "Screenshot 2024-09-09 194900.png",
@@ -197,8 +199,6 @@
     "Cybersecurity I/Access Control Models.md",
     "Cybersecurity I/Security Protocols.md",
     "Cybersecurity I/Identity and Access Management.md",
-    "Cybersecurity I/Key Definitions.md",
-    "Cybersecurity I/Biometrics.md",
     "Screenshot 2024-09-04 135437.png",
     "Screenshot 2024-09-04 135008.png",
     "Screenshot 2024-08-31 172206.png",
