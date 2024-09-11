@@ -1,5 +1,8 @@
 
-![[Screenshot 2024-08-31 172206.png]]
+
+
+
+
 
 - Businesses rely on information technology more than over because we're very important to the productivity, efficiency, and other stuff 
 
