@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity I/Default Domain Policy.md",
+                "file": "Cybersecurity I/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity I/Default Domain Policy.md",
+                "file": "Cybersecurity I/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity I/Default Domain Policy.md",
+                "file": "Cybersecurity I/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity I/Default Domain Policy.md"
+                "file": "Cybersecurity I/Notes.md"
               }
             }
           }
@@ -168,7 +168,7 @@
   "active": "7c9d7f79a62d36d5",
   "lastOpenFiles": [
     "Cybersecurity I/Presentation.md",
-    "Cybersecurity I/Default Domain Policy.md",
+    "Cybersecurity I/Notes.md",
     "Principles of Management/Chapter 4.md",
     "Principles of Management/2024 Harris v. Trump Notes (Bonus).md",
     "Networking II/Labs Self-Notes 2.md",
