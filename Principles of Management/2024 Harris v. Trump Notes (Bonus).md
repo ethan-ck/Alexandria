@@ -216,20 +216,6 @@
 	- Putin would eat Trump for lunch
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Afghanistan 
 
 - Trump
