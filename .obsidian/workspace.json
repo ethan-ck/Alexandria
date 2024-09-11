@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity I/Notes.md",
+                "file": "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity I/Notes.md",
+                "file": "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity I/Notes.md",
+                "file": "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity I/Notes.md"
+                "file": "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md"
               }
             }
           }
@@ -167,8 +167,11 @@
   },
   "active": "7c9d7f79a62d36d5",
   "lastOpenFiles": [
-    "Cybersecurity I/Presentation.md",
+    "System Analysis and Design/Group Project.md",
+    "System Analysis and Design/Chapter 1 - Introduction.md",
+    "System Analysis and Design/Systems Development.md",
     "Cybersecurity I/Notes.md",
+    "Cybersecurity I/Presentation.md",
     "Principles of Management/Chapter 4.md",
     "Principles of Management/2024 Harris v. Trump Notes (Bonus).md",
     "Networking II/Labs Self-Notes 2.md",
@@ -191,14 +194,11 @@
     "Screenshot 2024-09-09 191135.png",
     "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
     "System Analysis and Design/SDLC 5 Phases.md",
-    "System Analysis and Design/Group Project.md",
     "System Analysis and Design/Notes.md",
     "Cybersecurity I/Chapter 4 IAM Self Notes + Labs.md",
     "Linux/Linux Shell Overview.md",
     "Linux/Introduction.md",
     "Networking II/Labs Self-Notes.md",
-    "Cybersecurity I/Access Control Models.md",
-    "Cybersecurity I/Security Protocols.md",
     "Screenshot 2024-09-04 135437.png",
     "Screenshot 2024-09-04 135008.png",
     "Screenshot 2024-08-31 172206.png",

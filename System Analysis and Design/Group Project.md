@@ -38,3 +38,9 @@
 		- 4. The website must be responsive during the booking process to ensure quality performance
 	- Avoid imprecise/misinterpretation, disagreement, and scope creep
 - Chapters 2-5
+
+
+technologically
+
+economically
+
