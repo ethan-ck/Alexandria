@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8586c96941f01a18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity I/Identity and Crisis Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity I/Lab Self Notes 1.md",
+                "file": "Cybersecurity I/Identity and Crisis Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity I/Lab Self Notes 1.md",
+                "file": "Cybersecurity I/Identity and Crisis Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity I/Lab Self Notes 1.md"
+                "file": "Cybersecurity I/Identity and Crisis Management.md"
               }
             }
           }
@@ -152,9 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b19462956bb240c2",
+  "active": "8586c96941f01a18",
   "lastOpenFiles": [
     "Cybersecurity I/Lab Self Notes 1.md",
+    "Cybersecurity I/Identity and Crisis Management.md",
     "Networking II/Labs Self-Notes 3.md",
     "Pasted image 20240915213814.png",
     "Pasted image 20240915213749.png",
