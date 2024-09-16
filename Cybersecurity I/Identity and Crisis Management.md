@@ -33,4 +33,7 @@
 		- Screened Subnet means the same thing
 
 
-- 
+- Linux account types
+	- Standard
+	- System
+		- used by services running in the background
