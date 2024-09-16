@@ -17,4 +17,14 @@
 	- A project triangle includes the cost, scope, and time 
 	- A successful project triangle is a well-balanced project triangle :) 
 	- SDLC
+
+- Project Manager
+	- Planning, all the administrative tasks, resolving conflicts
+
+
+- Program Evaluation Review Technique
+	- Developed by the US Navy
+	- bottom-up technique 
+	- Displays complex task patterns and relationships
+	- 
 	- 
