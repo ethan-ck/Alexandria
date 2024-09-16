@@ -37,3 +37,24 @@
 	- Standard
 	- System
 		- used by services running in the background
+
+- Encryption
+	- Asymmetric
+		- Public and Private key, both are separate, but connected
+	- Symmetric
+		- 
+
+- Linux Re-sync 
+	- pwck (password check) to resync passwords
+
+- Chage command
+	- Chage [options] [username/LOGIN]
+	- Options:
+		- -m days (minimum)
+		- -M days (maximum)
+		- -w (warning) 
+
+- groupadd, usermod, useradd, groupmod, tail, 
+	- new name first, old name second
+
+- 
