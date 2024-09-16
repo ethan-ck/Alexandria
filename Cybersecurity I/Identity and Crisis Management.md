@@ -20,4 +20,17 @@
 
 - Access Levels
 	- Domain Accounts
-		- Stored on teh DC
+		- Stored on domain controller (DC)
+		- Managed by admins
+	- Local user accounts
+		- Stored locally
+		- No local admin user accounts (change admin name to yoda)
+		- creates standard users 
+
+- Remote Access
+	- Limit it, only need it
+	- Connect through the DMZ 
+		- Screened Subnet means the same thing
+
+
+- 
