@@ -39,4 +39,20 @@
 	- Human Resources
 		- IT people manpower
 
+- Task Patterns
+	- Dependent tasks
+		- Completed in a sequence
+		- Previous task needs to be completed before this task
+	- Multiple successor tasks
+		- Tasks that come ONLY after a task is finished
+	- Multiple predecessor tasks
+		-  Tasks that must be done BEFORE a task opens up
+
+- Complex Task Patterns
+	- 
+
+- The Critical Path 
+	- A series of tasks that if delayed, will severely impact the completion date of the overall project
+	- 
+
 - 
