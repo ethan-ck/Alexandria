@@ -31,4 +31,12 @@
 	- Developed by private industry
 	- If these certain tasks do not get done, the project is in trouble
 
+- Managers must always plan a best-case, probable-case and worst-case estimate for deadlines, milestones, etc...
+	- B + 4P + W / 6
+
+- Factors affecting duration
+	- Project size + scope
+	- Human Resources
+		- IT people manpower
+
 - 
