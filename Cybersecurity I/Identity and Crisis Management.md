@@ -112,4 +112,41 @@
 - plain text/ clear text = bad, unencrypted 
 
 
-- 802
+- 802.1x Authentication
+	- Switch or WAP allows authentic traffic between it and RADIUS Server 
+	- is an extension of EAP 
+	- uses many authentications
+
+- RADIUS
+	- think REMOTE AUTHENTICATION
+
+- LDAP
+	- Protocol for accessing directory services, but is not a directory service itself
+	- open source
+	- lightweight
+	- Runs over TCP/IP
+	- defaults to clear text, but can be secured via SSL/TLS
+
+- 3 Security Protocols
+	- SSH
+	- SSL/TLS
+	- IPsec 
+
+- SASL
+	- Simple authentication and security layer
+
+- Kerberos Authentication
+	- Key Distribution Center
+		- Kind of like a scavenger hunt but with tickets
+	-  You get a ticket granting session key (TGS) from the authentication server
+	- You go to the ticket granting server, which grants a ticket for a certain time period
+	- Ticket granting a ticket, which then gives a key to access the Acct File Server
+	- Acct File Server gives you a file server session key for the File Server, which can decrpyt the ticket and session key
+	- All of this setup is more trust-sake
+	- All handshakes are encrypted, safe from malicious actors
+
+- 
+
+- 
+
+- 
