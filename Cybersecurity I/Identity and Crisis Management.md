@@ -144,6 +144,7 @@
 	- Acct File Server gives you a file server session key for the File Server, which can decrpyt the ticket and session key
 	- All of this setup is more trust-sake
 	- All handshakes are encrypted, safe from malicious actors
+	- Basically signing into the BC3 protocol, which allows you to enter blackboard, email, student planning, etc... Single sign on b/c we trust you since you went throguh a bunch of security hoops. 
 
 - 
 
