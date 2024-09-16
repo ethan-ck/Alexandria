@@ -54,7 +54,52 @@
 		- -M days (maximum)
 		- -w (warning) 
 
-- groupadd, usermod, useradd, groupmod, tail, 
+- groupadd, usermod, useradd, groupmod, tail, man (command)
 	- new name first, old name second
+	- man = manual, the help version of manual
+	- tail means view the end of the result
+
+# Remote Access
+
+- Policies which restrict access 
+- Point-to-Point Protocol
+	- Data link connecction
+	- Assigns IP addresses and authentication
+
+- Passwod Authentication Protocl
+	- Sends in clear text, bad
+
+- Chap
+	- Passphrases, but not passwords
+
+- EAP 
+	- More secure than CHAP, 
+	- Client/Server negotiates
+	- Multi-factor authentication
+
+- RAS
+	- remote authoristion
+
+- user base, time base, group base 
+
+
+- AAA Server
+	- Authentication
+	- Authorizing
+	- Accounting
+		- Tracks connection
+
+- RADIUS
+	- Runs on 1-2 devices (accounting)
+	- UDP for authorization (UDP is connection-less)
+	- used with Microsoft
+
+- TACACS+
+	- Runs on 1-3 devices (all three A's can be split)
+	- TCP for authentication (connected, 3-way handshake)
+	- Encrypted communications
+	- Cisco
+
+# Network Authentication
 
 - 
