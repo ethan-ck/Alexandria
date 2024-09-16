@@ -14,4 +14,10 @@
 
 - Malicious actors rely on basic trust, authority, etc...
 
-- 
+- Remember that Multifactor is multiple DIFFERENT authentication methods
+	- Username + password
+	- Smart ID
+
+- Access Levels
+	- Domain Accounts
+		- Stored on teh DC
