@@ -102,4 +102,14 @@
 
 # Network Authentication
 
-- 
+- Kerberos
+	- Linux, Unix, and Windows Active Directory
+	- Single-sign on 
+	- Mutual Authentication
+	- Uses tickets to indicate authorization 
+	- think SSO and TICKETS and TIME
+	- 
+- plain text/ clear text = bad, unencrypted 
+
+
+- 802
