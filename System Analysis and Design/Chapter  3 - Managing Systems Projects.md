@@ -26,5 +26,9 @@
 	- Developed by the US Navy
 	- bottom-up technique 
 	- Displays complex task patterns and relationships
-	- 
-	- 
+
+- Critical Path Method (CPM)
+	- Developed by private industry
+	- If these certain tasks do not get done, the project is in trouble
+
+- 
