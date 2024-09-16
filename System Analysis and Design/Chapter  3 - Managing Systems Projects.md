@@ -7,4 +7,8 @@
 
 - Planning, Scheduling, Monitoring, Controlling, and Reporting on Information System Development
 
+- SDLC
+	- System Development Life Cycle
+	- Lion King
+
 - 
