@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aabad0d7a5c92c32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity I/Lab Self Notes 2.md",
+                "file": "C++/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity I/Lab Self Notes 2.md",
+                "file": "C++/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity I/Lab Self Notes 2.md"
+                "file": "C++/Untitled.md"
               }
             }
           }
@@ -152,8 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa14dabb49ec526c",
+  "active": "aabad0d7a5c92c32",
   "lastOpenFiles": [
+    "Cybersecurity I/Untitled.md",
+    "Cybersecurity I/Lab Self Notes 2.md",
     "Pasted image 20240917171520.png",
     "Pasted image 20240917171422.png",
     "Pasted image 20240917171335.png",
@@ -165,7 +180,6 @@
     "Networking II/Look-Up Tables (Again).md",
     "Untitled",
     "Cybersecurity I/Presentation.md",
-    "Cybersecurity I/Lab Self Notes 2.md",
     "Cybersecurity I/Identity and Crisis Management.md",
     "Principles of Management/Exam 1 Notes.md",
     "Principles of Management/2024 Harris v. Trump Notes (Bonus).md",
@@ -180,7 +194,6 @@
     "Pasted image 20240915213814.png",
     "Pasted image 20240915213749.png",
     "Pasted image 20240915213702.png",
-    "Pasted image 20240915213307.png",
     "Cybersecurity I/Security Protocols.md",
     "Networking II/Major Networking Identifiers (Again).md",
     "Networking II/Troubleshooting Labs Review.md",
