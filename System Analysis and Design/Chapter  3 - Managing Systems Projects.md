@@ -53,6 +53,8 @@
 
 - The Critical Path 
 	- A series of tasks that if delayed, will severely impact the completion date of the overall project
-	- 
+
+- Structured Walk-through
+	- Basically claim reviews, ensuring that the task is up to the standards of development
 
 - 

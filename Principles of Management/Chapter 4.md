@@ -10,13 +10,6 @@
 	- External is anyone outside 
 
 
-
-- Write a summary of the debate highs/lows
-- One page minimum
-- Overall summary on how they handled themselves
-- Half a page on each double spaced
-
-
 # Chapter 4 - Global Management
 
 -  Ethnocentric Managers
@@ -27,4 +20,4 @@
 
 - Expanding International (RISK) 
 
-- 
+-
