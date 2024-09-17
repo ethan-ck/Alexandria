@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networking II/Firewalls and Intrusion Detection.md",
+                "file": "Cybersecurity I/Lab Self Notes 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking II/Firewalls and Intrusion Detection.md",
+                "file": "Cybersecurity I/Lab Self Notes 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking II/Firewalls and Intrusion Detection.md",
+                "file": "Cybersecurity I/Lab Self Notes 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networking II/Firewalls and Intrusion Detection.md"
+                "file": "Cybersecurity I/Lab Self Notes 2.md"
               }
             }
           }
@@ -154,8 +154,13 @@
   },
   "active": "aa14dabb49ec526c",
   "lastOpenFiles": [
-    "Networking II/Look-Up Tables (Again).md",
+    "Pasted image 20240917171335.png",
+    "Pasted image 20240917171235.png",
+    "Pasted image 20240917171124.png",
+    "Pasted image 20240917170932.png",
+    "Pasted image 20240917170456.png",
     "Networking II/Firewalls and Intrusion Detection.md",
+    "Networking II/Look-Up Tables (Again).md",
     "Untitled",
     "Cybersecurity I/Presentation.md",
     "Cybersecurity I/Lab Self Notes 2.md",
@@ -176,10 +181,6 @@
     "Pasted image 20240915213307.png",
     "Pasted image 20240915212959.png",
     "Pasted image 20240915212636.png",
-    "Pasted image 20240915212554.png",
-    "Pasted image 20240915212519.png",
-    "Pasted image 20240915212414.png",
-    "Pasted image 20240915211629.png",
     "Cybersecurity I/Security Protocols.md",
     "Networking II/Major Networking Identifiers (Again).md",
     "Networking II/Troubleshooting Labs Review.md",
@@ -190,7 +191,6 @@
     "System Analysis and Design/Systems Development.md",
     "System Analysis and Design/Group Project.md",
     "Cybersecurity I/Notes.md",
-    "C++/cout Object.md",
     "System Analysis and Design",
     "Networking II",
     "Languages/Mandarin",
