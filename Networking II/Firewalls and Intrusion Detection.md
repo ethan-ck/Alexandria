@@ -90,5 +90,13 @@
 	- User auth
 	- Etc...
 
-- The Firewall Quandary
-	- 
+- Interfaces
+	- A way in and out of a device
+
+- Two Firewalls to separate a high security zone (private network), low security zone (web server), and a unsecure zone (internet)
+
+- One firewall with multiple interfaces set up 
+
+- 
+
+
