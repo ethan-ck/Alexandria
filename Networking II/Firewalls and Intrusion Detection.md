@@ -42,6 +42,7 @@
 		- Filters source (src) and destination (dest) IP addresses, ports and protocols (srvcs), 
 		- Also known as stateless, as the state is associated with the session layer
 		- More detailed than other types, looks at the IP's header (source and destination IP address)
+		- Extended access control less (stateless)
 	- Circuit Level Gateways (Session Layer)
 		- Allows or denies sessions (connection state) 
 		- Known as stateful, which describes the process of SYN-ACK, the 3-way handshake
@@ -96,6 +97,32 @@
 - Two Firewalls to separate a high security zone (private network), low security zone (web server), and a unsecure zone (internet)
 
 - One firewall with multiple interfaces set up 
+
+- Access Control Entries (ACEs)
+	- ACE1: if x = true, then do y
+	- ACE2 if x = false, then do z 
+
+- ACLs
+	- Inbound ACLs
+		- For devices coming into the ACL
+	- Outbound ACLs
+		- For devices coming out of the ACL
+
+# Screened Subnets
+
+- Screened Subnets need a reachable Web Server (exposed web server)
+	- Known as a bastion 
+
+# Intrusion Detection and Prevention 
+
+- Honeypots
+	- A device or VM that entices malicious actors, is usually a diversion
+	- Honeynets is the same logic but an entire network
+
+- Passive IDS
+	- Alert
+- Active IDS
+	- Block 
 
 - 
 
