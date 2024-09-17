@@ -41,10 +41,33 @@
 	- Packet Filtering (Network Layer)
 		- Filters source (src) and destination (dest) IP addresses, ports and protocols (srvcs), 
 		- Also known as stateless, as the state is associated with the session layer
-		- More detailed than other types, looks at the IP's header and source 
+		- More detailed than other types, looks at the IP's header (source and destination IP address)
 	- Circuit Level Gateways (Session Layer)
 		- Allows or denies sessions (connection state) 
 		- Known as stateful, which describes the process of SYN-ACK, the 3-way handshake
 		- Slower 
 	- Application Layer Firewall (Application Layer)
-		- 
+		- Filters by content (HTTP and URLs)
+		- Data
+		- Slowest 
+	- Proxy Server (Application Firewall)
+		- Acts as a stand-in to public and private networks
+			- Voting by proxy example (You have permission to vote for someone to their wishes)
+		- IN or OUT, caches content for better performance
+		- Hides the private network 
+			- VPN, connects to a proxy server and hides your personal IP from the internet
+	- Reverse Proxy Server
+		- Internet to Private Network
+		- Used for load-balancing and caching
+
+# Firewall Design and Implementation
+
+- All-in-One, Network Security Appliance (NSA), Unified Threat Management (UTF) all meant the same thing
+	- Includes Firewalls, IDS, and IPS 
+
+- Screened Subnet or DMZ
+	- A buffer network (subnet) that sits between the private network and an untrusted network
+
+- 
+
+- 
