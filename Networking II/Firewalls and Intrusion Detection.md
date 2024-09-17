@@ -32,6 +32,19 @@
 
 - Software Firewall
 	- Protects a single computer or device 
-	- 
 
-- 
+- Access Control Lists (ACLs)
+	- Implicit Deny
+		- Blocks everything not found by the AC
+
+- Firewall Types
+	- Packet Filtering (Network Layer)
+		- Filters source (src) and destination (dest) IP addresses, ports and protocols (srvcs), 
+		- Also known as stateless, as the state is associated with the session layer
+		- More detailed than other types, looks at the IP's header and source 
+	- Circuit Level Gateways (Session Layer)
+		- Allows or denies sessions (connection state) 
+		- Known as stateful, which describes the process of SYN-ACK, the 3-way handshake
+		- Slower 
+	- Application Layer Firewall (Application Layer)
+		- 
