@@ -68,6 +68,27 @@
 - Screened Subnet or DMZ
 	- A buffer network (subnet) that sits between the private network and an untrusted network
 
-- 
+- Routed Firewall
+	- Layer 3 router, supports multiple interfaces and transmit data as a router hop
 
-- 
+- Transparent Firewall
+	- Operates at layer 2 and is not seen as a router hop by connected devices
+
+- UTM Devices
+	- Firewall
+	- VPNs
+	- Anti-Spam
+	- Anti-Viruses 
+	- Load balancing
+	- Single point of failure 
+	- URL Filtering
+	- Content Inspection of websites
+	- IDS and bandwidth shaping
+
+- Firewall Features
+	- Encryption
+	- User auth
+	- Etc...
+
+- The Firewall Quandary
+	- 
