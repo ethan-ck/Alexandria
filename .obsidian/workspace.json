@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Untitled.md",
+                "file": "Linux/Linux Shell Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6da42bad4ec1762e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Untitled.md",
+                "file": "Linux/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Untitled.md",
+                "file": "Linux/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Untitled.md"
+                "file": "Linux/Untitled.md"
               }
             }
           }
@@ -152,11 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aabad0d7a5c92c32",
+  "active": "6da42bad4ec1762e",
   "lastOpenFiles": [
+    "Linux/Linux Shell Overview.md",
+    "Linux/Untitled.md",
+    "C++/Untitled.md",
     "Cybersecurity I/Lab Self Notes 2.md",
     "Cybersecurity I/Untitled.md",
-    "C++/Untitled.md",
     "Pasted image 20240917171520.png",
     "Pasted image 20240917171422.png",
     "Pasted image 20240917171335.png",
@@ -189,8 +204,6 @@
     "Networking II/DNS Review.md",
     "System Analysis and Design/Chapter 1 - Introduction.md",
     "System Analysis and Design/SDLC 5 Phases.md",
-    "System Analysis and Design/Systems Development.md",
-    "System Analysis and Design/Group Project.md",
     "System Analysis and Design",
     "Networking II",
     "Languages/Mandarin",
