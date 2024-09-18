@@ -51,6 +51,13 @@
 	- Extra - Outside (BC3 and other businesses that access information, maybe other colleges)
 
 - DMZ - Screened Subnet 
+	- Publicly Accessible
+	- Acts as a middle-man
+	- AKA a Bastion Host
+
+- Multi-interfaces
+	- An interface is a way in or out of anything, usually used within switches, firewalls, etc...
+	- 
 
 - Network Access Control (NAC) 
 	- Remediation 
@@ -63,7 +70,18 @@
 
 # Security Zones
 
-- Sensors
-	- SCADA/ICS
-	- IDS
-	- 
+- Sensors (Endpoints)
+	- Information gathers to figure out what's going on in your network
+		- SCADA/ICS
+		- IDS
+		- SIEM/SOAR
+
+- Wireless Zones
+	- Guest Networks
+	- HoneyNet or HoneyPot Zones
+	- Ad Hoc Network
+	- Network Address Translation (NAT) 
+		- Usually done through PAT (Port Address Translation)
+		- xxxx:8001: p.p.p.p.8001
+
+- 
