@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity I/Untitled.md",
+                "file": "Cybersecurity I/Network Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity I/Untitled.md",
+                "file": "Cybersecurity I/Network Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity I/Untitled.md",
+                "file": "Cybersecurity I/Network Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity I/Untitled.md"
+                "file": "Cybersecurity I/Network Architecture.md"
               }
             }
           }
@@ -161,7 +161,7 @@
     "Pasted image 20240918100932.png",
     "Pasted image 20240918100847.png",
     "Pasted image 20240918100747.png",
-    "Cybersecurity I/Untitled.md",
+    "Cybersecurity I/Network Architecture.md",
     "Linux/Untitled.md",
     "Linux/Linux Shell Overview.md",
     "C++/Untitled.md",
