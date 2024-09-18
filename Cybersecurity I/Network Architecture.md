@@ -90,4 +90,39 @@
 	- URL filtering against gambling, adult sites, shopping etc...
 	- Spam filtering 
 
+- Personal Identifiable Information (PII) 
+
+
+# Firewalls
+
+- Host Firewall
+
+- Network Firewall
+
+- Host based IDS
+
+- Network Based IDS 
+
+- Host based Anti-Virus 
+
+- Network based Anti-Virus
+
+- Web Application Firewalls (WAFs)
+
+- Next Generation Firewall
+	- Yuge upgrades
+
+- Software is host based
+- Hardware is network based
+
+
+- Stateful firewalls
+	- circuit-level
+	- more resource intensive but stops larger attacks
+- Stateless Firewalls
+	- ACLs 
+	- Rule-based
+	- inspects IP packets based on header details
+	- Implicit Deny (Deny All) and whitelist others
+
 - 
