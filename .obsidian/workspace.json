@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Untitled.md",
+                "file": "Cybersecurity I/Lab Self Notes 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Untitled.md",
+                "file": "Cybersecurity I/Lab Self Notes 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Untitled.md",
+                "file": "Cybersecurity I/Lab Self Notes 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Untitled.md"
+                "file": "Cybersecurity I/Lab Self Notes 2.md"
               }
             }
           }
@@ -154,18 +154,22 @@
   },
   "active": "6da42bad4ec1762e",
   "lastOpenFiles": [
-    "Linux/Linux Shell Overview.md",
+    "Pasted image 20240918101124.png",
+    "Pasted image 20240918101055.png",
+    "Pasted image 20240918100932.png",
+    "Pasted image 20240918100847.png",
+    "Pasted image 20240918100747.png",
+    "Cybersecurity I/Untitled.md",
     "Linux/Untitled.md",
+    "Linux/Linux Shell Overview.md",
     "C++/Untitled.md",
     "Cybersecurity I/Lab Self Notes 2.md",
-    "Cybersecurity I/Untitled.md",
     "Pasted image 20240917171520.png",
     "Pasted image 20240917171422.png",
     "Pasted image 20240917171335.png",
     "Pasted image 20240917171235.png",
     "Pasted image 20240917171124.png",
     "Pasted image 20240917170932.png",
-    "Pasted image 20240917170456.png",
     "Networking II/Firewalls and Intrusion Detection.md",
     "Networking II/Look-Up Tables (Again).md",
     "Untitled",
@@ -181,16 +185,12 @@
     "System Analysis and Design/Chapter  3 - Managing Systems Projects.md",
     "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
     "Networking II/Labs Self-Notes 3.md",
-    "Pasted image 20240915213814.png",
-    "Pasted image 20240915213749.png",
-    "Pasted image 20240915213702.png",
     "Cybersecurity I/Security Protocols.md",
     "Networking II/Major Networking Identifiers (Again).md",
     "Networking II/Troubleshooting Labs Review.md",
     "Networking II/Labs Self-Notes 2.md",
     "Networking II/DNS Review.md",
     "System Analysis and Design/Chapter 1 - Introduction.md",
-    "System Analysis and Design/SDLC 5 Phases.md",
     "System Analysis and Design",
     "Networking II",
     "Languages/Mandarin",

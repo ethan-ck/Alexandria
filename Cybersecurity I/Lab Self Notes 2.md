@@ -23,5 +23,22 @@
 
 
 
+![[Pasted image 20240918100747.png]]
 
+
+
+![[Pasted image 20240918100847.png]]
+
+
+
+![[Pasted image 20240918100932.png]]
+
+
+
+![[Pasted image 20240918101055.png]]
+
+
+
+
+![[Pasted image 20240918101124.png]]
 
