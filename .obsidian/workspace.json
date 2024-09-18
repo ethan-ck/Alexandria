@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Analysis and Design/Group Project.md",
+                "file": "System Analysis and Design/SDLC 5 Phases.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Analysis and Design/Group Project.md",
+                "file": "System Analysis and Design/SDLC 5 Phases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Analysis and Design/Group Project.md",
+                "file": "System Analysis and Design/SDLC 5 Phases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Analysis and Design/Group Project.md"
+                "file": "System Analysis and Design/SDLC 5 Phases.md"
               }
             }
           }
@@ -167,6 +167,7 @@
   },
   "active": "3c638ec51601551b",
   "lastOpenFiles": [
+    "System Analysis and Design/Group Project.md",
     "System Analysis and Design/SDLC 5 Phases.md",
     "System Analysis and Design/Chapter  3 - Managing Systems Projects.md",
     "System Analysis and Design/Untitled.md",
@@ -203,7 +204,6 @@
     "Cybersecurity I/Security Protocols.md",
     "Networking II/Major Networking Identifiers (Again).md",
     "Networking II/Troubleshooting Labs Review.md",
-    "Networking II/Labs Self-Notes 2.md",
     "System Analysis and Design",
     "Networking II",
     "Languages/Mandarin",
