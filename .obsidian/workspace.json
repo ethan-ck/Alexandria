@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity I/Lab Self Notes 2.md",
+                "file": "Cybersecurity I/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity I/Lab Self Notes 2.md",
+                "file": "Cybersecurity I/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity I/Lab Self Notes 2.md",
+                "file": "Cybersecurity I/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity I/Lab Self Notes 2.md"
+                "file": "Cybersecurity I/Untitled.md"
               }
             }
           }
@@ -154,6 +154,8 @@
   },
   "active": "6da42bad4ec1762e",
   "lastOpenFiles": [
+    "Cybersecurity I/Active Directory.md",
+    "Cybersecurity I/Lab Self Notes 2.md",
     "Pasted image 20240918101124.png",
     "Pasted image 20240918101055.png",
     "Pasted image 20240918100932.png",
@@ -163,13 +165,11 @@
     "Linux/Untitled.md",
     "Linux/Linux Shell Overview.md",
     "C++/Untitled.md",
-    "Cybersecurity I/Lab Self Notes 2.md",
     "Pasted image 20240917171520.png",
     "Pasted image 20240917171422.png",
     "Pasted image 20240917171335.png",
     "Pasted image 20240917171235.png",
     "Pasted image 20240917171124.png",
-    "Pasted image 20240917170932.png",
     "Networking II/Firewalls and Intrusion Detection.md",
     "Networking II/Look-Up Tables (Again).md",
     "Untitled",
