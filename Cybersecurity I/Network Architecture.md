@@ -24,4 +24,31 @@
 
 - Segmentation
 	- Group things together as separate entities 
-	- 
+	- Separate networks (VLANs) 
+
+- Controls
+	- Active Controls
+		- Configuration and Data Exchange
+	- Passive Controls
+		- In the background
+
+# Security Appliances
+
+- All-In-One
+- Unified Threat Management
+- Network Security Appliances 
+
+
+- Security Zone
+	- Portions of the network that have certain security requirements or concerns
+
+- Ad Hoc
+	- This, temporary 
+	- A decentralized network that allows connection without a traditional base station
+
+- Intranet, Internet, Extranet
+	- Intra - Within (BC3 Portal)
+	- Inter - Between (BC3.Edu) 
+	- Extra - Outside (BC3 and other colleges )
+
+- 
