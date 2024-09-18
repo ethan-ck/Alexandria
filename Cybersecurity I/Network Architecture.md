@@ -61,4 +61,9 @@
 	- A hardened server that provides access to other hosts 
 		- Usually used by admins
 
-- 
+# Security Zones
+
+- Sensors
+	- SCADA/ICS
+	- IDS
+	- 
