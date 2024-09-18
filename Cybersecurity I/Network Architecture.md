@@ -57,7 +57,6 @@
 
 - Multi-interfaces
 	- An interface is a way in or out of anything, usually used within switches, firewalls, etc...
-	- 
 
 - Network Access Control (NAC) 
 	- Remediation 
@@ -83,5 +82,12 @@
 	- Network Address Translation (NAT) 
 		- Usually done through PAT (Port Address Translation)
 		- xxxx:8001: p.p.p.p.8001
+		- the Ip and a colon is called a socket
+
+# All in One Security Devices 
+
+- Integrated Security
+	- URL filtering against gambling, adult sites, shopping etc...
+	- Spam filtering 
 
 - 
