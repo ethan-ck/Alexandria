@@ -92,7 +92,6 @@
 
 - Personal Identifiable Information (PII) 
 
-
 # Firewalls
 
 - Host Firewall
@@ -124,5 +123,20 @@
 	- Rule-based
 	- inspects IP packets based on header details
 	- Implicit Deny (Deny All) and whitelist others
+
+# Network Address Translation
+
+- Conserves the limited 4 billion IP addresses through Port Address Translation (PAT)
+- Is used instead of IPv6, because we stopped the apocalypse
+- NAT Router Table, Sequential Port differentiates (8001, 8002, etc...)
+
+# Virtual Private Networks
+
+- Secure tunnel that uses encryption and encapsulation (hide)
+- L2TP, IPsec, SSL 
+
+- IPsec
+	- 2 Protocols
+	- Authentication Header (AH) and Encapsulating Security Payload (ESP)
 
 - 
