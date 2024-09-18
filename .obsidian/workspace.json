@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity I/Network Architecture.md",
+                "file": "System Analysis and Design/Chapter  3 - Managing Systems Projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c638ec51601551b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System Analysis and Design/Chapter  3 - Managing Systems Projects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity I/Network Architecture.md",
+                "file": "System Analysis and Design/Chapter  3 - Managing Systems Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity I/Network Architecture.md",
+                "file": "System Analysis and Design/Chapter  3 - Managing Systems Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity I/Network Architecture.md"
+                "file": "System Analysis and Design/Chapter  3 - Managing Systems Projects.md"
               }
             }
           }
@@ -152,16 +165,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6da42bad4ec1762e",
+  "active": "3c638ec51601551b",
   "lastOpenFiles": [
-    "Cybersecurity I/Active Directory.md",
+    "System Analysis and Design/Untitled.md",
+    "System Analysis and Design/Chapter  3 - Managing Systems Projects.md",
     "Cybersecurity I/Lab Self Notes 2.md",
+    "Cybersecurity I/Network Architecture.md",
+    "Cybersecurity I/Active Directory.md",
     "Pasted image 20240918101124.png",
     "Pasted image 20240918101055.png",
     "Pasted image 20240918100932.png",
     "Pasted image 20240918100847.png",
     "Pasted image 20240918100747.png",
-    "Cybersecurity I/Network Architecture.md",
     "Linux/Untitled.md",
     "Linux/Linux Shell Overview.md",
     "C++/Untitled.md",
@@ -182,7 +197,6 @@
     "Principles of Management/Chapter 2 -.md",
     "Principles of Management/The Art of Management.md",
     "Cybersecurity I/Lab Self Notes 1.md",
-    "System Analysis and Design/Chapter  3 - Managing Systems Projects.md",
     "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
     "Networking II/Labs Self-Notes 3.md",
     "Cybersecurity I/Security Protocols.md",
@@ -190,7 +204,6 @@
     "Networking II/Troubleshooting Labs Review.md",
     "Networking II/Labs Self-Notes 2.md",
     "Networking II/DNS Review.md",
-    "System Analysis and Design/Chapter 1 - Introduction.md",
     "System Analysis and Design",
     "Networking II",
     "Languages/Mandarin",
