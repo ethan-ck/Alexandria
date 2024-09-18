@@ -38,7 +38,6 @@
 - Unified Threat Management
 - Network Security Appliances 
 
-
 - Security Zone
 	- Portions of the network that have certain security requirements or concerns
 
@@ -49,6 +48,17 @@
 - Intranet, Internet, Extranet
 	- Intra - Within (BC3 Portal)
 	- Inter - Between (BC3.Edu) 
-	- Extra - Outside (BC3 and other colleges )
+	- Extra - Outside (BC3 and other businesses that access information, maybe other colleges)
+
+- DMZ - Screened Subnet 
+
+- Network Access Control (NAC) 
+	- Remediation 
+		- Something that needs to be corrected
+		- If computer does not pass health checks, it gets sent to a security zone 
+
+- Jump Server
+	- A hardened server that provides access to other hosts 
+		- Usually used by admins
 
 - 
