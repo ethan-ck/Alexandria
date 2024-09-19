@@ -9,4 +9,7 @@
 
 - Implementing strategy - Planning and strategic management
 
+- Sustainable Competitive Advantage
+	- Long-term company plans to maintain or gain an advantage
+
 - 
