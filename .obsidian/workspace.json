@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f6d74bcc997b4441",
+            "id": "ebe6ceefc6201c9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity I/Lab Self Notes 3.md",
+                "file": "Principles of Management/Bonus 1 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d49ed8b8bc9ec700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Principles of Management/Bonus 2 Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity I/Lab Self Notes 3.md",
+                "file": "Principles of Management/Bonus 2 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity I/Lab Self Notes 3.md",
+                "file": "Principles of Management/Bonus 2 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity I/Lab Self Notes 3.md"
+                "file": "Principles of Management/Bonus 2 Notes.md"
               }
             }
           }
@@ -155,8 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6d74bcc997b4441",
+  "active": "d49ed8b8bc9ec700",
   "lastOpenFiles": [
+    "Principles of Management/Bonus 1 Notes.md",
+    "Principles of Management/Bonus 2 Notes.md",
+    "Principles of Management/2024 Harris v. Trump Notes (Bonus).md",
+    "Principles of Management/Chapter 3.md",
+    "Cybersecurity I/Lab Self Notes 3.md",
+    "Cybersecurity I/Key Definitions.md",
     "Pasted image 20240918210620.png",
     "Pasted image 20240918210547.png",
     "Pasted image 20240918210511.png",
@@ -164,7 +183,6 @@
     "Pasted image 20240918210311.png",
     "Pasted image 20240918210242.png",
     "Cybersecurity I/Network Architecture.md",
-    "Cybersecurity I/Lab Self Notes 3.md",
     "Cybersecurity I/Identity and Access Management.md",
     "Cybersecurity I/Lab Self Notes 2.md",
     "System Analysis and Design/Chapter  3 - Managing Systems Projects.md",
@@ -176,7 +194,6 @@
     "Pasted image 20240918101055.png",
     "Pasted image 20240918100932.png",
     "Pasted image 20240918100847.png",
-    "Pasted image 20240918100747.png",
     "Linux/Untitled.md",
     "Linux/Linux Shell Overview.md",
     "C++/Untitled.md",
@@ -186,14 +203,10 @@
     "Cybersecurity I/Presentation.md",
     "Cybersecurity I/Identity and Crisis Management.md",
     "Principles of Management/Exam 1 Notes.md",
-    "Principles of Management/2024 Harris v. Trump Notes (Bonus).md",
     "Principles of Management/Chapter 4.md",
-    "Principles of Management/Chapter 3.md",
     "Principles of Management/Chapter 2 -.md",
     "Principles of Management/The Art of Management.md",
     "Cybersecurity I/Lab Self Notes 1.md",
-    "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
-    "Networking II/Labs Self-Notes 3.md",
     "System Analysis and Design",
     "Networking II",
     "Languages/Mandarin",
