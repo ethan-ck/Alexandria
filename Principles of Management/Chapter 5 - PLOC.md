@@ -7,4 +7,6 @@
 # Missions, Visions, and Values
 
 
+- Implementing strategy - Planning and strategic management
+
 - 
