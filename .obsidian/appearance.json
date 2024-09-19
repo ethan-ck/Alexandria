@@ -1,11 +1,12 @@
 {
-  "accentColor": "",
-  "theme": "obsidian",
+  "accentColor": "#2a58e5",
+  "theme": "moonstone",
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "custom-rainbow-colors",
     "custom-background",
     "extended-colorschemes",
     "minimal-cards"
-  ]
+  ],
+  "baseFontSize": 16
 }
