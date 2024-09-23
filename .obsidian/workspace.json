@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Principles of Management/Untitled.md",
+                "file": "System Analysis and Design/Group Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principles of Management/Untitled.md",
+                "file": "System Analysis and Design/Group Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Principles of Management/Untitled.md",
+                "file": "System Analysis and Design/Group Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Principles of Management/Untitled.md"
+                "file": "System Analysis and Design/Group Project.md"
               }
             }
           }
@@ -169,8 +169,8 @@
   },
   "active": "6db9b7857417f530",
   "lastOpenFiles": [
-    "Principles of Management/Chapter 5 - PLOC.md",
     "Principles of Management/Untitled.md",
+    "Principles of Management/Chapter 5 - PLOC.md",
     "Principles of Management/The Art of Management.md",
     "System Analysis and Design/SDLC 5 Phases.md",
     "System Analysis and Design/Group Project.md",
