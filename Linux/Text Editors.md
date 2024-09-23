@@ -14,9 +14,19 @@
 	- Command - utilizes vi specific commands (cut, copy, paste)
 		- Command mode is selected by default
 		- There are several commands to manipulate the file
-		- /(text_to_find)
-		- 
+			- /(text_to_find)
+			- /c - (text_to_find) - ignores case sensitivity
+			- :s/find_text/replace_text (finds next occurrence of text you're searching for and replace)
+			- :dw (delete the next word after the cursor)
+			- :de (same as above but does not include the space)
+			- :d$
+			- :dd 
+			- :p (paste) 
+			- :u (undo)
+			- crtl g - displays file information 
+			- $ - moves to the end of the line
 	- Command-line 
 		- Must be in command mode, and press the : (colon) key to enter command-line mode
 		- :w (filename) to save, :q to leave vi mode, :q! to quit and override changes, :w!, 
+		- :set ignorecase to ignore case sensitive languages
 		- Can also overlap commands :wq to save and quit
