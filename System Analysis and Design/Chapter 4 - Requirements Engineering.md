@@ -76,5 +76,6 @@ Joint Application Development (JAD)
 - Scrum
 	- Scrum sessions
 		- Rugby - specific guidelines emphasize time blocks, interaction and team based activities 
-		- 
+
+- 
 
