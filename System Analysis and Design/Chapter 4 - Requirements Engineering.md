@@ -15,6 +15,9 @@
 
 ## System Requirements
 
+- Challenges include imprecision, user not described it clear enough
+- 
+
 ### Functional Requirements
 - 
 ### Non-Functional Requirements
