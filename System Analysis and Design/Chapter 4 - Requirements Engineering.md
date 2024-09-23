@@ -52,7 +52,7 @@ Joint Application Development (JAD)
 		- Accurate statement of system requirements
 
 - Rapid Application Development
-	- Group approac like JAD
+	- Group approach like JAD
 	- Four phase life cycle that parallels the traditional SDLC
 	- Reduces cost and developmental time
 	- Increases the probability of success
@@ -70,3 +70,11 @@ Joint Application Development (JAD)
 
 - AGILE
 	- Prototyping 
+	- Continuous Feedback
+	- 2-week sprints
+
+- Scrum
+	- Scrum sessions
+		- Rugby - specific guidelines emphasize time blocks, interaction and team based activities 
+		- 
+
