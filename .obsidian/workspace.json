@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4252e3aad962d92e",
+        "id": "361b5459e1e2fa5a",
         "type": "tabs",
         "children": [
           {
-            "id": "c75e78af0cc7579d",
+            "id": "f6e31c2be277beef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Principles of Management/Chapter 5 - PLOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6db9b7857417f530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Analysis and Design/Group Project.md",
+                "file": "Linux/Text Editors.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Analysis and Design/Group Project.md",
+                "file": "Linux/Text Editors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Analysis and Design/Group Project.md",
+                "file": "Linux/Text Editors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Analysis and Design/Group Project.md"
+                "file": "Linux/Text Editors.md"
               }
             }
           }
@@ -167,13 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6db9b7857417f530",
+  "active": "f6e31c2be277beef",
   "lastOpenFiles": [
+    "Linux/Untitled.md",
+    "Linux/Text Editors.md",
+    "Principles of Management/The Art of Management.md",
+    "System Analysis and Design/Group Project.md",
     "Principles of Management/Untitled.md",
     "Principles of Management/Chapter 5 - PLOC.md",
-    "Principles of Management/The Art of Management.md",
     "System Analysis and Design/SDLC 5 Phases.md",
-    "System Analysis and Design/Group Project.md",
     "System Analysis and Design/Chapter  3 - Managing Systems Projects.md",
     "System Analysis and Design/Untitled.md",
     "Cybersecurity I/Lab Self Notes 2.md",
@@ -184,7 +173,6 @@
     "Pasted image 20240918100932.png",
     "Pasted image 20240918100847.png",
     "Pasted image 20240918100747.png",
-    "Linux/Untitled.md",
     "Linux/Linux Shell Overview.md",
     "C++/Untitled.md",
     "Pasted image 20240917171520.png",
@@ -205,7 +193,6 @@
     "Cybersecurity I/Lab Self Notes 1.md",
     "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
     "Networking II/Labs Self-Notes 3.md",
-    "Cybersecurity I/Security Protocols.md",
     "System Analysis and Design",
     "Networking II",
     "Languages/Mandarin",

@@ -1,0 +1,22 @@
+
+- Linux text editor is called vi
+	- Introduced in 1976 and is the most widely used
+	- used by typing vi (name of txt document.txt)
+	- Opens up a blank screen, and a mode must be selected
+
+- vi modes
+	- Insert - allows you to edit text, add text, etc...
+		- Press insert key or I, O, S, or A to enter insert mode
+	- Replace - allows you to replace text
+		- In insert mode, pressing the insert key will switch you between insert and replace mode
+		- Not a commonly used mode
+		- R key 
+	- Command - utilizes vi specific commands (cut, copy, paste)
+		- Command mode is selected by default
+		- There are several commands to manipulate the file
+		- /(text_to_find)
+		- 
+	- Command-line 
+		- Must be in command mode, and press the : (colon) key to enter command-line mode
+		- :w (filename) to save, :q to leave vi mode, :q! to quit and override changes, :w!, 
+		- Can also overlap commands :wq to save and quit
