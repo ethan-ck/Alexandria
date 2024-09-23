@@ -15,4 +15,7 @@
 	- HOSTNAME
 	- PWD
 		- Current working directory
-		- 
+
+- To view the variable, you type ECHO $(variable_name)
+
+- 
