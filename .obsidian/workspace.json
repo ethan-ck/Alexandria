@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principles of Management/SWOT Analysis (Bonus).md",
+                "file": "Principles of Management/Chapter 6 - Strategic Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Principles of Management/SWOT Analysis (Bonus).md",
+                "file": "Principles of Management/Chapter 6 - Strategic Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Principles of Management/SWOT Analysis (Bonus).md"
+                "file": "Principles of Management/Chapter 6 - Strategic Management.md"
               }
             }
           }
@@ -167,10 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94e4519cf96e751e",
+  "active": "e04290eed0e69f26",
   "lastOpenFiles": [
-    "Principles of Management/Chapter 6 - Strategic Management.md",
     "Principles of Management/SWOT Analysis (Bonus).md",
+    "Principles of Management/Chapter 6 - Strategic Management.md",
     "System Analysis and Design/Chapter 4 - Requirements Engineering.md",
     "System Analysis and Design/Chapter  3 - Managing Systems Projects.md",
     "System Analysis and Design/Chapter 1 - Introduction.md",
