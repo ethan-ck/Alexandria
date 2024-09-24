@@ -77,5 +77,35 @@ Joint Application Development (JAD)
 	- Scrum sessions
 		- Rugby - specific guidelines emphasize time blocks, interaction and team based activities 
 
-- 
+- Keep note taking to a minimum (test question)
+
+
+- Sampling 
+	- Systematic 
+		- Selection of every x customer for review
+		- Stratified 
+			- Selection of x customers from each x postal codes
+		- Random Sample
+			- selection of any x
+		- Objective of a sample 
+			- Ensures it represents the overall population accurately 
+
+- Agile Projects Requirements Gathering 
+	- listen to user stories and feedback
+
+
+- Document stuff
+
+
+- Natural Language 
+	- Unstructured natural language
+		- Ex. How does gravity work?
+
+
+- FDP 
+	- Like an organization chart, but from a top-down perspective
+	- It's a way to list the different systems or roles
+
+
+
 
