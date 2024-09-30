@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49c924a3aa37a09a",
+            "id": "c4d7857455cd26b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Principles of Management/Chapter 7 - Individual and Group Decision Making.md",
+                "file": "Cybersecurity I/Presentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principles of Management/Chapter 7 - Individual and Group Decision Making.md",
+                "file": "Cybersecurity I/Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Principles of Management/Chapter 7 - Individual and Group Decision Making.md",
+                "file": "Cybersecurity I/Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Principles of Management/Chapter 7 - Individual and Group Decision Making.md"
+                "file": "Cybersecurity I/Presentation.md"
               }
             }
           }
@@ -154,17 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49c924a3aa37a09a",
+  "active": "c4d7857455cd26b8",
   "lastOpenFiles": [
-    "Principles of Management/Chapter 6 - Strategic Management.md",
+    "Cybersecurity I/Network Threats.md",
+    "Cybersecurity I/Lab Self Notes 3.md",
     "Principles of Management/Chapter 7 - Individual and Group Decision Making.md",
+    "Principles of Management/Chapter 6 - Strategic Management.md",
     "Principles of Management/SWOT Analysis (Bonus).md",
     "System Analysis and Design/Chapter 4 - Requirements Engineering.md",
     "System Analysis and Design/Chapter  3 - Managing Systems Projects.md",
     "System Analysis and Design/Chapter 1 - Introduction.md",
     "System Analysis and Design/Systems Development.md",
     "Cybersecurity I/Untitled.md",
-    "Cybersecurity I/Lab Self Notes 3.md",
     "Linux/Shell Variables.md",
     "Linux/Aliases.md",
     "Linux/Text Editors.md",
@@ -192,7 +193,6 @@
     "Networking II/Look-Up Tables (Again).md",
     "Untitled",
     "Cybersecurity I/Presentation.md",
-    "Cybersecurity I/Identity and Crisis Management.md",
     "System Analysis and Design",
     "Networking II",
     "Languages/Mandarin",
