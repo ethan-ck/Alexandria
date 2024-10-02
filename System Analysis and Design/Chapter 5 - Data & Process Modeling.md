@@ -15,3 +15,22 @@
 	- 
 
 - Six guidelines 
+
+- Data Flow Diagram Symbol
+	- Rounded Rectangle - Process
+	- Data Flow - Line with an Arrow
+	- Data Storage - Flat Rectangle open on the right
+	- Eternal Entity - Shadow Box
+
+- Process Symbols
+	- Receives input, produces output
+	- Business logic that transforms the data 
+	- In DFDs a process symbol can be referred to as a black box
+
+- Incorrect Data Flow
+	- Black Hole (Input with no Output)
+	- Spontaneous Generation (Output with no Input)
+	- Gray hole (Input and Output have no relation.
+		- Ex. Input: Birth Date Output: Total Hours Worked)
+
+- 
