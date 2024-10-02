@@ -24,4 +24,8 @@
 - Active Reconnaissance
 	- Seeking ports, topology, protocols, scanning, etc...
 
-- 
+- VLAN
+	- Divides physical switches into smaller virtual switches
+	- Saves money (not buying a ton of switches)
+	- Example. 16 switches on a switch = 4 for accounting, 4 for development, etc...
+	- 
