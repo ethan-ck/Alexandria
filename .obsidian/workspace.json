@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ae347f0b02aa1db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System Analysis and Design/Chapter 4 - Requirements Engineering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "327da917ce877bb0",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
