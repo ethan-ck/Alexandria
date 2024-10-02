@@ -28,4 +28,13 @@
 	- Divides physical switches into smaller virtual switches
 	- Saves money (not buying a ton of switches)
 	- Example. 16 switches on a switch = 4 for accounting, 4 for development, etc...
-	- 
+	- Can be reassigned easily via software
+	- Trunk ports
+		- Allow same VLANs to communicate with an outer router
+		- Trunk ports are connected physically on two switches 
+		- Must be configured
+
+- SCADA Supervisor Control or ICS
+	- For manufacturing plants
+
+- 
