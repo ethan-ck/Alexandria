@@ -7,4 +7,4 @@
 	- Man in the middle attacks
 	- Session hijacking, server and client do not know, man in the middle cuts off connection without the server or client knowing 
 	- On-Path Attack
-	- 
+
