@@ -48,4 +48,19 @@
 		- Common stuff
 
 - Principle of Least Privilege
-	- Give users the bare minimum that they require to do 
+	- Give users the bare minimum that they require to do their job
+
+- National Institute of Standards and Technologies
+	- Keeps a national database
+
+- Peer to Peer (P2P)
+	- Share content without centralized servers
+
+- Traditional
+	- Server to many clients 
+
+- Data exfiltration
+	- Data leaking
+
+- Switch Security and Attacks
+	- 
