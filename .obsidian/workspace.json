@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Analysis and Design/Chapter 5 - Data & Process Modeling.md",
+                "file": "Cybersecurity I/Presentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Analysis and Design/Chapter 5 - Data & Process Modeling.md",
+                "file": "Cybersecurity I/Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Analysis and Design/Chapter 5 - Data & Process Modeling.md",
+                "file": "Cybersecurity I/Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Analysis and Design/Chapter 5 - Data & Process Modeling.md"
+                "file": "Cybersecurity I/Presentation.md"
               }
             }
           }
@@ -156,11 +156,14 @@
   },
   "active": "327da917ce877bb0",
   "lastOpenFiles": [
-    "System Analysis and Design/Chapter 4 - Requirements Engineering.md",
-    "System Analysis and Design/Chapter 5 - Data & Process Modeling.md",
-    "System Analysis and Design/Chapter  3 - Managing Systems Projects.md",
     "Cybersecurity I/Network Access Control.md",
     "Cybersecurity I/Network Threats.md",
+    "Cybersecurity I/Biometrics.md",
+    "Cybersecurity I/Security Protocols.md",
+    "Cybersecurity I/Untitled.md",
+    "System Analysis and Design/Chapter 5 - Data & Process Modeling.md",
+    "System Analysis and Design/Chapter 4 - Requirements Engineering.md",
+    "System Analysis and Design/Chapter  3 - Managing Systems Projects.md",
     "Cybersecurity I/Presentation.md",
     "Cybersecurity I/Lab Self Notes 3.md",
     "Principles of Management/Chapter 7 - Individual and Group Decision Making.md",
@@ -168,7 +171,6 @@
     "Principles of Management/SWOT Analysis (Bonus).md",
     "System Analysis and Design/Chapter 1 - Introduction.md",
     "System Analysis and Design/Systems Development.md",
-    "Cybersecurity I/Untitled.md",
     "Linux/Shell Variables.md",
     "Linux/Aliases.md",
     "Linux/Text Editors.md",
@@ -185,8 +187,6 @@
     "Pasted image 20240918100932.png",
     "Pasted image 20240918100847.png",
     "Pasted image 20240918100747.png",
-    "Linux/Linux Shell Overview.md",
-    "C++/Untitled.md",
     "Pasted image 20240917171520.png",
     "Pasted image 20240917171422.png",
     "Pasted image 20240917171335.png",
