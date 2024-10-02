@@ -18,9 +18,14 @@
 
 - Data Flow Diagram Symbol
 	- Rounded Rectangle - Process
+		- An action that is being taken in a diagram
 	- Data Flow - Line with an Arrow
+		- How the data moves within a diagram
 	- Data Storage - Flat Rectangle open on the right
+		- A Database table
 	- Eternal Entity - Shadow Box
+		- Shows how the system interfaces with the outside world, also called a terminator 
+		- Must go through a process 
 
 - Process Symbols
 	- Receives input, produces output
