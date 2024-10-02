@@ -63,4 +63,10 @@
 	- Data leaking
 
 - Switch Security and Attacks
-	- 
+	- VLANs
+	- MAC filtering
+	- Port authentication
+	- ARP inspection
+	- DHCP snooping
+
+- 
