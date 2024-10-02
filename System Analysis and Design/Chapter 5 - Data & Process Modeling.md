@@ -12,7 +12,9 @@
 		- How the system will be constructed
 
 - Four basic Design Flow Patterns
-	- 
+	- Context Diagram
+	- Diagram 0
+	- Lower-Level DFD
 
 - Six guidelines 
 
@@ -38,4 +40,5 @@
 	- Gray hole (Input and Output have no relation.
 		- Ex. Input: Birth Date Output: Total Hours Worked)
 
-- 
+- Data Store
+	- 
