@@ -9,7 +9,6 @@
 - Mantrap
 	- Access control Vestibule
 
-
 - Entry points + Endpoints + Attack Surface
 
 - Baseline is normal
@@ -17,5 +16,12 @@
 - Network Segmentation
 	- Split up the network to subnets for harder access for malicious actors
 	- VLANs split up the network 
+
+- Passive Reconnaissance
+	- Not intruding, just gathering information
+	- Can be anyone
+
+- Active Reconnaissance
+	- Seeking ports, topology, protocols, scanning, etc...
 
 - 
