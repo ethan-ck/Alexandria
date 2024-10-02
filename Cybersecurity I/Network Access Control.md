@@ -37,4 +37,15 @@
 - SCADA Supervisor Control or ICS
 	- For manufacturing plants
 
-- 
+- Network Device Vulnerabilities 
+	- Privilege Escalation
+		- Get permissions beyond what you normally have
+	- Backdoor
+		- Trojans
+	- Zero-Day-Vulnerability
+		- A vulnerability that is unknown to the vendor the day the software releases
+	- CVEs
+		- Common stuff
+
+- Principle of Least Privilege
+	- Give users the bare minimum that they require to do 
