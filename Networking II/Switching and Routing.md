@@ -24,5 +24,14 @@
 	- Crossover
 	- Rollover 
 		- For console ports
+		- Flat
+
+# Basic Switch Config
+
+- GUI and CLI 
+	- Trunk ports
+	- Access ports
+	- Auto-MDIX
+		- Switch Port will automatically detect and configure itself to whatever device is connected to the port, used so you do not have to have a rollover cable
 
 - 
