@@ -30,8 +30,17 @@
 
 - GUI and CLI 
 	- Trunk ports
+		- Can talk with the same computer groups (ex. sales) in two separate VLANs without going out to a router
+		- Trunk ports are always tagged
 	- Access ports
+		- Normal switch ports
+		- untagged
 	- Auto-MDIX
 		- Switch Port will automatically detect and configure itself to whatever device is connected to the port, used so you do not have to have a rollover cable
 
-- 
+- 802.1q VLAN Tags
+	- Tagged in the header
+	- Can configure default VLANs
+	- Default is a native VLAN
+	- Links untagged packets to native VLAN
+	- 
