@@ -22,9 +22,12 @@
 
 - Review cables
 	- Crossover
+		- Like devices
 	- Rollover 
 		- For console ports
 		- Flat
+	- Straight-through
+		- unlike devices
 
 # Basic Switch Config
 
@@ -43,4 +46,15 @@
 	- Can configure default VLANs
 	- Default is a native VLAN
 	- Links untagged packets to native VLAN
-	- 
+
+- CSMA/CD
+	- For BUs networks
+	- senses if channel is in use
+	- Sends a jam signal
+	- collision avoidance
+
+## Switch Ports
+
+- Runt is smaller than <50 bytes
+- Giant or Jumbo frames are  50 (65) -1500 bytes
+- 
