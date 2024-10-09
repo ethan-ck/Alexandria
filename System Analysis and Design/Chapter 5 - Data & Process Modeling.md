@@ -49,12 +49,14 @@
 - Logical Control Structures
 	- Structured English 
 		- Sequencing, one after the other
+		- Putting logic in generic terms
+		- Sort of like Pseudocode
 	- Selection
 		- Branching
 	- Iteration 
 		- Looping 
 	- Procedure Call
 		- Function or method calls
-		- IsThisAFunction()
+		- ThisISAnExample()
 
 - 
