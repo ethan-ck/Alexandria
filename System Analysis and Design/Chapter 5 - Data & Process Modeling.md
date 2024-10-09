@@ -42,4 +42,8 @@
 
 - Data Dictionary
 	- A central storehouse of information about a system's data.
-	- 
+
+- CASE Tools
+	- Software that allows you to document data elements for consistency
+
+- 
