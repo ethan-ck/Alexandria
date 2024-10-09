@@ -57,4 +57,6 @@
 
 - Runt is smaller than <50 bytes
 - Giant or Jumbo frames are  50 (65) -1500 bytes
+
+
 - 
