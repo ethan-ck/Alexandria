@@ -46,4 +46,15 @@
 - CASE Tools
 	- Software that allows you to document data elements for consistency
 
+- Logical Control Structures
+	- Structured English 
+		- Sequencing, one after the other
+	- Selection
+		- Branching
+	- Iteration 
+		- Looping 
+	- Procedure Call
+		- Function or method calls
+		- IsThisAFunction()
+
 - 
