@@ -40,5 +40,6 @@
 	- Gray hole (Input and Output have no relation.
 		- Ex. Input: Birth Date Output: Total Hours Worked)
 
-- Data Store
+- Data Dictionary
+	- A central storehouse of information about a system's data.
 	- 
