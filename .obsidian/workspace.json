@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "System Analysis and Design/Chapter 6 - Object-Orientated Programming.md",
+                "file": "Linux/Text Editors.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System Analysis and Design/Chapter 6 - Object-Orientated Programming.md",
+                "file": "Linux/Text Editors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System Analysis and Design/Chapter 6 - Object-Orientated Programming.md",
+                "file": "Linux/Text Editors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System Analysis and Design/Chapter 6 - Object-Orientated Programming.md"
+                "file": "Linux/Text Editors.md"
               }
             }
           }
@@ -169,8 +169,14 @@
   },
   "active": "43327f1a657922ef",
   "lastOpenFiles": [
-    "System Analysis and Design/Chapter 5 - Data & Process Modeling.md",
+    "Linux/Aliases.md",
+    "Linux/Shell Variables.md",
+    "Linux/Linux Shell Overview.md",
+    "Linux/Untitled.md",
+    "Linux/Linux Introduction.md",
+    "Linux/Text Editors.md",
     "System Analysis and Design/Chapter 6 - Object-Orientated Programming.md",
+    "System Analysis and Design/Chapter 5 - Data & Process Modeling.md",
     "Untitled 1",
     "Networking II/Switching and Routing.md",
     "Networking II/Firewalls and Intrusion Detection.md",
@@ -188,14 +194,8 @@
     "Principles of Management/SWOT Analysis (Bonus).md",
     "System Analysis and Design/Chapter 1 - Introduction.md",
     "System Analysis and Design/Systems Development.md",
-    "Linux/Shell Variables.md",
-    "Linux/Aliases.md",
-    "Linux/Text Editors.md",
-    "Linux/Untitled.md",
     "Principles of Management/The Art of Management.md",
     "System Analysis and Design/Group Project.md",
-    "Principles of Management/Chapter 5 - PLOC.md",
-    "System Analysis and Design/SDLC 5 Phases.md",
     "Pasted image 20240918101124.png",
     "Pasted image 20240918101055.png",
     "Pasted image 20240918100932.png",
