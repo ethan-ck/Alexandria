@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Text Editors.md",
+                "file": "Linux/Shell Variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "168dd466d39c163c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/User accounts and stuff.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Text Editors.md",
+                "file": "Linux/User accounts and stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Text Editors.md",
+                "file": "Linux/User accounts and stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Text Editors.md"
+                "file": "Linux/User accounts and stuff.md"
               }
             }
           }
@@ -167,14 +179,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43327f1a657922ef",
+  "active": "168dd466d39c163c",
   "lastOpenFiles": [
-    "Linux/Aliases.md",
     "Linux/Shell Variables.md",
+    "Linux/User accounts and stuff.md",
+    "Linux/Text Editors.md",
+    "Linux/Aliases.md",
     "Linux/Linux Shell Overview.md",
     "Linux/Untitled.md",
     "Linux/Linux Introduction.md",
-    "Linux/Text Editors.md",
     "System Analysis and Design/Chapter 6 - Object-Orientated Programming.md",
     "System Analysis and Design/Chapter 5 - Data & Process Modeling.md",
     "Untitled 1",
@@ -195,7 +208,6 @@
     "System Analysis and Design/Chapter 1 - Introduction.md",
     "System Analysis and Design/Systems Development.md",
     "Principles of Management/The Art of Management.md",
-    "System Analysis and Design/Group Project.md",
     "Pasted image 20240918101124.png",
     "Pasted image 20240918101055.png",
     "Pasted image 20240918100932.png",
