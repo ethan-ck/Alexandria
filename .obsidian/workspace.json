@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC4A & CTC Presentation.md",
+                "file": "Biology/Biotechnology.md",
                 "mode": "source",
                 "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PC4A & CTC Presentation"
+              }
+            }
+          },
+          {
+            "id": "1409a612a7dcca4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/Finished 1 lab.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,9 +52,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              }
             }
           },
           {
@@ -58,9 +67,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -68,9 +75,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -93,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC4A & CTC Presentation.md",
+                "file": "Biology/Finished 1 lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +106,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for PC4A & CTC Presentation"
+              }
             }
           },
           {
@@ -112,12 +115,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC4A & CTC Presentation.md",
+                "file": "Biology/Finished 1 lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from PC4A & CTC Presentation"
+              }
             }
           },
           {
@@ -128,9 +129,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
@@ -139,10 +138,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC4A & CTC Presentation.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of PC4A & CTC Presentation"
+                "file": "Biology/Finished 1 lab.md"
+              }
             }
           }
         ]
@@ -170,8 +167,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4ad5a66af61dda5",
+  "active": "1409a612a7dcca4a",
   "lastOpenFiles": [
+    "Pasted image 20241130092512.png",
+    "Pasted image 20241130092458.png",
+    "Pasted image 20241130092445.png",
+    "Pasted image 20241130092431.png",
+    "Pasted image 20241130092408.png",
+    "Pasted image 20241130092350.png",
+    "Pasted image 20241130092334.png",
+    "Pasted image 20241130092320.png",
+    "Pasted image 20241130092300.png",
+    "Pasted image 20241130092228.png",
+    "Pasted image 20241130091942.png",
+    "Biology/Biotechnology.md",
+    "Biology/Finished 1 lab.md",
+    "Biology/The Dynamic Cell.md",
     "PC4A & CTC Presentation.md",
     "Linux/Shell Variables.md",
     "Linux/User accounts and stuff.md",
@@ -195,20 +206,6 @@
     "System Analysis and Design/Chapter  3 - Managing Systems Projects.md",
     "Cybersecurity I/Lab Self Notes 3.md",
     "Principles of Management/Chapter 7 - Individual and Group Decision Making.md",
-    "Principles of Management/Chapter 6 - Strategic Management.md",
-    "Principles of Management/SWOT Analysis (Bonus).md",
-    "System Analysis and Design/Chapter 1 - Introduction.md",
-    "System Analysis and Design/Systems Development.md",
-    "Pasted image 20240918101124.png",
-    "Pasted image 20240918101055.png",
-    "Pasted image 20240918100932.png",
-    "Pasted image 20240918100847.png",
-    "Pasted image 20240918100747.png",
-    "Pasted image 20240917171520.png",
-    "Pasted image 20240917171422.png",
-    "Pasted image 20240917171335.png",
-    "Pasted image 20240917171235.png",
-    "Pasted image 20240917171124.png",
     "Untitled",
     "System Analysis and Design",
     "Networking II",
