@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "866e4f89ca014f59",
+            "id": "2dba2cd18bd94083",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/T2.md",
+                "file": "Biology/T0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T2"
+              "title": "T0"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -170,23 +171,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "866e4f89ca014f59",
+  "active": "2dba2cd18bd94083",
   "lastOpenFiles": [
-    "Pasted image 20250208133751.png",
-    "Pasted image 20250208133747.png",
-    "Pasted image 20250208133739.png",
-    "Pasted image 20250208133705.png",
-    "Pasted image 20250208133541.png",
-    "Pasted image 20250208133201.png",
-    "Pasted image 20250208133141.png",
-    "Pasted image 20250208133007.png",
-    "Pasted image 20250208132720.png",
-    "Pasted image 20250208132632.png",
-    "Pasted image 20250208132530.png",
-    "Biology/f.md",
-    "Biology/T2.md",
-    "Biology/5 Labs finished.md",
+    "Pasted image 20250208173309.png",
+    "Pasted image 20250208173036.png",
+    "Pasted image 20250208153915.png",
+    "Pasted image 20250208153816.png",
+    "Pasted image 20250208153648.png",
+    "Pasted image 20250208153620.png",
+    "Pasted image 20250208153611.png",
+    "Pasted image 20250208153110.png",
+    "Pasted image 20250208153049.png",
+    "Pasted image 20250208153028.png",
     "Biology/Biotechnology.md",
+    "Biology/T0.md",
+    "Biology/T4.md",
+    "Pasted image 20250208133751.png",
+    "Biology/f.md",
+    "Biology/5 Labs finished.md",
     "Biology/Finished 4 labs.md",
     "Biology/The Dynamic Cell.md",
     "PC4A & CTC Presentation.md",
@@ -208,7 +210,6 @@
     "Cybersecurity I/Biometrics.md",
     "Cybersecurity I/Security Protocols.md",
     "Cybersecurity I/Untitled.md",
-    "System Analysis and Design/Chapter 4 - Requirements Engineering.md",
     "Untitled",
     "System Analysis and Design",
     "Networking II",
