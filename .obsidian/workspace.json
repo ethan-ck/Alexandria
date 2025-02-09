@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/T1.md",
+                "file": "Biology/Biotechnology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T1"
+              "title": "Biotechnology"
+            }
+          },
+          {
+            "id": "6daea37b3c7c31fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Biology/t4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "t4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,22 +186,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dba2cd18bd94083",
+  "active": "6daea37b3c7c31fb",
   "lastOpenFiles": [
-    "Pasted image 20250208192249.png",
+    "Pasted image 20250208203054.png",
+    "Pasted image 20250208202952.png",
+    "Pasted image 20250208202844.png",
+    "Pasted image 20250208202812.png",
+    "Pasted image 20250208201927.png",
+    "Pasted image 20250208201518.png",
+    "Biology/Biotechnology.md",
+    "Biology/t4.md",
+    "Untitled 2",
     "Screenshot 2024-08-28 191855.png",
-    "Biology/T1.md",
+    "Biology/T4.md",
+    "Pasted image 20250208192411.png",
+    "Pasted image 20250208192249.png",
     "Pasted image 20250208173309.png",
     "Pasted image 20250208173036.png",
-    "Pasted image 20250208153915.png",
-    "Pasted image 20250208153816.png",
-    "Pasted image 20250208153648.png",
-    "Pasted image 20250208153620.png",
-    "Pasted image 20250208153611.png",
-    "Pasted image 20250208153110.png",
-    "Pasted image 20250208153049.png",
-    "Biology/Biotechnology.md",
-    "Biology/T4.md",
     "Biology/f.md",
     "Biology/5 Labs finished.md",
     "Biology/Finished 4 labs.md",
@@ -217,7 +233,6 @@
     "Languages/Russian",
     "Languages",
     "Cybersecurity I",
-    "C++",
-    "Principles of Management"
+    "C++"
   ]
 }
