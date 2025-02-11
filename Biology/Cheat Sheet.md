@@ -1,23 +1,33 @@
-![[Pasted image 20250210204518.png]]
-
-![[Pasted image 20250210204537.png]]
-
-![[Pasted image 20250210204620.png]]
-
-![[Pasted image 20250210204628.png]]
-
-![[Pasted image 20250210204635.png]]
-
-![[Pasted image 20250210204750.png]]
-
-![[Pasted image 20250210204759.png]]
-
-![[Pasted image 20250210204809.png]]
-
-![[Pasted image 20250210204818.png]]
-
-![[Pasted image 20250210211147.png]]
+![[Pasted image 20250210222003.png]]
 
 
-![[Pasted image 20250210211133.png]]
+
+![[Pasted image 20250210222438.png]]
+
+![[Pasted image 20250210222619.png]]
+
+![[Pasted image 20250210223004.png]]
+
+![[Pasted image 20250210223030.png]]
+
+![[Pasted image 20250210223706.png]]
+
+![[Pasted image 20250210223809.png]]
+
+
+
+![[Pasted image 20250210224912.png]]
+
+
+![[Pasted image 20250210230252.png]]
+
+![[Pasted image 20250210230333.png]]
+
+![[Pasted image 20250210230436.png]]
+
+![[Pasted image 20250210230543.png]]
+
+![[Pasted image 20250210230734.png]]
+
+![[Pasted image 20250210230805.png]]
 
