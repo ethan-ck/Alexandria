@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Cheat Sheet T0.md",
+                "file": "Biology/Cheat Sheet T3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheat Sheet T0"
+              "title": "Cheat Sheet T3"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 472.50152587890625
+    "width": 200
   },
   "right": {
     "id": "4cbce09935e5034f",
@@ -185,7 +185,7 @@
     "Pasted image 20250425184106.png",
     "Pasted image 20250425184032.png",
     "Biology/The Dynamic Cell.md",
-    "Biology/Cheat Sheet T0.md",
+    "Biology/Cheat Sheet T3.md",
     "Biology/DNA.md",
     "Biology/Biotechnology.md",
     "Biology/Cheat Sheet T4.md",
