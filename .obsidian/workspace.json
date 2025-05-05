@@ -4,41 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "361b5459e1e2fa5a",
+        "id": "10543848d7a61843",
         "type": "tabs",
         "children": [
           {
-            "id": "1f452ff4c3820498",
+            "id": "8793dabf2c93f669",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Biology/Biotechnology.md",
-                "mode": "source",
-                "source": false
+                "file": "Screenshot 2024-08-28 211516.png"
               },
-              "icon": "lucide-file",
-              "title": "Biotechnology"
-            }
-          },
-          {
-            "id": "b92da2b3e266b981",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Biology/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-image",
+              "title": "Screenshot 2024-08-28 211516"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4cbce09935e5034f",
@@ -209,47 +189,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b92da2b3e266b981",
+  "active": "8793dabf2c93f669",
   "lastOpenFiles": [
-    "Biology/Cheat Sheet T4.md",
-    "Biology/Untitled Kanban.md",
-    "Pasted image 20250426072223.png",
-    "Pasted image 20250426071726.png",
-    "Pasted image 20250426071658.png",
-    "Pasted image 20250426071631.png",
-    "Pasted image 20250426071337.png",
-    "Pasted image 20250426071308.png",
-    "Pasted image 20250426071233.png",
-    "Pasted image 20250426071146.png",
-    "Pasted image 20250426070432.png",
-    "Pasted image 20250426070406.png",
-    "Untitled 4/desktop.ini",
-    "Biology/Biotechnology.md",
-    "Untitled 4",
-    "Biology/Untitled Kanban 1.md",
-    "Biology/The Dynamic Cell.md",
-    "Biology/DNA.md",
-    "Untitled 3",
-    "Biology/t4.md",
-    "Untitled 2",
-    "Biology/T4.md",
-    "Biology/f.md",
-    "Biology/5 Labs finished.md",
-    "Biology/Finished 4 labs.md",
+    "Screenshot 2024-08-31 172206.png",
+    "Screenshot 2024-09-04 135008.png",
+    "exampl;e.png",
+    "Biology/Cheat Sheet T3.md",
+    "Hierarchical-Database-Model-example.png",
+    "Pasted image 20240724075513.png",
+    "Screenshot 2024-08-28 191855.png",
+    "00 - Landing Page.md",
+    "download.png",
+    "download.jpg",
+    "large-Hierarchical-Databases-v2-1.jpg",
+    "download (1).png",
+    "Screenshot 2024-09-07 141131.png",
     "PC4A & CTC Presentation.md",
-    "Linux/Shell Variables.md",
-    "Linux/User accounts and stuff.md",
-    "Linux/Text Editors.md",
-    "Linux/Aliases.md",
-    "Linux/Linux Shell Overview.md",
-    "Linux/Untitled.md",
-    "Linux/Linux Introduction.md",
-    "System Analysis and Design/Chapter 6 - Object-Orientated Programming.md",
-    "System Analysis and Design/Chapter 5 - Data & Process Modeling.md",
+    "System Analysis and Design/Chapter 1 - Introduction.md",
+    "System Analysis and Design/Chapter 2 - Analyzing the Business Case.md",
+    "System Analysis and Design/SDLC 5 Phases.md",
+    "Principles of Management/Chapter 5 - PLOC.md",
+    "Principles of Management/SWOT Analysis (Bonus).md",
+    "Principles of Management/Chapter 7 - Individual and Group Decision Making.md",
+    "Principles of Management/Bonus 2 Notes.md",
+    "Principles of Management/Bonus 1 Notes.md",
+    "Principles of Management/Exam 1 Notes.md",
+    "Principles of Management/Chapter 4.md",
+    "Principles of Management/Chapter 3.md",
+    "Principles of Management/Chapter 2 -.md",
+    "PC  Hardware Management/Network Cables.md",
+    "PC  Hardware Management/Cases and Motherboards.md",
+    "PC  Hardware Management/Memory.md",
+    "PC  Hardware Management/Storage.md",
+    "PC  Hardware Management/Storage Spaces.md",
+    "PC  Hardware Management/Untitled.md",
+    "Networking II/Major Networking Identifiers (Again).md",
+    "Networking II/Ports (Again).md",
+    "Networking II/Look-Up Tables (Again).md",
+    "Networking II/Troubleshooting Labs Review.md",
+    "Untitled 4/desktop.ini",
+    "Untitled 4",
+    "Untitled 3",
+    "Untitled 2",
     "Untitled 1",
-    "Networking II/Switching and Routing.md",
-    "Networking II/Firewalls and Intrusion Detection.md",
-    "Cybersecurity I/Presentation.md",
     "Untitled",
     "System Analysis and Design",
     "Networking II",
