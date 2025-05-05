@@ -13,15 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biology/Cheat Sheet T4.md",
+                "file": "Biology/Biotechnology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheat Sheet T4"
+              "title": "Biotechnology"
+            }
+          },
+          {
+            "id": "b92da2b3e266b981",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Biology/Untitled Kanban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Untitled Kanban"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,13 +163,33 @@
               "icon": "lucide-list",
               "title": "Outline of 5 Labs finished"
             }
+          },
+          {
+            "id": "f3e7333e7af1d301",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "bff059170e4bc136",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,26 +209,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f452ff4c3820498",
+  "active": "b92da2b3e266b981",
   "lastOpenFiles": [
-    "Pasted image 20250425184459.png",
-    "Pasted image 20250425184434.png",
-    "Pasted image 20250425184415.png",
-    "Pasted image 20250425184346.png",
-    "Pasted image 20250425184319.png",
-    "Pasted image 20250425184256.png",
-    "Pasted image 20250425184236.png",
-    "Pasted image 20250425184212.png",
-    "Pasted image 20250425184130.png",
-    "Pasted image 20250425184106.png",
-    "Pasted image 20250425184032.png",
-    "Biology/The Dynamic Cell.md",
     "Biology/Cheat Sheet T4.md",
-    "Biology/DNA.md",
+    "Biology/Untitled Kanban.md",
+    "Pasted image 20250426072223.png",
+    "Pasted image 20250426071726.png",
+    "Pasted image 20250426071658.png",
+    "Pasted image 20250426071631.png",
+    "Pasted image 20250426071337.png",
+    "Pasted image 20250426071308.png",
+    "Pasted image 20250426071233.png",
+    "Pasted image 20250426071146.png",
+    "Pasted image 20250426070432.png",
+    "Pasted image 20250426070406.png",
+    "Untitled 4/desktop.ini",
     "Biology/Biotechnology.md",
-    "Biology/Cheat Sheet T4.md",
+    "Untitled 4",
+    "Biology/Untitled Kanban 1.md",
+    "Biology/The Dynamic Cell.md",
+    "Biology/DNA.md",
     "Untitled 3",
-    "Biology/Cheat Sheet T4.md",
     "Biology/t4.md",
     "Untitled 2",
     "Biology/T4.md",
@@ -212,13 +250,10 @@
     "Networking II/Switching and Routing.md",
     "Networking II/Firewalls and Intrusion Detection.md",
     "Cybersecurity I/Presentation.md",
-    "Cybersecurity I/Network Access Control.md",
     "Untitled",
     "System Analysis and Design",
     "Networking II",
     "Languages/Mandarin",
-    "Languages/Russian",
-    "Languages",
-    "Cybersecurity I"
+    "Languages/Russian"
   ]
 }
